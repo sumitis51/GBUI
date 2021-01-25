@@ -1,0 +1,87 @@
+.HomePage .mui-container-fluid {
+  background-color: #ffffff;
+  overflow-x: hidden;
+  padding: 4rem 3rem 4rem 3rem;
+  font-family: Nunito;
+  font-Weight: 300;
+  font-stretch: normal;
+  letter-spacing: 0rem;
+  text-align: center;
+}
+.HomePage .mui-container-fluid .insurance {
+  font-size: 2rem;
+  line-height: 0.82;
+  margin: 1.5rem 1.5rem 0 1.5rem;
+  color: #333333;
+  display: inline-block;
+}
+.HomePage .mui-container-fluid .insuranceType {
+  font-size: 16px;
+  color: #808080;
+}
+.HomePage .mui-container-fluid .HomePageRow {
+  margin-top: 5rem;
+}
+.HomePage .mui-container-fluid .HomePageRow .HomePagePic {
+  width: 100%;
+  height: auto;
+}
+.HomePage .mui-container-fluid .HomePageRow .insuranceOption {
+  font-size: 20px;
+  color: #333333;
+  text-align: left;
+}
+.HomePage .mui-container-fluid .HomePageRow .newCarRow {
+  font-size: 14px;
+  color: #808080;
+  text-align: left;
+  margin-top: 1rem;
+}
+.HomePage .mui-container-fluid .HomePageRow .radioControl {
+  margin-top: 1rem;
+}
+.HomePage .mui-container-fluid .HomePageRow .radioControl .MuiFormControlLabel-root-5 {
+  width: 10rem;
+  float: left;
+}
+.HomePage .mui-container-fluid .HomePageRow .MuiInput-root-71 {
+  color: #aaaaaa;
+  font-size: 16px;
+}
+.HomePage .mui-container-fluid .HomePageRow .underText {
+  font-size: 11px;
+  color: #0da176;
+  margin-top: 1rem;
+}
+@media screen and (max-width: 767px) {
+  .HomePage .mui-container-fluid {
+    background-color: #ffffff;
+    overflow-x: hidden;
+    padding: 4rem 0.5rem 4rem 0.5rem;
+  }
+  .HomePage .mui-container-fluid .insurance {
+    font-size: 19px;
+  }
+  .HomePage .mui-container-fluid .insuranceType {
+    font-size: 12px;
+  }
+  .HomePage .mui-container-fluid .HomePageRow {
+    margin-top: 1rem;
+  }
+  .HomePage .mui-container-fluid .HomePageRow .HomePagePic {
+    width: 100%;
+    height: auto;
+  }
+  .HomePage .mui-container-fluid .HomePageRow .insuranceOption {
+    font-size: 15px;
+  }
+  .HomePage .mui-container-fluid .HomePageRow .newCarRow {
+    margin-top: 3rem;
+  }
+  .HomePage .mui-container-fluid .HomePageRow .underText {
+    margin-bottom: 3rem;
+  }
+  .HomePage .mui-container-fluid .HomePageRow .HomePagePic {
+    margin-top: 5rem;
+  }
+}

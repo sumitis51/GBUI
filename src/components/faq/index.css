@@ -1,0 +1,83 @@
+.faq {
+  margin: 10px;
+}
+.faq .mui-container-fluid {
+  font-family: Nunito;
+  text-align: center;
+  overflow-x: hidden;
+  padding: 2rem 4rem 6rem 9rem;
+  background-color: #f4f4f4;
+}
+.faq .mui-container-fluid .frequent {
+  font-size: 32px;
+  color: #000000;
+}
+.faq .mui-container-fluid .search-button {
+  margin-top: 1.5rem;
+}
+.faq .mui-container-fluid .general-info {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  color: #000000;
+  margin: 1rem 0rem;
+}
+.faq .mui-container-fluid .heading {
+  font-family: Nunito;
+  font-size: 20px;
+  text-align: left;
+  color: #000000;
+}
+.faq .mui-container-fluid .Panelcontent {
+  font-family: Nunito;
+  font-size: 16px;
+  text-align: left;
+  color: #333333;
+  margin: 0.5rem 0rem;
+}
+.faq .mui-container-fluid .list {
+  margin: 0.5rem 1rem;
+}
+.faq .mui-container-fluid .sublist {
+  margin: 0.5rem 3.5rem;
+}
+.faq .mui-container-fluid .textField {
+  font-family: Nunito;
+  font-size: 12px;
+  color: rgba(170, 170, 170, 0.54);
+}
+.faq .mui-container-fluid .textField2 {
+  font-family: Nunito;
+  font-size: 12px;
+  color: rgba(170, 170, 170, 0.54);
+}
+@media screen and (max-width: 767px) {
+  .faq {
+    padding: 1rem 0rem;
+    margin: 0px;
+  }
+  .faq .mui-container-fluid {
+    margin: 0rem;
+    padding: 4rem 0rem;
+  }
+  .faq .mui-container-fluid .back-to-quotes {
+    text-align: left;
+    font-size: 12px;
+    color: #000000;
+  }
+  .faq .mui-container-fluid .search-column {
+    padding: 0rem;
+  }
+  .faq .mui-container-fluid .frequent {
+    font-size: 20px;
+  }
+  .faq .mui-container-fluid .general-info {
+    font-size: 16px;
+  }
+  .faq .mui-container-fluid .heading {
+    font-size: 15px;
+  }
+  .faq .mui-container-fluid .Panelcontent {
+    font-size: 14px;
+  }
+}

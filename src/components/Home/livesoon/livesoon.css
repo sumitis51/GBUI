@@ -1,0 +1,116 @@
+.parentDiv .mui-container-fluid {
+  background-color: #ffffff;
+  overflow-x: hidden;
+  padding: 4rem 3rem 0rem 3rem;
+  margin-top: 1rem;
+}
+.parentDiv .mui-container-fluid .mainText {
+  padding: 1rem 1rem 1rem 1rem;
+}
+.parentDiv .mui-container-fluid .mainText .make-a-difference-heading {
+  color: #ea0b4b;
+  text-align: left;
+  text-transform: uppercase;
+}
+.parentDiv .mui-container-fluid .mainText .to-create-an-ecosysytem-heading {
+  color: #333333;
+  text-align: left;
+  margin-top: 1rem;
+  font-weight: 600;
+}
+.parentDiv .mui-container-fluid .mainText .main-content {
+  color: #000000;
+  text-align: left;
+  line-height: 1.89;
+}
+.parentDiv .mui-container-fluid .mainText .no-false-promise-text {
+  color: #000000;
+  text-align: left;
+  font-weight: 600;
+  margin-top: 2rem;
+}
+.parentDiv .home-temp-image .mainPic {
+  width: 100%;
+  height: auto;
+}
+@media screen and (max-width: 992px) {
+  .parentDiv .mui-container-fluid {
+    overflow-x: hidden;
+    padding: 5rem 1rem 0rem 1rem;
+  }
+  .parentDiv .mui-container-fluid .mainText {
+    padding: 1rem 0rem 0rem 2rem;
+  }
+  .parentDiv .mui-container-fluid .mainText .no-false-promise-text {
+    margin: 1rem 0rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .parentDiv .mui-container-fluid {
+    overflow-x: hidden;
+    padding: 4rem 1rem 0rem 1rem;
+  }
+  .parentDiv .mui-container-fluid .mainText {
+    padding: 1rem 1.4rem 0rem 1rem;
+  }
+  .parentDiv .mui-container-fluid .mainText .make-a-difference-heading {
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  .parentDiv .mui-container-fluid .mainText .to-create-an-ecosysytem-heading {
+    text-align: center;
+    font-weight: normal;
+    font-size: 14px;
+  }
+  .parentDiv .mui-container-fluid .mainText .main-content {
+    font-size: 14px;
+    line-height: 1.71;
+  }
+  .parentDiv .mui-container-fluid .mainText .no-false-promise-text {
+    font-size: 14px;
+  }
+  .parentDiv .mui-container-fluid .home-temp-image {
+    margin: 1rem 0rem;
+    text-align: center;
+  }
+  .parentDiv .mui-container-fluid .home-temp-image .mainPic {
+    width: 100%;
+    height: auto;
+  }
+}
+@media screen and (max-width: 543px) {
+  .parentDiv .mui-container-fluid {
+    overflow-x: hidden;
+    padding: 4rem 0rem 0rem 0rem;
+  }
+  .parentDiv .mui-container-fluid .mainText {
+    padding: 1rem 1.4rem 0rem 1rem;
+  }
+  .parentDiv .mui-container-fluid .home-temp-image .mainPic {
+    width: auto;
+    height: auto;
+  }
+}
+@media screen and (max-width: 360px) {
+  .parentDiv .mui-container-fluid {
+    padding: 4rem 0rem 0rem 0rem;
+    overflow-x: hidden;
+  }
+  .parentDiv .mui-container-fluid .mainText {
+    padding: 1rem 1.4rem 0rem 1rem;
+  }
+}
+@media screen and (min-width: 1920px) {
+  .parentDiv .mui-container-fluid {
+    overflow-x: hidden;
+  }
+  .parentDiv .mui-container-fluid .mainText {
+    padding: 2rem 2rem 0rem 2rem;
+  }
+  .parentDiv .mui-container-fluid .home-temp-image .mainPic {
+    width: 100%;
+    height: auto;
+  }
+}

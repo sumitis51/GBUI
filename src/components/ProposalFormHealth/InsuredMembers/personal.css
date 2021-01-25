@@ -1,0 +1,200 @@
+.personal-detail-parent .step-details {
+  font-family: Nunito;
+  font-size: 10px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+  margin: 0;
+}
+
+.personal-detail-parent .step-name {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+  margin: 0px;
+}
+
+.personal-detail-parent .edit {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+  margin: 10px 0px 0px 0px;
+  cursor: pointer;
+}
+
+.personal-detail-parent .address-label {
+  margin-left: 6px;
+  margin-top: 2rem;
+}
+
+.personal-detail-parent .nominee-relation {
+  margin-left: 6px;
+}
+
+.personal-detail-parent .button-next {
+  text-align: center;
+}
+.personal-detail-parent .button-next button:disabled{ background: #ccc}
+.personal-detail-parent .form-personal-details .personal-details-heading {
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #9c0f46;
+  margin: 0;
+}
+
+.personal-detail-parent .form-personal-details .personal-details-heading span.edit-members {
+  font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ea0b4b;
+  cursor: pointer;
+}
+
+.personal-detail-parent .form-personal-details .step-detail-success {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ea0b4b;
+  float: right;
+  margin-top: -20px;
+}
+
+.personal-detail-parent .form-personal-details .tabs-insured-members .tabs-item p.tab-link {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: rgba(0, 0, 0, 0.25);
+  display: inline;
+  margin: 15px 20px;
+  cursor: pointer;
+  text-transform: capitalize;
+}
+
+.personal-detail-parent .form-personal-details .tabs-insured-members .tabs-item p.tab-link:first-child {
+  margin-left: 0px;
+}
+
+.personal-detail-parent .form-personal-details .tabs-insured-members .tabs-item p.active-tab {
+  color: #ea0b4b;
+  border-bottom: 2px solid #ea0b4b;
+}
+
+.personal-detail-parent .personal-show-details .step-detail {
+  font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ea0b4b;
+  margin: 0;
+}
+
+.personal-detail-parent .personal-show-details .personal-heading {
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  margin: 0;
+}
+
+.personal-detail-parent .personal-show-details .edit {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ea0b4b;
+  margin-bottom: 0;
+}
+
+.personal-detail-parent .personal-show-details .key-name {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+}
+
+.personal-detail-parent .personal-show-details .key-value {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+@media screen and (max-width: 767px) {
+  .personal-detail-parent .personal-show-details table {
+    width: 100%;
+  }
+  .personal-detail-parent .personal-show-details table tbody tr td:first-child {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #808080;
+    white-space: nowrap;
+    padding: 4px 0px;
+  }
+  .personal-detail-parent .personal-show-details table tbody tr td:last-child {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #000000;
+  }
+  .personal-detail-parent button {padding:12px 15px; width:100%; margin:15px 0 20px;}
+  
+}
+/*# sourceMappingURL=personal.css.map */

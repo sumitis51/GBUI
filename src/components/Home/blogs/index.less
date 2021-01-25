@@ -1,0 +1,100 @@
+.blog-posts {
+    .blog-container {
+        background-color: #ffffff;
+        overflow: hidden;
+        padding: 2rem 4rem 3rem 4rem;
+        .blog {
+            text-align: center;
+            color: #333333;
+            margin:2rem 0rem 0rem 0rem;
+        }
+        .blog2 {
+            text-align: center;
+            color: #333333;
+            margin:0rem 0rem 2rem 0rem;
+        }
+        .cards-row{
+            padding:0rem 1rem;
+            .card{
+                margin:1rem 12px;
+            }
+        }
+        .card-content {
+            padding:0px 20px 16px 20px;
+            .date-of-post {
+                color: #808080;
+            }
+            .first-heading{
+                color: #4d4d4d;
+                margin:19px 0px 14px 0px;
+                height: 2rem;
+            }
+            .content-body {
+                color: #4d4d4d;
+                margin:14px 0px 16px 0px;
+            }
+        }
+        .card-action-column{
+            padding:0;
+            margin:0;
+        }
+        .see-more-blogs-btn{
+            width: 210px;
+            display: inline-block;
+            margin: 1rem 0rem;
+        }
+        .read-article-button{
+            color: #333333;
+            text-transform: capitalize;
+            font-family: Source Sans Pro;
+            font-size: 16px;
+            margin:20px 18px 20px 18px;
+        }
+    }
+}
+
+
+
+@media screen and (max-width: 992px) {
+    .blog-posts {
+        .blog-container {
+            overflow: hidden;
+            padding: 0rem 0px 3rem 0px;
+            .cards-row{
+                .card{
+                    margin:1rem 0px;
+                }
+            }
+            .read-article-button{
+                margin:20px 15px 20px 15px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .blog-posts {
+        .blog-container {
+            overflow: hidden;
+            padding: 0rem 9px 3rem 9px;
+            .blog {
+                font-size:20px;
+            }
+            .blog2 {
+                font-size:14px;
+                margin:0rem;
+            }
+            .cards-row{
+                padding:0rem;
+                .card{
+                    margin:1rem 0px;
+                }
+            }
+            .card-content {
+                .first-heading{
+                    height: auto;
+                }
+            }
+        }
+    }
+}

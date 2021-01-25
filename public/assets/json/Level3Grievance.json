@@ -1,0 +1,32 @@
+{
+    "en":{
+        "Level3Grievace":"Level 3 - Grievance",
+        "Level3PLeaseFillTheForm":"Please fill the form to submit your grievance to Mr. Subhendu Tripathy.",
+        "Level3InputLabelPolicyNumber":"Policy Number",
+        "Level3InputLabelComplaintReferenceNumber":"Complaint reference Number*",
+        "Level3InCaseYouDoNotHave":"In case you do not have a Service Request/Complaint reference Number,",
+        "Level3ButtonTextSubmit":"Submit",
+        "Level3HeadingAdditionalDetail":"Additional Details",
+        "Level3InputLabelCustomerName":"Customer Name",
+        "Level3InputLabelPhoneNumber":"Phone Number",
+        "Level3InputLabelEmailId":"Email Id",
+        "Level3HeadingFeedbackComplaints":"Feedback/Complaints",
+        "Level3InputCheckboxLabel":"I authorize Groupbima and representatives to call me with reference to my query or request, wherever applicable."
+
+    },
+    "mr":{
+        "Level3Grievace":"स्तर 3 - तक्रार",
+        "Level3PLeaseFillTheForm":"कृपया आपली तक्रार मिस्टरला सादर करण्यासाठी फॉर्म भरून टाका. सुभेंदु त्रिपाठी",
+        "Level3InputLabelPolicyNumber":"धोरण क्रमांक",
+        "Level3InputLabelComplaintReferenceNumber":"तक्रार संदर्भ क्रमांक *",
+        "Level3InCaseYouDoNotHave":"जर आपल्याकडे सेवा विनंती / तक्रार संदर्भ क्रमांक नसेल तर,",
+        "Level3ButtonTextSubmit":"सबमिट करा",
+        "Level3HeadingAdditionalDetail":"अतिरिक्त तपशील",
+        "Level3InputLabelCustomerName":"ग्राहक नाव",
+        "Level3InputLabelPhoneNumber":"फोन नंबर",
+        "Level3InputLabelEmailId":"ईमेल आयडी",
+        "Level3HeadingFeedbackComplaints":"अभिप्राय / तक्रारी",
+        "Level3InputCheckboxLabel":"मी ग्रुपबिमा आणि माझा प्रश्न किंवा विनंती संदर्भात मला कॉल करण्यासाठी प्रतिनिधींना अधिकृत करतो."
+
+    }
+}

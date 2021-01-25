@@ -1,0 +1,146 @@
+.owner-detail-parent .owner-details-heading {
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #9c0f46;
+  margin: 0;
+}
+
+.owner-detail-parent .step-detail-success {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ea0b4b;
+  float: right;
+  margin-top: -20px;
+}
+
+.owner-detail-parent .button-next {
+  text-align: center;
+}
+
+.owner-detail-parent .fixed-width-fn {
+  width: 124px;
+}
+
+.owner-detail-parent .fixed-width-mn {
+  float: right;
+  width: 124px;
+}
+
+.owner-detail-parent .fixed-width-ln {
+  width: 124px;
+  display: block;
+}
+
+.owner-detail-parent .owner_show_details .step-detail {
+  font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ea0b4b;
+  margin: 0;
+}
+
+.owner-detail-parent .owner_show_details .owners-heading {
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  margin: 0;
+}
+
+.owner-detail-parent .owner_show_details .key-name {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+}
+
+.owner-detail-parent .owner_show_details .key-value {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.owner-detail-parent .owner_show_details .edit {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ea0b4b;
+  cursor: pointer;
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .owner-detail-parent .owner_show_details .step-detail {
+    margin-bottom: 0;
+  }
+  .owner-detail-parent .owner_show_details .edit {
+    margin-bottom: 0;
+  }
+  .owner-detail-parent .owner_show_details table {
+    width: 100%;
+  }
+  .owner-detail-parent .owner_show_details table tbody tr td:first-child {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #808080;
+    white-space: nowrap;
+    padding: 4px 0px;
+  }
+  .owner-detail-parent .owner_show_details table tbody tr td:last-child {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #000000;
+  }
+  .salutation-block .salution {margin-bottom: 15px; padding-left:0; padding-right: 0;}
+ .show-form .row_line {padding-left:0; padding-right: 0; margin-left:0!important}
+ .show-form .row_line div {margin-left:0;}
+ .show-form .nationality_row {margin-left:0;}
+ .show-form .tenure_row {margin-left: 0; margin-bottom: 15px;}
+
+}
+/*# sourceMappingURL=owner.css.map */

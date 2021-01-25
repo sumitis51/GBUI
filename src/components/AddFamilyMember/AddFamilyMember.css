@@ -1,0 +1,202 @@
+.addFamily .mui-container-fluid {
+  overflow-x: hidden;
+  padding-top: 10px;
+}
+.addFamily .mui-container-fluid .rightpanel {
+  background-color: #f3f5fb;
+  padding: 0;
+}
+.addFamily .mui-container-fluid .no-member {
+  padding: 0;
+}
+.addFamily .mui-container-fluid .rightcard {
+  padding: 0;
+}
+.addFamily .mui-container-fluid .AddFamilyDetails {
+  text-align: center;
+}
+.addFamily .mui-container-fluid .AddFamilyDetails .YourFamily {
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 600;
+  color: #ea0b4b;
+  padding: 1rem 0rem 5rem 3rem;
+  text-decoration: underline;
+  text-align: left;
+}
+.addFamily .mui-container-fluid .AddFamilyDetails .AddFamilyDetailsPic {
+  display: inline-block;
+  margin: 3rem 0rem 2rem 0rem;
+}
+.addFamily .mui-container-fluid .AddFamilyDetails .NoFamily {
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  color: #000000;
+  margin: 1rem 0rem;
+}
+.addFamily .mui-container-fluid .AddFamilyDetails .AddFamilyYet {
+  font-family: Nunito;
+  font-size: 12px;
+  text-align: center;
+  color: #000000;
+  margin: 1rem 0rem;
+}
+.addFamily .mui-container-fluid .AddFamilyDetails .AddFamilyButton {
+  margin: 2rem 0rem 0rem 0rem;
+  padding-bottom: 10rem;
+  text-align: center;
+}
+.addedFamily .mui-container-fluid {
+  overflow-x: hidden;
+  padding-top: 10px;
+}
+.addedFamily .mui-container-fluid .rightpanel {
+  background-color: #f3f5fb;
+  padding: 0;
+}
+.addedFamily .mui-container-fluid .no-member {
+  padding: 0;
+}
+.addedFamily .mui-container-fluid .rightcard {
+  padding: 0;
+}
+.addedFamily .mui-container-fluid .AddedFamilyDetailsContainer {
+  margin-top: 4rem;
+}
+.addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .AddedFamilyDetails {
+  margin-bottom: 20rem;
+}
+.addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .AddedFamilyDetails .YourFamilyText {
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 600;
+  color: #ea0b4b;
+  text-decoration: underline;
+}
+.addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .AddedFamilyDetails .CardHeadingText {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: 600;
+  color: #ea0b4b;
+  margin-left: 20px;
+}
+.addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .AddedFamilyDetails .InsuranceCovered {
+  font-family: Nunito;
+  font-size: 14px;
+  color: #ea0b4b;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .AddedFamilyDetails .UserName {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: 600;
+  color: #000000;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .AddedFamilyDetails .CardContent {
+  font-family: Nunito;
+  font-size: 14px;
+  color: #000000;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .AddedFamilyDetails .CardContentAge {
+  font-family: Nunito;
+  font-size: 14px;
+  color: #000000;
+  margin-top: 10px;
+  margin-left: 20px;
+  padding-bottom: 1rem;
+}
+.addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .AddedFamilyDetails .AddFamilyButtonRight {
+  margin-top: 1rem;
+  text-align: right;
+}
+.addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .AddedFamilyDetails .AddFamilyButtonLeft {
+  text-align: left;
+}
+.addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .AddedFamilyDetails .GetQuotesButton {
+  margin: 1rem 0rem 1rem 0rem;
+}
+.addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .AddedFamilyDetails .CoveredWithContainer {
+  background-color: #ea0b4b;
+}
+.addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .AddedFamilyDetails .CoveredWithContainer .CoveredWith {
+  font-family: Nunito;
+  font-size: 10px;
+  color: #ffffff;
+  height: 20px;
+  margin: 0px 0px 0px 10px;
+  padding-top: 4px;
+}
+.addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .AddedFamilyDetails .CoveredWithContainer .NotCoveredWith {
+  font-family: Nunito;
+  font-size: 10px;
+  color: #ffffff;
+  height: 20px;
+  margin: 0px 0px 0px 5px;
+  padding-top: 4px;
+}
+.addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .GetQuotesButton2 {
+  margin: 2rem 40px 0rem 0rem;
+}
+@media screen and (max-width: 767px) {
+  .addFamily .mui-container-fluid {
+    padding: 0px;
+  }
+  .addFamily .mui-container-fluid .rightpanel {
+    padding: 0 15px 10px 15px;
+  }
+  .addFamily .mui-container-fluid .no-member {
+    padding: 0px 0px 5px 0px;
+  }
+  .addFamily .mui-container-fluid .AddFamilyDetails {
+    background-color: #ffffff;
+    margin-top: 3rem;
+  }
+  .addFamily .mui-container-fluid .AddFamilyDetails .YourFamily {
+    padding: 1rem 0rem 1rem 1rem;
+  }
+  .addFamily .mui-container-fluid .AddFamilyDetails .AddFamilyButton {
+    margin: 20px 10px 0px 10px;
+  }
+  .addFamily .mui-container-fluid .ArrowPic {
+    float: left;
+    margin-top: 9px;
+  }
+  .addFamily .mui-container-fluid .inputDiv {
+    width: 17rem;
+  }
+  .addFamily .mui-container-fluid .SaveButton {
+    width: 17rem;
+  }
+  .addedFamily {
+    padding-top: 3rem;
+  }
+  .addedFamily .mui-container-fluid .rightpanel {
+    padding: 0 15px 10px 15px;
+    background-color: #ffffff;
+  }
+  .addedFamily .mui-container-fluid .no-member {
+    padding: 0px 0px 5px 0px;
+  }
+  .addedFamily .mui-container-fluid .AddedFamilyDetailsContainer {
+    margin: 0rem;
+  }
+  .addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .AddedFamilyDetails {
+    margin: 1rem 0rem;
+  }
+  .addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .AddedFamilyDetails .GetQuotesButton {
+    margin: 1rem 2rem 1rem 2rem;
+  }
+  .addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .AddedFamilyDetails .AddFamilyButtonRight {
+    margin: 0rem 0rem 2rem 0rem;
+  }
+  .addedFamily .mui-container-fluid .AddedFamilyDetailsContainer .GetQuotesButton2 {
+    margin: 1rem 0rem 2rem 0rem;
+  }
+}

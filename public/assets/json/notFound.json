@@ -1,0 +1,14 @@
+{
+    "en":{
+        "NotFoundOOPSText":"OOPS!",
+        "NotFoundErrrorCodeText":"Error Code: 404",
+        "NotFoundErrorMessageWeCantSeem":"We can’t seem the page you are looking for…"
+
+    },
+    "mr":{
+        "NotFoundOOPSText":"अरेरे!",
+        "NotFoundErrrorCodeText":"त्रुटी कोड: 404",
+        "NotFoundErrorMessageWeCantSeem":"आपण शोधत असलेले पृष्ठ आम्हाला दिसत नाही ..."
+
+    }
+}

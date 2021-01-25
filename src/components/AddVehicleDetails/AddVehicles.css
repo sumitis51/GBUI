@@ -1,0 +1,55 @@
+.addVehicle .mui-container-fluid {
+  overflow-x: hidden;
+  padding-top: 10px;
+}
+.addVehicle .mui-container-fluid .AddVehicleDetails {
+  background-color: #f3f5fb;
+  text-align: center;
+}
+.addVehicle .mui-container-fluid .AddVehicleDetails .YourVehicles {
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 600;
+  color: #0da176;
+  padding: 1rem 0rem 5rem 3rem;
+  text-decoration: underline;
+  text-align: left;
+}
+.addVehicle .mui-container-fluid .AddVehicleDetails .AddVehicleDetailsPic {
+  display: inline-block;
+  margin: 3rem 0rem 2rem 0rem;
+}
+.addVehicle .mui-container-fluid .AddVehicleDetails .NoVehicles {
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  color: #000000;
+  margin: 1rem 0rem;
+}
+.addVehicle .mui-container-fluid .AddVehicleDetails .AddVehiclesYet {
+  font-family: Nunito;
+  font-size: 12px;
+  text-align: center;
+  color: #000000;
+  margin: 1rem 0rem;
+}
+.addVehicle .mui-container-fluid .AddVehicleDetails .AddVehiclesButton {
+  margin: 2rem 0rem 0rem 0rem;
+  padding-bottom: 5rem;
+  text-align: center;
+}
+@media screen and (max-width: 767px) {
+  .addVehicle .mui-container-fluid {
+    padding: 0px;
+  }
+  .addVehicle .mui-container-fluid .AddVehicleDetails {
+    background-color: #ffffff;
+  }
+  .addVehicle .mui-container-fluid .AddVehicleDetails .YourVehicles {
+    padding: 1rem 0rem 1rem 1rem;
+  }
+  .addVehicle .mui-container-fluid .AddVehicleDetails .AddVehiclesButton {
+    margin: 20px 10px 0px 10px;
+  }
+}

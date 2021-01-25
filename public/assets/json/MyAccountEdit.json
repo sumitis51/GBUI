@@ -1,0 +1,34 @@
+{
+    "en":{
+        "MyAccountEditMyAccountHeading":"MyAccount",
+        "MyAccountEditChangePasswordHeading":"Change Password",
+        "MyAccountEditTextFieldLabelName":"Name",
+        "MyAccountEditTextFieldLabelDateofBirth":"Date of Birth",
+        "MyAccountEditTextFieldLabelEmailId":"Email Id",
+        "MyAccountEditTextFieldLabelMobileNumber":"Mobile Number",
+        "MyAccountTextFieldLabelAddressLine1":"Address Line 1",
+        "MyAccountTextFieldLabelAddressLine2":"Address Line 2",
+        "MyAccountEditTextFieldLabelCityPincode":"City and Pincode",
+        "MyAccountEditTextFieldLabelState":"State",
+        "MyAccountEditTextFieldLabelMaritalStatus":"Marital Status",
+        "MyAccountEditTextFieldLabelAnnualIncome":"Annual Income",
+        "MyAccountEditButtonTextCancel":"Cancel",
+        "MyAccountEditButtonTextSave":"Save"
+    },
+    "mr":{
+        "MyAccountEditMyAccountHeading":"माझे खाते",
+        "MyAccountEditChangePasswordHeading":"पासवर्ड बदला",
+        "MyAccountEditTextFieldLabelName":"नाव",
+        "MyAccountEditTextFieldLabelDateofBirth":"जन्मतारीख",
+        "MyAccountEditTextFieldLabelEmailId":"ईमेल आयडी",
+        "MyAccountEditTextFieldLabelMobileNumber":"मोबाइल नंबर",
+        "MyAccountTextFieldLabelAddressLine1":"पत्ता ओळ 1",
+        "MyAccountTextFieldLabelAddressLine2":"पत्ता ओळ 2",
+        "MyAccountEditTextFieldLabelCityPincode":"शहर आणि पिनकोड",
+        "MyAccountEditTextFieldLabelState":"राज्य",
+        "MyAccountEditTextFieldLabelMaritalStatus":"वैवाहिक स्थिती",
+        "MyAccountEditTextFieldLabelAnnualIncome":"वार्षिक उत्पन्न",
+        "MyAccountEditButtonTextCancel":"रद्द करा",
+        "MyAccountEditButtonTextSave":"जतन करा"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "en":{
+        "AddedVehicleDetailYourVehicles":"Your Vehicles",
+        "AddedVehicleDetailAddVehiclesButtonText":"Add Vehicle",
+        "AddedVehicleDetailUse":"Use",
+        "AddedVehicleDetailPolicyExpDate":"Policy Exp. Date",
+        "AddedVehicleDetailGetQuotesButtonText":"Get Quotes"
+
+    },
+    "mr":{
+        "AddedVehicleDetailYourVehicles":"आपले वाहने",
+        "AddedVehicleDetailAddVehiclesButtonText":"वाहने जोडा",
+        "AddedVehicleDetailUse":"वापरा",
+        "AddedVehicleDetailPolicyExpDate":"पॉलिसी कालबाह्यता तारीख",
+        "AddedVehicleDetailGetQuotesButtonText":"कोट मिळवा"
+    }
+
+}

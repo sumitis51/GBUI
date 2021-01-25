@@ -1,0 +1,12 @@
+{
+    "en":{
+        "HeaderTempFirstTabAboutText":"About",
+        "HeaderTempSecondTabTeamText":"Team",
+        "HeaderTempThirdTabCareersText":"Careers"
+    },
+    "mr":{
+        "HeaderTempFirstTabAboutText":"बद्दल",
+        "HeaderTempSecondTabTeamText":"संघ",
+        "HeaderTempThirdTabCareersText":"करियर"
+    }
+}

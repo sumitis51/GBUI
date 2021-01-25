@@ -1,0 +1,50 @@
+.Error500 {
+    padding: 2rem 2rem 6rem 2rem;
+    .mui-container-fluid {
+        font-family: Nunito;
+        text-align: center;
+        overflow-x: hidden;
+        .error-icon {
+            text-align: center;
+            .error-pic {
+                width: 100%;
+                height: auto;
+            }
+        }
+        .server-error {
+            font-size: 60px;
+            font-weight: bold;
+            color: #000000;
+        }
+        .error-code {
+            font-size: 24px;
+            color: #000000;
+            margin:1rem 0rem;
+        }
+        .error-message {
+            font-size: 36px;
+            color: #000000;
+            margin:1rem 0rem;
+        }
+    }
+}
+
+@media screen and (max-width:767px) {
+    .Error500 {
+        padding: 4rem 1rem 3rem 1rem;
+        .mui-container-fluid {
+            .server-error {
+                font-size: 30px;
+                margin:1rem 0rem;
+            }
+            .error-code {
+                font-size: 18px;
+                margin:0.5rem 0rem;
+            }
+            .error-message {
+                font-size: 20px;
+                margin:0.5rem 0rem;
+            }
+        }
+    }
+}

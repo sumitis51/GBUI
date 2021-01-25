@@ -1,0 +1,32 @@
+{
+    "en":{
+          "LoginCustomerWelcomeCardText1":"Welcome Back,",
+          "LoginCustomerWelcomeCardText2":"We are happy to see you again",
+          "LoginCustomerHeadingText":"Login for Customers",
+          "LoginCustomerPLeaseLoginToAccountText":"Login to your GroupBima account using your phone number and password.",
+          "LoginCustomerInputField1LabelPhoneNumber":"Phone Number/Email Id",
+          "LoginCustomerInputField2LabelPassword":"Password",
+          "LoginCustomerForgotPasswordText":"Forgot Password?",
+          "LoginCustomerLoginByOtpText":"Login by OTP?",
+          "LoginCustomerLoginText":"Login",
+          "LoginCustomerByLoggingInText":"By logging in,  you agree to Groupbima’s ",
+          "LoginCustomerTnC":"TnC",
+          "LoginCustomerPrivacyPolicyText":"Privacy and Policy",
+          "LoginCustomerInputField2LabelOtp":"OTP"
+    },
+    "mr":{
+        "LoginCustomerWelcomeCardText1":"स्वागत आहे,",
+        "LoginCustomerWelcomeCardText2":"पुन्हा भेटून आम्हाला आनंद झाला आहे",
+        "LoginCustomerHeadingText":"ग्राहकांसाठी लॉगिन",
+        "LoginCustomerPLeaseLoginToAccountText":"कृपया तुमच्या खात्यात लॉग इन करा",
+        "LoginCustomerInputField1LabelPhoneNumber":"फोन नंबर/ई-मेल आईडी",
+        "LoginCustomerInputField2LabelPassword":"पासवर्ड",
+        "LoginCustomerForgotPasswordText":"पासवर्ड विसरलात?",
+        "LoginCustomerLoginByOtpText":"ओटीपी द्वारा लॉगइन करा?",
+        "LoginCustomerLoginText":"लॉग इन",
+        "LoginCustomerByLoggingInText":"लॉग इन करून आपण ग्रुपबिमाशी सहमत आहात",
+        "LoginCustomerTnC":"टीएनसी आणि ",
+        "LoginCustomerPrivacyPolicyText":"गोपनीयता आणि धोरण",
+        "LoginCustomerInputField2LabelOtp":"ओटीपी"
+    }
+}

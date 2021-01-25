@@ -1,0 +1,30 @@
+{
+    "en":{
+        "PaymentSuccessPaymentSuccessHeading":"Payment Success",
+        "PaymentSuccessMiddleContent":"SOME AWESOME LINES",
+        "PaymentSuccessOrderIdText":"Order Id",
+        "PaymentSuccessAmountText":"Amount",
+        "PaymentSuccessPaymentMethodText":"Payment Method",
+        "PaymentSuccessStatusText":"Status",
+        "PaymentSuccessPolicyNumberText":"Policy Number",
+        "PaymentSuccessPolicyWillBeMailedToText":"Policy will be mailed to",
+        "PaymentSuccessTransactionId":"Transaction Id",
+        "PaymentSuccessHurrayText":"Hurray!!   We have some gift  for you. Check",
+        "PaymentSuccessEAccountText":"E-ACCOUNT",
+        "PaymentSuccessButtonDownloadPolicySlipText":"Download your policy & payment slip",
+        "PaymentSuccessButtonTryAgainText":"Buy New Policy"
+    },
+    "mr":{
+        "PaymentSuccessPaymentSuccessHeading":"देयक यशस्वी",
+        "PaymentSuccessMiddleContent":"काही अद्भूत रेखा",
+        "PaymentSuccessOrderIdText":"ऑर्डर आयडी",
+        "PaymentSuccessAmountText":"रक्कम",
+        "PaymentSuccessPaymentMethodText":"पेमेंट पद्धत",
+        "PaymentSuccessStatusText":"स्थिती",
+        "PaymentSuccessTransactionId":"ट्रान्झॅक्शन आयडी",
+        "PaymentSuccessHurrayText":"हूर्रे !! आमच्याकडे आपल्यासाठी काही भेट आहे तपासा",
+        "PaymentSuccessEAccountText":"ई-खाते",
+        "PaymentSuccessButtonDownloadPolicySlipText":"तुमची पॉलिसी आणि पेमेंट स्लिप डाउनलोड करा",
+        "PaymentSuccessButtonTryAgainText":"नवीन धोरण खरेदी करा"
+    }
+}

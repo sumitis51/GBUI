@@ -1,0 +1,41 @@
+.rating-heading {
+  color: #000000;
+  margin: 1rem 0rem;
+  text-align: center;
+  font-weight: 300;
+}
+.close {
+  margin: 1rem 0rem;
+  color: #000000;
+}
+.rating-gb-process {
+  color: #000000;
+  margin: 1rem 0rem;
+  text-align: center;
+}
+.rating-content ul li {
+  display: inline;
+  margin: 1rem 3rem;
+}
+.add-reviews {
+  text-align: center;
+  color: #ea0b4b;
+  margin: 1rem 0rem;
+}
+.divider {
+  margin: 1rem 0rem;
+}
+.submit-btn {
+  margin: 2rem 0rem;
+  text-align: center;
+}
+@media screen and (max-width: 767px) {
+  .arrow-back {
+    margin: 1rem 0rem;
+    text-align: right;
+  }
+  .rating-content ul li {
+    display: inline;
+    margin: 1rem 1rem;
+  }
+}

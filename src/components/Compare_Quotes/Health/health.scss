@@ -1,0 +1,126 @@
+.compare-quotes-health-parent{
+    #panel-insurer-list-compare {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+    }
+    table{
+        width: 100%;
+        margin-top: -10px;
+        
+
+        tr{
+            td:not(:first-child){
+                text-align: center;
+            }
+            // td:not(:first-child){
+            //     width: 250px;
+            //     font-family: Source Sans Pro;
+            //     font-size: 18px;
+            //     font-weight: normal;
+            //     font-style: normal;
+            //     font-stretch: normal;
+            //     line-height: normal;
+            //     letter-spacing: normal;
+            //     color: #000000;
+            // }
+            td{
+                width: 250px;
+            }
+        }
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    }
+
+    .sub-header .mui-panel ul{
+        list-style-type: none;
+        text-align: center;
+        padding-top: 10px;
+    }
+    
+    .sub-header .mui-panel ul li{
+        display: inline;
+        font-family: Nunito;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #ffffff;
+        padding: 4px 145px;
+    
+    }
+    .sub-header .mui-panel {
+        padding: 0px;
+    }
+    .compare-quotes-health-content{
+        margin: 20px 57px;
+        .back-link{
+            font-family: Nunito;
+            font-size: 12px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+            margin-top: 1rem;
+        }
+        .health-heading{
+            font-family: Nunito;
+            font-size: 20px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+        }
+
+        .insurer-div{
+            .tag_line{
+                font-family: Source Sans Pro;
+                font-size: 10px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                line-height: normal;
+                letter-spacing: normal;
+                color: #000000;
+                margin-top: 8px;
+            }
+            .view-plan{
+                font-family: Source Sans Pro;
+                font-size: 16px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                line-height: normal;
+                letter-spacing: normal;
+                color: #0da176;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .compare-quotes-health-parent{
+        .compare-quotes-health-content{
+            margin: 0px;
+
+            .insurer-div {
+                .view-plan{
+                    font-size: 11px;
+                }
+            }
+            .back-link{
+                margin-left: 15px;
+            }
+            .health-heading{
+                margin-left: 15px;
+            }
+        }
+    }
+}

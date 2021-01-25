@@ -1,0 +1,513 @@
+.get-health-cover{
+    overflow: hidden;
+    margin: 0px 0rem 0rem 0rem;
+    background-color: #ffffff;
+    z-index: 10;
+    .health-cover-row{
+        padding:0;
+        position: relative;
+        .get-health-cover-image{
+            background-image: url(/assets/HomePage/home.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 793px;
+            background-position: center top;
+            .get-cover{
+                height:auto;
+                width:100%;
+            }
+        }
+        .right-card{
+            .paper-margin{
+                margin-left:-1rem;
+                text-align: -webkit-center;
+            }
+            // position: absolute;
+            // top: 3rem;
+            //right: -20rem;
+            .main-heading{
+                color: #ea0b4b;
+                font-weight: 600;
+                font-size: 22px;
+                text-align: center;
+                // margin: 35px 39px 21px 39px;
+                margin: 35px 0px 54px 0px;
+            }
+            .heading-card-1{
+                color: #505050;
+                padding-top: 41px;
+                text-align: center;
+                margin:0;
+            }
+            .heading-card-2{
+                color: #4e4e4e;
+                padding-top: 17px;
+                padding-bottom: 25px;
+                text-align: center;
+                margin:0;
+            }
+            .heading-card-end{
+                color: #4e4e4e;
+                padding-top: 27px;
+                padding-bottom: 34px;
+                text-align: center;
+                margin:0;
+            }
+            .man{
+                text-align: right;
+            }
+            .heading-card-3{
+                color: #808080;
+                text-align: center;
+                margin:2rem 0rem;
+            }
+            .card-btn-1{
+                margin:0rem 0rem 65px 2rem;
+                text-align: right;
+            }
+            .card-btn-2{
+                margin:0rem 1rem 65px 0rem;
+                text-align: left;
+            }
+        }
+    }
+    .second-card-container{
+        margin: 0rem 5rem;
+        .sub-heading{
+            margin:-12rem 0rem;
+            position: absolute;
+            color: #ea0b4b;
+            font-weight: 600;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+        .card-column-image{
+            height:auto;
+            transform: translate(0%,-50%)
+        }
+        .small-card{
+            margin:26px 0px;
+            .transaction-image{
+                text-align: center;
+                padding: 23px 0px 0px 0px;
+            }
+            .heding-text{
+                text-align: center;
+                color: #333333;
+                margin:28px 0px 0px 0px;
+            }
+            .content-text{
+                text-align: center;
+                color: #8d8d8d;
+                margin:24px 14px 0px 14px;
+            }
+        }
+        .center-content{
+            width: 791px;
+            text-align: center;
+            color: #8d8d8d;
+            margin: -7rem auto;
+            font-style: italic;
+            font-weight: bold;
+        }
+        .find-out-more-btn{
+            margin: -4rem auto;
+            width: 210px;
+            text-align: center;
+        }
+        .what-are-you-looking{
+            text-align: center;
+            color: #000000;
+            margin:2rem 0rem;
+        }
+        .plan-column{
+            border-right:1px dashed #979797;
+        }
+        .research{
+            text-align: center;
+            margin:1rem 0rem;
+        }
+        .research-btn{
+            width: 210px;
+            margin:0 auto;
+        }
+        .buy-btn{
+            width: 210px;
+            margin:0 auto;
+        }
+        .main-heading{
+            color: #333333;
+            margin:1rem 0rem;
+            text-align: center;
+        }
+        .plan{
+            text-align: center;
+            margin:0.4rem 0rem 0rem 0rem;
+        }
+        .main-heading-2{
+            color: #333333;
+            margin:1rem 0rem;
+            text-align: center;
+        }
+        .what-our-customers-say{
+            text-align: center;
+            color: #333333;
+            margin:4rem 0rem 0rem 0rem;
+        }
+        .quote-column{
+            text-align: center;
+            .quote2{
+                margin-top: 6rem;
+            }
+        }
+        .quoteParagraph{
+            color: #333333;
+            margin:1rem 0rem;
+            text-align: left;
+        }
+        .writer{
+            color: #9c0f46;
+        }
+        .dots{
+            margin:1rem 0rem;
+            @keyframes dot-keyframes {
+                0% {
+                    opacity: .4;
+                    transform: scale(1, 1);
+                }
+                50% {
+                    opacity: 1;
+                    transform: scale(1.2, 1.2);
+                }
+                100% {
+                    opacity: .4;
+                    transform: scale(1, 1);
+                }
+            }
+            .loading-dots {
+                text-align: center;
+                width: 100%;
+                &--dot {
+                    animation: dot-keyframes 1.5s infinite ease-in-out;
+                    background-color: #000000;
+                    border-radius: 10px;
+                    display: inline-block;
+                    height: 10px;
+                    width: 10px;
+                    margin: 0px 5px;
+                    &:nth-child(2) {
+                        animation-delay: .5s;
+                    }
+                    &:nth-child(3) {
+                        animation-delay: 1s;
+                    }
+                }
+            }
+        }
+        
+        .insurer-block{
+            text-align: center;
+            margin:1rem 4rem 0rem 4rem;
+        }
+        .insurer{
+            width:100%;
+            height:auto;
+        }
+        .insurer-image{
+            margin: 34px 0rem;
+            text-align: center;
+            display:inline-block
+        }
+        .insurer-image-2{
+            margin:0rem;
+            text-align: center;
+            display:inline-block
+        }
+    }
+}
+
+@media screen and(min-width:1920px) {
+    .get-health-cover{
+        .health-cover-row{
+            .get-health-cover-image{
+                background-image: url(/assets/HomePage/home.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+                height: 950px;
+                background-position: center top;
+            }
+            .right-card{
+                .paper-margin{
+                    margin-left: -5rem;
+                    text-align: -webkit-right;
+                }
+                .main-heading{
+                    margin: 35px 0px 54px 10rem;
+                }
+            }
+        }
+    }
+}
+
+@media screen and(max-width:1024px) {
+    .get-health-cover{
+        overflow: hidden;
+        margin: 10px 0rem 0rem 0rem;
+        .health-cover-row{
+            padding:0;
+            position: relative;
+            .get-health-cover-image{
+                .get-cover{
+                    height:auto;
+                    width:100%;
+                }
+            }
+            .right-card{
+                right: -15rem;
+                top:2rem;
+                .main-heading{
+                    margin:0.5rem 0rem;
+                }
+                .heading-card-1{
+                    padding-top: 15px;
+                }
+                .heading-card-2{
+                    padding: 8px 0px;
+                }
+                .heading-card-end{
+                    padding:15px 0px 22px 0px;
+                }
+                .card-btn-1{
+                    margin:0rem 0rem 20px 2rem;
+                }
+                .card-btn-2{
+                    margin:0rem 2rem 20px 0rem;
+                }
+            }
+        }
+        .second-card-container{
+            margin:0rem;
+            .sub-heading{
+                margin:-8rem 0rem;
+            }
+            .card-column-image{
+                height:auto;
+                transform: translate(0%,-25%)
+            }
+            .find-out-more-btn{
+                margin: -1rem auto;
+            }
+            .center-content{
+                margin:-4rem auto;
+            }
+            .insurer-block{
+                text-align: center;
+                margin:1rem 0rem 0rem 0rem;
+            }
+        }
+    }
+}
+@media screen and(max-width:768px) {
+    .get-health-cover{
+        overflow: hidden;
+        margin: 10px 0rem 0rem 0rem;
+        background-color: #ffffff;
+        .health-cover-row{
+            padding:0;
+            position: relative;
+            .get-health-cover-image{
+                .get-cover{
+                    height:auto;
+                    width:100%;
+                }
+            }
+            .right-card{
+                position: absolute;
+                top: 0rem;
+                right: -19.7rem;
+                .main-heading{
+                    margin:5px 0rem;
+                }
+                .paper-margin{
+                    margin-left:4rem;
+                }
+                .heading-card-1{
+                    margin:0px 0rem;
+                }
+                .heading-card-2{
+                    margin:0px 0rem;
+                }
+                .card-btn-1{
+                    margin:0rem 0rem 1rem 1rem;
+                    text-align: right;
+                }
+                .card-btn-2{
+                    margin:0rem 1rem 1rem 0rem;
+                    text-align: left;
+                }
+                .sub-heading{
+                    margin:0rem 0rem;
+                    position: absolute;
+                    transform: translate(0, 0);
+                    left: -50%;
+                    right: 50%;
+                    color: #ea0b4b;
+                    font-weight: 600;
+                }
+            }
+        }
+        .second-card-container{
+            .card-column-image{
+                transform: translate(0%,-15%)
+            }
+            .find-out-more-btn{
+                margin: 1rem auto;
+            }
+            .center-content{
+                margin: 0.5rem auto;
+                width: auto;
+            }
+            .insurer-block{
+                margin:1rem 2rem 20rem 2rem;
+            }
+        }
+    }
+}
+
+@media screen and(max-width:767px) {
+    .get-health-cover{
+        overflow: hidden;
+        margin: 0rem 0rem 0rem 0rem;
+        background-color: #ffffff;
+        .mobile-view{
+            .quote{
+                width:100%;
+                height:auto;
+            }
+            .quote2{
+                width:100%;
+                height:auto;
+                margin-top: 18rem;
+            }
+            .main-heading{
+                color: #ea0b4b;
+                margin:3rem 0rem 0rem 0rem;
+                text-align: center;
+                padding: 1rem 0rem;
+            }
+            .heading-card-1{
+                color: #505050;
+                margin:0.5rem 0rem;
+                text-align: center;
+                font-weight: 600;
+            }
+            .heading-card-2{
+                color: #4e4e4e;
+                margin:0.5rem 0rem;
+                text-align: center;
+            }
+            .for-whom-you-want{
+                text-align: center;
+                color: #808080;
+                margin:2rem 0rem;
+            }
+            .card-btn-1{
+                margin:0rem 0rem 2rem 2rem;
+                text-align: right;
+            }
+            .card-btn-2{
+                margin:0rem 1rem 1rem 0rem;
+                text-align: left;
+            }
+            .sub-heading{
+                margin:1rem 0rem;
+                text-align: center;
+                color: #ea0b4b;
+            }
+            .man{
+                text-align: right;
+            }
+            .small-card{
+                .transaction-image{
+                    text-align: center;
+                    padding: 2rem 0rem;
+                }
+                .heding-text{
+                    text-align: center;
+                    color: #333333;
+                    margin:0.5rem 0rem;
+                }
+                .content-text{
+                    text-align: center;
+                    color: #8d8d8d;
+                    margin:0.5rem 0.5rem;
+                }
+            }
+            .center-content{
+                text-align: center;
+                color: #8d8d8d;
+                margin:20px 1rem 10px 1rem;
+                font-style: italic;
+            }
+            .find-out-more-btn{
+                margin:10px 36px 40px 36px;
+            }
+            .what-are-you-looking{
+                margin:48px 0rem 0rem 0rem;
+                text-align: center;
+            }
+            .what-our-customers-say{
+                margin:2rem 0rem;
+                text-align: center;
+            }
+            .research{
+                text-align: center;
+                margin:20px 0px 0px 0px;
+            }
+            .researh-insurance-heading{
+                margin:24px 0px 0px 0px;
+                color: #ea0b4b;
+                text-align: center;
+            }
+            .divider-homepage-mobile{
+                margin: 33px 0rem 0px 0rem;
+            }
+            .buy{
+                text-align: center;
+                margin:30px 0px 0px 0px;
+            }
+            .buy-insurance-heading{
+                margin:20px 0px 0px 0px;
+                color: #ea0b4b;
+                text-align: center;
+            }
+            .dots{
+                margin:2rem 0rem 1rem 0rem;
+            }
+            .insurer-column{
+                padding:0;
+            }
+            .insurer-block{
+                text-align: center;
+                margin:1rem 0rem;
+            }
+            .insurer-image{
+                margin: 20px 5px 0px 5px;
+            }
+            .insurer{
+                height: auto;
+                width:100%;
+            }
+            .research-btn{
+                width: 150px;
+                margin: 1rem auto;
+            }
+            .buy-btn{
+                width: 150px;
+                margin: 1rem auto;
+            }
+        }
+    }
+}
+
+

@@ -1,0 +1,257 @@
+.main_heading_altrnt_byr_jrny {
+  font-family: Nunito;
+  font-size: 32px;
+  text-align: center;
+  color: #ea0b4b;
+  padding-top: 11px;
+  font-weight: 600;
+}
+
+.paper2{
+   padding-top: 16px;
+   padding-bottom: 16px;
+   margin-top: 16px;
+   margin-bottom: 2rem;
+   border-radius: 12px;
+   box-shadow: 0 2px 12px 2px rgba(51, 51, 51, 0.36);
+}
+.panel-alternate_buyer-content {
+    padding: 24px;
+}
+
+.panel-alternate-green-div {
+  border-radius: 6px;
+  border: solid 1px #979797;
+}
+.cashless_hospitals_near_alternate{
+   margin:1rem 0rem;
+   text-align: center;
+   color:#000000;
+}
+.panel-alternate-green-div-header {
+    background-color:#000000;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.panel-alternate-green-div-header-text {
+    font-family: Nunito;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin: 0px;
+    padding: 12px 24px;
+ }
+
+ .panel-alternate-green-div-body {
+     padding: 18px 20px;
+     background-color: #f4f4f4;
+     border-left: solid 1px #979797;
+     border-bottom-left-radius: 6px;
+     border-bottom-right-radius: 6px;
+     border-right: solid 1px #979797;
+ }
+
+ .car_insurance_heading_alternate_buyer {
+    font-family: Nunito;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+    margin: 10px 0px;
+ }
+ .car_insurance_text_alternate_buyer {
+   font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.63;
+  letter-spacing: normal;
+  color: #000000;
+ }
+ .panel-alternate-green-div-body-2 {
+    padding: 18px 20px;
+    background-color: #ffffff;
+    border-left: solid 1px #979797;
+    border-right: solid 1px #979797;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+ }
+
+ .panel-alternate-green-div-body-table {
+   padding: 18px 20px;
+   background-color: #ffffff;
+   border-left: solid 1px #979797;
+   border-right: solid 1px #979797;
+   border-bottom-left-radius: 6px;
+   border-bottom-right-radius: 6px;
+}
+
+ .alternate-body-2-heading {
+    font-family: Nunito;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+ }
+ .alternate-body-2-small {
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #808080;
+ }
+ .card-alternate-buyer-model-make {
+     text-align: center;
+ }
+ .rect-card-alternate-model{
+    width: 91px;
+    height: 91px;
+    border-radius: 6px;
+    border: solid 1px #979797;
+    background-color: #d8d8d8;
+    margin: auto;
+ }
+ .car-model-make-heading {
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+    margin-top: 16px;  
+ }
+ .car-model-make-text {
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #808080;
+ }
+ .step-1-heading-alternate-buyer-journey {
+    font-family: Source Sans Pro;
+    font-size: 36px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+ }
+ .step-1-alternate-buyer-journey {
+    font-family: Source Sans Pro;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+    font-size: 16px;
+ }
+
+ .step-1-alternate-buyer-journey-text {
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+ }
+ .car-insurance-alternate-body-2-heading {
+    font-family: Nunito;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+ }
+ .car_insurance_text_alternate_text {
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+ }
+
+ .panel-alternate-green-div-body-img img{
+     padding: 12px 0px;
+ }
+ .blog_link_alternate_journey {
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ea0b4b;
+ }
+ .forgot_alternate_buyer {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ea0b4b;
+    margin-top: 6px;
+    display: inline;
+ }
+
+ .forgot_alternate_buyer_right {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ea0b4b;
+    margin-top: 6px;
+    display: inline;
+    float: right;
+ }
+ @media screen and (max-width: 768px) {
+   .panel-alternate-green-div-body-table {
+      padding: 18px 0px;
+   }
+   .paper2{
+      box-shadow: none;
+   }
+   .main_heading_altrnt_byr_jrny {
+      color:#ea0b4b;
+      font-size: 24px;
+   }
+   .panel-row-alternate-buyer {
+      padding-top: 12px
+   }
+ }

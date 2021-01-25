@@ -1,0 +1,126 @@
+.premium-breakup {
+  font-family: Nunito;
+  padding: 1rem 1rem 0rem 1rem;
+}
+.premium-breakup .plan-details {
+  font-family: Nunito;
+  font-size: 20px;
+  font-weight: bold;
+  color: #000000;
+  text-align: left;
+  display: inline;
+}
+.premium-breakup .close-model-icon {
+  display: inline;
+  text-align: right;
+}
+.premium-breakup .image-insurer {
+  margin: 1rem 0rem;
+}
+.premium-breakup .image-insurer .insurer-pic {
+  width: 100%;
+  height: auto;
+}
+.premium-breakup .policy-name {
+  font-size: 16px;
+  color: #000000;
+  margin: 1.2rem 0rem 0rem 0rem;
+}
+.premium-breakup .customer-rating {
+  font-size: 12px;
+  color: #808080;
+  display: inline;
+}
+.premium-breakup .customer-rating .rating {
+  color: #000000;
+  display: inline;
+}
+.premium-breakup .customer-rating .rating-star {
+  display: inline;
+}
+.cashless-hospitals .pathology-near-you {
+  font-family: Nunito;
+  font-size: 14px;
+  color: #000000;
+  margin-top: 37px;
+}
+.cashless-hospitals .pathlab-checkbox {
+  padding: 0px 0px 0px 19px;
+}
+.cashless-hospitals .pathlab-name {
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: bold;
+  color: #000000;
+}
+.cashless-hospitals .pathology-submit {
+  margin-top: 1.6rem;
+}
+.cashless-hospitals .address {
+  font-family: Nunito;
+  font-size: 14px;
+  color: #808080;
+  margin: 10px 0px;
+  word-break: break-all;
+}
+.cashless-hospitals .contact {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: 600;
+  text-align: right;
+  color: #000000;
+  margin: 10px 0px;
+}
+.cashless-hospitals .card-column {
+  padding-left: 10px;
+}
+.what-covered {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0.5rem 0rem;
+}
+.premium-breakup-container {
+  padding: 2rem 5rem;
+}
+.covered-plan-container {
+  padding: 3rem 5rem;
+}
+.premium-discounts {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: bold;
+}
+.premium {
+  font-family: Nunito;
+  font-size: 14px;
+  color: #808080;
+  margin: 1px 0px;
+}
+.premium-value {
+  font-family: Nunito;
+  font-size: 14px;
+  text-align: right;
+  color: #000000;
+  margin: 1px 0px;
+}
+@media screen and (max-width: 767px) {
+  .premium-breakup {
+    padding: 3rem 1rem 1rem 1rem;
+  }
+  .premium-breakup-container {
+    padding: 1rem 0rem;
+  }
+  .premium-discounts {
+    margin: 10px 0px;
+  }
+  .premium {
+    margin: 5px 0px;
+  }
+  .premium-value {
+    margin: 1px 0px;
+  }
+  .covered-plan-container {
+    padding: 2rem 0rem;
+  }
+}

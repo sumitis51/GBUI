@@ -1,0 +1,48 @@
+.alternate_header_parent {
+    /* padding-top: 4rem; */
+}
+.alternate_header_parent ul{
+    list-style-type: none;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.alternate_header_parent ul li{
+    display: inline;
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    padding: 4px 70px;
+
+}
+.alternate_header_parent .mui-panel {
+    padding: 0px;
+}
+
+.mui-panel-heading-car {
+  font-family: Nunito;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  font-weight: 600;
+  color: #505050;
+  text-align: center;
+}
+.mui-panel-sub-heading-p {
+    font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+}

@@ -1,0 +1,137 @@
+.payment {
+  background-color: #f6f6f6;
+}
+.payment .mui-container-fluid {
+  overflow-x: hidden;
+  padding: 1rem 2rem 7rem 2rem;
+  text-align: left;
+}
+.payment .mui-container-fluid .title-link {
+  font-family: Nunito;
+  font-size: 20px;
+  color: #000000;
+  margin: 10px 0px;
+}
+.payment .mui-container-fluid .payment-title {
+  text-align: center;
+}
+.payment .mui-container-fluid .payment-subtitle {
+  color: #808080;
+  text-align: center;
+  margin: 0.5rem 0rem;
+}
+.payment .mui-container-fluid .payment-row {
+  margin: 0rem 0rem 7rem 0rem;
+}
+.payment .mui-container-fluid .payment-row .member-name {
+  color: #0da176;
+  margin: 10px 0px 35px 0px;
+}
+.payment .mui-container-fluid .payment-row .members-explained {
+  color: #000000;
+  margin-left: 7px;
+}
+.payment .mui-container-fluid .payment-row .plan-detail {
+  color: #0da176;
+  text-align: right;
+}
+.payment .mui-container-fluid .payment-row .gb-rating {
+  margin-left: 8rem;
+}
+.payment .mui-container-fluid .payment-row .left-container {
+  font-weight: 600;
+  line-height: 1.5;
+  color: #333333;
+  margin: 8px 0px;
+}
+.payment .mui-container-fluid .payment-row .right-container {
+  font-weight: 600;
+  line-height: 1.5;
+  color: #333333;
+  text-align: right;
+  margin: 8px 0px;
+}
+.payment .mui-container-fluid .payment-row .payment-failure-text {
+  color: #940016;
+  text-align: center;
+  margin: 0.3rem 0rem;
+}
+.payment .mui-container-fluid .payment-row .button-column {
+  margin: 1rem 0rem 4rem 0rem;
+}
+.payment .mui-container-fluid .license-row {
+  margin: 1.5rem 0rem 1.5rem 26px;
+  padding: 0;
+}
+.payment .mui-container-fluid .license-row .license-column {
+  padding: 0;
+}
+.payment .mui-container-fluid .license-row .license-column .license-image {
+  margin-left: 17px;
+}
+.payment .mui-container-fluid .license-row .license-column .licesnse-text {
+  font-size: 10px;
+  font-weight: 600;
+  text-align: center;
+  color: #333333;
+  margin-top: 0.5rem;
+}
+.payment .mui-container-fluid .license-row .license-rect {
+  width: 46px;
+  height: 55px;
+  background-color: #d8d8d8;
+  border: 1px solid black;
+}
+@media screen and (max-width: 767px) {
+  .payment .mui-container-fluid {
+    padding: 4rem 0.3rem 7rem 0.3rem;
+  }
+  .payment .mui-container-fluid .payment-subtitle {
+    margin: 0.5rem 1rem;
+  }
+  .payment .mui-container-fluid .member-name {
+    color: #0da176;
+  }
+  .payment .mui-container-fluid .members-explained {
+    color: #000000;
+    margin-left: 5px;
+  }
+  .payment .mui-container-fluid .policy-amount {
+    color: #000000;
+  }
+  .payment .mui-container-fluid .duration {
+    font-size: 12px;
+  }
+  .payment .mui-container-fluid .plan-detail {
+    color: #0da176;
+  }
+  .payment .mui-container-fluid .left-container {
+    font-weight: 600;
+    line-height: 1.5;
+    color: #333333;
+    margin: 8px 0px;
+  }
+  .payment .mui-container-fluid .right-container {
+    font-weight: 600;
+    line-height: 1.5;
+    color: #333333;
+    text-align: right;
+    margin: 8px 0px;
+  }
+  .payment .mui-container-fluid .payment-failure-text {
+    color: #940016;
+    text-align: center;
+    margin: 0.3rem 0rem;
+  }
+  .payment .mui-container-fluid .partners {
+    margin-top: 2rem;
+  }
+  .payment .mui-container-fluid .rectangle {
+    width: 46px;
+    height: 55px;
+    border: solid 1px #979797;
+    background-color: #d8d8d8;
+    display: inline-block;
+    margin: 0px 6px;
+  }
+}

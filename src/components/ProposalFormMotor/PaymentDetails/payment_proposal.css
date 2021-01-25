@@ -1,0 +1,281 @@
+.payment-proposal-form-motor-parent .package-name {
+  font-family: Nunito;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  margin: 0px;
+}
+
+.payment-proposal-form-motor-parent .customer-rating {
+  height: 16px;
+  font-family: Nunito;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+  margin: 0;
+}
+
+.payment-proposal-form-motor-parent .customer-rating span {
+  color: #000000;
+}
+
+.payment-proposal-form-motor-parent .gb-rating {
+  font-family: Nunito;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+  margin: 0;
+}
+
+.payment-proposal-form-motor-parent .gb-rating span {
+  color: #000000;
+}
+
+.payment-proposal-form-motor-parent .plan-details {
+  font-family: Nunito;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0da176;
+  text-align: right;
+}
+
+.payment-proposal-form-motor-parent .total-premiuim {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  text-align: right;
+}
+
+.payment-proposal-form-motor-parent .amount {
+  font-family: Nunito;
+  font-size: 21px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.payment-proposal-form-motor-parent .amount span {
+  font-size: 10.5px;
+}
+
+.payment-proposal-form-motor-parent .addon-div .addon-heading {
+  font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.payment-proposal-form-motor-parent .addon-div .addon-name {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.payment-proposal-form-motor-parent .addon-div .addon-price {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  text-align: right;
+}
+
+.payment-proposal-form-motor-parent .premium-div .premium-heading {
+  font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.payment-proposal-form-motor-parent .premium-div .premium-name {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.payment-proposal-form-motor-parent .premium-div .premium-price {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  text-align: right;
+}
+
+.payment-proposal-form-motor-parent .premium-div .premium-price span {
+  font-family: Source Sans Pro;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #9c0f46;
+}
+
+.payment-proposal-form-motor-parent .premium-div .premium-price span span {
+  font-size: 10px;
+  color: #000000;
+}
+
+.payment-proposal-form-motor-parent .premium-breakup {
+  font-family: Nunito;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ea0b4b;
+  text-align: right;
+}
+
+.payment-proposal-form-motor-parent .cover-type-heading {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+  display: inline-block;
+  margin: 0;
+}
+
+.payment-proposal-form-motor-parent .cover-type-value {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  float: right;
+  color: #000000;
+  display: inline-block;
+  margin: 0px;
+}
+
+.payment-proposal-form-motor-parent .total-detail {
+  font-family: Nunito;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  display: inline-block;
+}
+
+.payment-proposal-form-motor-parent .edit {
+  float: right;
+  display: inline-block;
+  font-family: Nunito;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0da176;
+}
+
+.payment-proposal-form-motor-parent .tabs-payment p {
+  display: inline-block;
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.payment-proposal-form-motor-parent .tabs-payment p:not(:first-child) {
+  padding: 4px 10px;
+}
+
+.payment-proposal-form-motor-parent .tabs-payment p:first-child {
+  padding: 0px 10px 0px 0px;
+}
+
+.payment-proposal-form-motor-parent .tabs-payment p.tabs-active {
+  border-bottom: solid 3px #9c0f46;
+}
+
+.payment-proposal-form-motor-parent .tabs-payment-content .recommend-heading {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #9c0f46;
+}
+
+.payment-proposal-form-motor-parent .tabs-payment-content .recommend-heading span {
+  color: #000000;
+}
+
+.payment-proposal-form-motor-parent .tabs-payment-content .rectangle {
+  width: 34px;
+  height: 41px;
+}
+/*# sourceMappingURL=payment_proposal.css.map */

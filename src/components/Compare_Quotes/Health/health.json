@@ -1,0 +1,223 @@
+{
+    "key_parameters": [
+        {
+            "key_name": "Premium Amount",
+            "insurer_data": [
+                4118,
+                6416.84
+            ],
+            "symbol": "rupee",
+            "sub_key": null
+        },
+        {
+            "key_name": "Sum Assured",
+            "insurer_data": [
+                200000,
+                200000
+            ],
+            "symbol": "rupee",
+            "sub_key": null
+        },
+        {
+            "key_name": "Premium Per Lac of Sum Assured",
+            "insurer_data": [],
+            "symbol": "rupee",
+            "sub_key": null
+        },
+        {
+            "key_name": "Policy Term",
+            "insurer_data": [
+                1,
+                1
+            ],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "Medical Test Required",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": null
+        }
+    ],
+    "coverage_details": [
+        {
+            "key_name": "Hospital Room Eligibility",
+            "insurer_data": [
+                1,
+                1
+            ],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "Co-Pay",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "Pre-Existing Diseases",
+            "insurer_data": [
+                4,
+                4
+            ],
+            "symbol": "",
+            "sub_key": "covered after"
+        },
+        {
+            "key_name": "Pre-Existing Diseases - For Specific Aliments",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": "covered after"
+        },
+        {
+            "key_name": "Pre-Hospitalisation Cover",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "Post-Hospitalisation Cover",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "Maternity Cover",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "Ambulance Costs",
+            "insurer_data": [],
+            "symbol": "rupee",
+            "sub_key": null
+        },
+        {
+            "key_name": "Daily Hospitalisation Allownace",
+            "insurer_data": [
+                500,
+                500
+            ],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "Day Care Treatment",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "Hospitalisation at Home",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "Ayurveda/Homeopathy Treatment Covered",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "OPD Cover",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "Eye Cover",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "Orgon Donor Expenses",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "Dental Cover",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "ICU Charges",
+            "insurer_data": [
+                2,
+                2
+            ],
+            "symbol": "",
+            "sub_key": null
+        }
+    ],
+    "other_benifits": [
+        {
+            "key_name": "No Claim Bonous",
+            "insurer_data": [
+                5,
+                5
+            ],
+            "symbol": "arrow_up",
+            "sub_key": null
+        },
+        {
+            "key_name": "Free Health Check-Up",
+            "insurer_data": [
+                null,
+                null
+            ],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "Network Hospital in Your Location",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "Restoration Of Cover",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "Doctor On Call Services",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": null
+        }
+    ],
+    "servicing_parameters": [
+        {
+            "key_name": "Policy Servicing TAT",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": null
+        },
+        {
+            "key_name": "Claims Settled - Within 1 Month",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": "(From dt. Of Date Of Hospitalisation)"
+        },
+        {
+            "key_name": "Claims Settled - Within 1-3 Months",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": "(From dt. Of Date Of Hospitalisation)"
+        },
+        {
+            "key_name": "% Of Claims Rejected",
+            "insurer_data": [],
+            "symbol": "",
+            "sub_key": "(From dt. Of Date Of Hospitalisation)"
+        }
+    ]
+}

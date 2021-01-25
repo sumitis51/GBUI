@@ -1,0 +1,26 @@
+{
+    "en":{
+        "MedicalCheckupPolicyStatusHeading":"Policy Status",
+        "MedicalCheckupPreMedicalCheckup":"Pre-medical checkup for health (Self + Parents)",
+        "MedicalCheckupPreinspectionDone":"Medical check-up done",
+        "MedicalCheckupPreinspectionForMotorRegistrationNumber":"Preinspection for Motor(Registration Number)",
+        "MedicalCheckupStatusHeading":"Status",
+        "MedicalCheckupRequestNumberHeading":"Request Number",
+        "MedicalCheckupAddress":"Address",
+        "MedicalCheckupDateTime":"Date and Time",
+        "MedicalCheckupPreinspectionText":"Your preinspection request has been scheduled. Your preinspection will be done in next 24 hours. A agent will come for preinspection and you dont have to pay anything to him, just after your preinspection you will get the payment link for your payment.For Support you can contact 1298483837483",
+        "MedicalCheckupTillThatTimeText":"Till that time you can check our other insurance policy"
+    },
+    "mr":{
+        "MedicalCheckupPolicyStatusHeading":"धोरण स्थिती",
+        "MedicalCheckupPreMedicalCheckup":"आरोग्यासाठी पूर्व-वैद्यकीय तपासणी (स्वयं + पालक)",
+        "MedicalCheckupPreinspectionDone":"वैद्यकीय तपासणी केली",
+        "MedicalCheckupPreinspectionForMotorRegistrationNumber":"मोटार (नोंदणी क्रमांक) साठी पूर्व तपासणी",
+        "MedicalCheckupStatusHeading":"स्थिती",
+        "MedicalCheckupRequestNumberHeading":"विनंती क्रमांक",
+        "MedicalCheckupAddress":"पत्ता",
+        "MedicalCheckupDateTime":"तारीख आणि वेळ",
+        "MedicalCheckupPreinspectionText":"वैद्यकीय तपासणीपुस्तके तपासणी:आपली प्रीइन्स्पेक्शन विनंती निर्धारित केली गेली आहे. आपला एजंट पुढील 24 तासांत पूर्ण केला जाईल. भरणा. आपण समर्थनासाठी 12 9 48483837483 वर संपर्क साधू शकता ",
+        "MedicalCheckupTillThatTimeText":"जोपर्यंत आपण आमच्या इतर विमा पॉलिसीची तपासणी करू शकता"
+    }
+}

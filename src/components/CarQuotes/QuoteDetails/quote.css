@@ -1,0 +1,695 @@
+.parent-div-quote-details .car-quotes-detail-heading {
+  font-family: Nunito;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  float: left;
+  margin: 2px;
+}
+
+.parent-div-quote-details .no_of_plans {
+  font-family: Nunito;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+  margin-left: 15px;
+}
+
+.parent-div-quote-details .dropdown-quote-details .dropdown-quote-content {
+  min-width: 450px;
+  position: absolute;
+  background-color: #ffffff;
+  overflow: auto;
+  -webkit-box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+          box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+  margin-left: 6.5rem;
+  margin-top: -4px;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+
+.parent-div-quote-details .dropdown-quote-details .dropdown-quote-content p {
+  padding: 6px 15px;
+  margin: 0px;
+  cursor: pointer;
+}
+
+.parent-div-quote-details .dropdown-quote-details .dropdown-quote-content p:hover {
+  background: #f0f0f0;
+}
+
+.parent-div-quote-details .dropdown-quote-details .dropdown-insurer-div {
+  border: 1px solid #000000;
+  border-radius: 40px;
+  display: inline-block;
+  padding: 4px 15px;
+  margin: 4px 6rem;
+  cursor: pointer;
+}
+
+.parent-div-quote-details .dropdown-quote-details .dropdown-insurer-div .package-name {
+  font-family: Nunito;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.parent-div-quote-details .dropdown-quote-details .dropdown-insurer-div .cust-gb-rating {
+  margin-left: 15px;
+  font-family: Nunito;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: #808080;
+}
+
+.parent-div-quote-details .policy-broucher {
+  font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0da176;
+  float: right;
+  margin-top: 0.7rem;
+}
+
+.parent-div-quote-details table tbody tr td {
+  padding: 6px 0px;
+}
+
+.parent-div-quote-details table tbody tr td .recommended {
+  display: block;
+  float: right;
+}
+
+.parent-div-quote-details table tbody tr td .recommended .amount {
+  font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: italic;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0da176;
+  float: right;
+}
+
+.parent-div-quote-details table tbody tr td .dropdown-comp-cover {
+  color: #000000;
+}
+
+.parent-div-quote-details table tbody tr td .dropdown-comp-cover .dropdown-comp-cover-btn {
+  cursor: pointer;
+}
+
+.parent-div-quote-details table tbody tr td .dropdown-comp-cover .dropdown-comp-cover-content {
+  min-width: 142px;
+  text-align: left;
+  background: white;
+  -webkit-box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+          box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+  position: absolute;
+  overflow: auto;
+  margin-left: 2.4rem;
+  margin-top: 4px;
+}
+
+.parent-div-quote-details table tbody tr td .dropdown-comp-cover .dropdown-comp-cover-content p {
+  padding: 6px 15px;
+  margin: 0;
+}
+
+.parent-div-quote-details table tbody tr td .dropdown-comp-cover .dropdown-comp-cover-content p:hover {
+  background: #d8d8d8;
+  cursor: pointer;
+}
+
+.parent-div-quote-details table tbody tr td div.td2 {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: #000000;
+}
+
+.parent-div-quote-details table tbody tr td div.td2 .dropdown-year-btn {
+  cursor: pointer;
+  display: inline-block;
+}
+
+.parent-div-quote-details table tbody tr td div.td2 .dropdown-year-content {
+  min-width: 142px;
+  text-align: left;
+  background: white;
+  -webkit-box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+          box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+  position: absolute;
+  overflow: auto;
+  margin-left: 1rem;
+  margin-top: 4px;
+}
+
+.parent-div-quote-details table tbody tr td div.td2 .dropdown-year-content p {
+  padding: 6px 15px;
+  margin: 0;
+}
+
+.parent-div-quote-details table tbody tr td div.td2 .dropdown-year-content p:hover {
+  background: #d8d8d8;
+  cursor: pointer;
+}
+
+.parent-div-quote-details table tbody tr td:first-child {
+  float: left;
+}
+
+.parent-div-quote-details table tbody tr td:first-child span {
+  font-family: Nunito;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+}
+
+.parent-div-quote-details table tbody tr td:first-child span .edit {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0da176;
+}
+
+.parent-div-quote-details table tbody tr td:first-child .guide-line {
+  font-family: Source Sans Pro;
+  font-size: 8px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0da176;
+}
+
+.parent-div-quote-details table tbody tr td:last-child {
+  font-family: Nunito;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: #808080;
+}
+
+.parent-div-quote-details table tbody tr td:last-child span {
+  float: right;
+}
+
+.parent-div-quote-details table tbody tr td:last-child .no_of_garage {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0da176;
+}
+
+.parent-div-quote-details table tbody .current-amount {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+  text-align: center;
+  margin: 4px 0px -1rem 0px;
+}
+
+.parent-div-quote-details table tbody .minValue {
+  font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  display: inline-block;
+  float: left;
+}
+
+.parent-div-quote-details table tbody .maxValue {
+  font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  display: inline-block;
+  float: right;
+}
+
+.parent-div-quote-details .plan-incl-excl-text {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0da176;
+  margin-top: 15px;
+}
+
+.parent-div-quote-details .key-feature-div {
+  margin-top: 1rem;
+}
+
+.parent-div-quote-details .key-feature-div .MOB-KEY-FEATURE p {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.parent-div-quote-details .key-feature-div .MOB-KEY-FEATURE .key-feature-heading {
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  margin-bottom: 1rem;
+}
+
+.parent-div-quote-details .key-feature-div .oval {
+  width: 54px;
+  height: 54px;
+  border: solid 1px #979797;
+  background-color: #d8d8d8;
+  border-radius: 50px;
+}
+
+.parent-div-quote-details .key-feature-div .key-feature-heading {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  margin: 0;
+}
+
+.parent-div-quote-details .key-feature-div .see-more {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ea0b4b;
+  float: right;
+}
+
+.parent-div-quote-details .addons-div .addons-heading {
+  font-family: Nunito;
+  font-size: 20px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.parent-div-quote-details .addons-div .addon-name {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+}
+
+.parent-div-quote-details .addons-div .benifits {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+}
+
+.parent-div-quote-details .addons-div .addon-desc {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+}
+
+.parent-div-quote-details .addons-div .addon-price {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+  display: inline;
+}
+
+.parent-div-quote-details .addons-div .a-r-checkbox {
+  display: inline;
+  float: right;
+}
+
+.parent-div-quote-details .additional-cover-div .accr-name {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+  padding: 0px;
+  margin: 0px;
+}
+
+.parent-div-quote-details .additional-cover-div hr {
+  margin: 4px -2px;
+}
+
+.parent-div-quote-details .performance-details .pf-d-heading {
+  font-family: Nunito;
+  font-size: 20px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.parent-div-quote-details .performance-details .box {
+  border: solid 1px #979797;
+  display: inline-block;
+  margin: 1rem;
+}
+
+.parent-div-quote-details .performance-details .box .text-box {
+  padding: 1rem;
+}
+
+.parent-div-quote-details .performance-details .box .text-box p.text-1 {
+  font-family: Nunito;
+  font-size: 32px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0da176;
+}
+
+.parent-div-quote-details .performance-details .box .text-box p.text-2 {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+}
+
+.parent-div-quote-details .policy-details .policy-details-heading {
+  font-family: Nunito;
+  font-size: 20px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  margin-top: 0.5rem;
+}
+
+.parent-div-quote-details .policy-details .tabs {
+  background-color: #9c0f46;
+  margin: 1rem 0rem;
+}
+
+.parent-div-quote-details .policy-details .tabs ul {
+  padding: 12px 0;
+  text-align: center;
+}
+
+.parent-div-quote-details .policy-details .tabs ul li {
+  list-style: none;
+  display: inline;
+  padding: 12px 53px;
+  color: white;
+}
+
+.parent-div-quote-details .policy-details .tabs ul li.active::after {
+  content: '';
+  position: relative;
+  top: 50px;
+  left: -75px;
+  width: 0;
+  height: 0;
+  border-top: solid 20px #9c0f46;
+  border-left: solid 20px transparent;
+  border-right: solid 20px transparent;
+}
+
+.parent-div-quote-details .policy-details .tabs ul li.nactive::after {
+  content: '';
+  position: relative;
+  top: 50px;
+  left: -75px;
+  width: 0;
+  height: 0;
+  border-top: solid 20px transparent;
+  border-left: solid 20px transparent;
+  border-right: solid 20px transparent;
+}
+
+.parent-div-quote-details .policy-details .tab-content .key-benifit-heading {
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+  margin-top: 15px;
+}
+
+.parent-div-quote-details .policy-details .tab-content p {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+}
+
+.parent-div-quote-details .policy-details .disclaimer {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+}
+
+.parent-div-quote-details .policy-details .disclaimer-text {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+}
+
+.parent-div-quote-details .policy-details .disclaimer-text span {
+  color: #0da176;
+}
+
+.parent-div-quote-details .licenced_no {
+  font-family: Nunito;
+  font-size: 10px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+  margin-top: 4px;
+}
+
+.parent-div-quote-details .rectangle {
+  width: 46px;
+  height: 55px;
+  border: solid 1px #979797;
+  background-color: #d8d8d8;
+  display: inline-block;
+  margin: 0px 6px;
+}
+
+@media screen and (max-width: 767px) {
+  .parent-div-quote-details {
+    margin-top: -20px;
+  }
+  .parent-div-quote-details .car-quotes-detail-heading {
+    font-size: 18px;
+  }
+  .parent-div-quote-details .dropdown-quote-details .dropdown-quote-content {
+    margin: 0;
+  }
+  .parent-div-quote-details .dropdown-insurer-mobile {
+    margin: 4px 0px;
+    float: right;
+  }
+  .parent-div-quote-details .dropdown-insurer-mobile .dropdown-insurer-mobile-btn {
+    font-family: Nunito;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+  }
+  .parent-div-quote-details div.cust-gb-rating {
+    font-family: Nunito;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0;
+    letter-spacing: normal;
+    float: right;
+    color: #808080;
+    margin-top: -8px;
+  }
+  .parent-div-quote-details .policy-broucher {
+    text-align: right;
+    display: block;
+    width: 100%;
+    margin-right: 0.5rem;
+  }
+  .parent-div-quote-details table tbody tr td .dropdown-comp-cover .dropdown-comp-cover-btn {
+    white-space: nowrap;
+  }
+  .parent-div-quote-details table tbody tr td .dropdown-comp-cover .dropdown-comp-cover-content {
+    margin: 0;
+    float: left;
+  }
+  .parent-div-quote-details table tbody tr td div.td2 .dropdown-year-content {
+    margin-left: 0;
+    min-width: 110px;
+  }
+  .parent-div-quote-details .performance-details .box {
+    margin: 0.5rem;
+  }
+  .parent-div-quote-details .policy-details .tabs ul li {
+    padding: 12px 8px;
+    font-size: 10px;
+  }
+  /* .parent-div-quote-details .policy-details .tabs ul li.active::after {
+    content: '';
+    position: relative;
+    top: 35px;
+    left: -65px;
+    width: 0;
+    height: 0;
+    border-top: solid 15px #9c0f46;
+    border-left: solid 15px transparent;
+    border-right: solid 15px transparent;
+  } */
+  /* .parent-div-quote-details .policy-details .tabs ul li.nactive::after {
+    content: '';
+    position: relative;
+    top: 35px;
+    left: -65px;
+    width: 0;
+    height: 0;
+    border-top: solid 20px transparent;
+    border-left: solid 20px transparent;
+    border-right: solid 20px transparent;
+    display: none;
+  } */
+  .parent-div-quote-details .rectangle {
+    width: 34px;
+    height: 41px;
+  }
+}
+/*# sourceMappingURL=quote.css.map */

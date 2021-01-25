@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="232" viewBox="0 0 63 232">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" d="M-689-1549H751v3785H-689z"/>
+        <path stroke="#979797" stroke-dasharray="8,6" stroke-linecap="square" d="M31.5 0v233"/>
+        <path fill="#FFF" d="M0 79h63v45H0z"/>
+        <text fill="#868686" font-family="Nunito-Regular, Nunito" font-size="28">
+            <tspan x="11" y="113">OR</tspan>
+        </text>
+    </g>
+</svg>

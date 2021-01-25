@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 6.175">
+    <defs>
+        <style>
+            .cls-1{fill:gray}
+        </style>
+    </defs>
+    <path id="ic_keyboard_arrow_down_24px" d="M7.175 7.84L11 11.657l3.825-3.817L16 9.015l-5 5-5-5z" class="cls-1" transform="translate(-6 -7.84)"/>
+</svg>

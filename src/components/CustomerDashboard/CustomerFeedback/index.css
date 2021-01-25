@@ -1,0 +1,54 @@
+.customer-feedback {
+  overflow-x: hidden;
+  padding-top: 4rem;
+}
+.customer-feedback .feedback-container {
+  background-color: #f3f5fb;
+}
+.customer-feedback .feedback-container .main-heading-1 {
+  color: #ea0b4b;
+  text-decoration: underline;
+  margin: 1rem 0rem;
+  font-weight: 600;
+}
+.mui-col-md-3 .mui-col-xs-12 .btn-submit button[disabled]{
+  background-color: aqua !important
+}
+.customer-feedback .feedback-container .feedback-column {
+  padding: 0;
+}
+.customer-feedback .feedback-container .share-views {
+  color: #000000;
+  margin: 1rem 0rem;
+}
+.customer-feedback .feedback-container .textarea {
+  background-color: '#f3f5fb';
+}
+.customer-feedback .feedback-container .submit-btn {
+  float: right;
+}
+.customer-feedback .right-column {
+  padding: 0;
+}
+.purpose {
+  margin: 2rem 0rem 0rem 0rem;
+}
+@media screen and (max-width: 767px) {
+  .customer-feedback {
+    margin-top: 0px;
+    overflow-x: hidden;
+    padding: 3rem 0rem;
+  }
+  .customer-feedback .btn-submit {
+    margin: 2rem 0rem 1rem 0rem;
+  }
+  .customer-feedback .feedback-container {
+    background-color: #ffffff;
+  }
+  .customer-feedback .feedback-container .submit-btn {
+    float: none;
+  }
+  .customer-feedback .textarea {
+    background-color: '#ffffff';
+  }
+}

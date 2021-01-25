@@ -1,0 +1,155 @@
+
+ .heading-card-1{
+    color: #505050;
+    margin:1rem 0rem;
+    text-align: center;
+}
+.heading-card-2{
+    color: #808080;
+    margin:1rem 0rem;
+    text-align: center;
+}
+
+.image-border{
+    text-align: center;
+}
+.male{
+    /* transform: translate(0%,70%); */
+    text-align: center;
+}
+.female-image{
+    text-align: left;
+}
+.female-image.image-border{
+    text-align: center;
+}
+.female{
+    /* transform: translate(0%,70%); */
+    text-align: center;
+}
+.card-btn-1{
+    margin:0rem 0rem 2rem 2rem;
+    text-align: right;
+}
+.card-btn-2{
+    margin:0rem 2rem 2rem 0rem;
+    text-align: left;
+}
+.keyword{
+    margin:1rem 0rem;
+    text-align: center;
+    color:#000000;
+ }
+ .data{
+    margin:1rem 0rem;  
+    text-align: center;
+    color:#ea0b4b;
+    font-weight: 600;
+ }
+.list-alternate-buyer-health li:before {
+    font-family: FontAwesome;
+    content:'•';
+    color: #333333;
+    font-size: 20px;
+    padding-right: 5px;
+    margin-left: -1.1em;
+}
+
+.list-alternate-buyer-health li {
+    list-style-type: none;
+    display: block;
+    margin-left: 1em;
+    margin-top: 1em;
+}
+.list-alternate-buyer-health li p{
+    margin-top: 1em;
+}
+.health-insurance-claim-heading-alternate {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  color: #333333;
+}
+.health-insurance-claim-key-alternate::before {
+    content:'-';
+    color: #333333;
+    font-size: 20px;
+}
+.red-note-alternate-health {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  color: #d0021b;
+  margin-left: -15px;
+}
+.pie {
+    margin: 20px;
+  }
+  
+  .pie text {
+    font-family: "Verdana";
+    fill: #888;
+  }
+  
+  .pie .name-text{
+    font-size: 1em;
+  }
+  
+  .pie .value-text{
+    font-size: 3em;
+  }
+.panel-row-alternate-buyer{
+    background-color:#ebebeb
+}
+.pre-medical-required{
+  width: 27px;
+  height: 24px;
+  border-radius: 4px;
+  background-color: #808080;
+  margin: 0rem 0rem 1rem 10rem;  
+}
+.subtext{
+    margin-top: 3px;
+}
+
+@media screen and (max-width: 767px) {
+    .health-column-alternate-buyer-from {
+        margin-top: 0px;
+    }
+    .alternateBuyerJourney{
+        overflow-x: hidden;
+    }
+    .panel-row-alternate-buyer{
+        background-color:#ffffff;
+    }
+    .keyword{
+        margin:1rem 0px;
+     }
+     .data{
+        margin:1rem 0px;  
+     }
+     .pre-medical-required{
+        width: 27px;
+        height: 24px;
+        border-radius: 4px;
+        background-color: #808080;
+        margin: 0rem 0rem 1rem 4rem;  
+      }
+      #insurer-logo-column{
+        padding:0;
+    }
+    .table-div-alternate-buyer-insurer table tr td{
+        padding:8px 2px;
+    }
+    .panel-alternate-green-div-body{
+        padding: 18px 15px;
+    }
+}

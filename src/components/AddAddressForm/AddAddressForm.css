@@ -1,0 +1,29 @@
+.addAddressHeading {
+  font-family: Nunito;
+  font-size: 22px;
+  color: #000000;
+  margin-bottom: 0.5rem;
+  display: inline-block;
+}
+.inputDiv {
+  display: inline-block;
+  width: 20rem;
+  margin-top: 0.5rem;
+}
+.SaveButton {
+  display: inline-block;
+  width: 20rem;
+  margin-top: 1rem;
+}
+@media screen and (max-width: 544px) {
+  .ArrowPic {
+    float: left;
+    margin-top: 9px;
+  }
+  .inputDiv {
+    width: 17rem;
+  }
+  .SaveButton {
+    width: 17rem;
+  }
+}

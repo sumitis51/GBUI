@@ -1,0 +1,124 @@
+.pos-lms {
+    .pos-lms-container {
+        background-color: #f4f4f4;
+        overflow-x: hidden;
+        padding: 7rem 12rem;
+        .lms-card {
+            // verification of otp
+            .pos-verification-pic {
+                background-color: #f7f7f7;
+                .verify-number {
+                    text-align: center;
+                    color: #000000;
+                    padding: 3rem 0rem;
+                }
+                .pos-pic {
+                    padding: 5rem 0rem;
+                    text-align: center;
+                }
+            }
+            .pos-verification-container {
+                padding: 1rem;
+                .verification-code {
+                    text-align: center;
+                    color: #000000;
+                    margin: 3rem 0rem 0rem 0rem;
+                }
+                .type-your-code-column {
+                    padding: 0rem 4rem;
+                    .type-your-code {
+                        text-align: center;
+                        color: #808080;
+                        margin: 0.5rem 0rem;
+                    }
+                }
+                .entered-wrong-number {
+                    color: #333333;
+                    text-align: center;
+                    .edit {
+                        color: #0da176;
+                    }
+                }
+                .button-confirm {
+                    margin-top: 5rem;
+                }
+                .time-left {
+                    text-align: center;
+                    color: #000000;
+                    margin-top: 1rem;
+                }
+                .time {
+                    text-align: center;
+                    color: #0da176;
+                }
+            }
+        }
+    }
+}
+
+.edit-mobile-number {
+    text-align: center;
+    margin: 1rem 0rem;
+}
+
+.mobile {
+    text-align: center;
+}
+
+.get-otp {
+    text-align: center;
+    margin: 4rem 0rem 2rem 0rem;
+}
+
+@media screen and (max-width:992px) {
+    .pos-lms {
+        .pos-lms-container {
+            overflow-x: hidden;
+            padding: 2rem;
+            .card-container {
+                box-shadow: none;
+            }
+        }
+        .edit-mobile-number {
+            text-align: left;
+            margin: 1rem 0rem 0rem 4rem;
+        }
+        .mobile {
+            margin-top: 4rem;
+        }
+        .get-otp {
+            margin: 6rem 0rem 2rem 0rem;
+        }
+    }
+}
+
+@media screen and (max-width:767px) {
+    .pos-lms {
+        .pos-lms-container {
+            overflow-x: hidden;
+            padding: 2rem 0rem 0rem 0rem;
+            margin-bottom: 4rem;
+            .card-container {
+                box-shadow: none;
+            }
+            .lms-card{
+                .pos-verification-container{
+                    .verification-code {
+                        margin: 1rem 0rem 0rem 0rem;
+                    }
+
+                }
+            }
+        }
+        .edit-mobile-number {
+            text-align: left;
+            margin: 1rem 0rem 0rem 4rem;
+        }
+        .mobile {
+            margin-top: 4rem;
+        }
+        .get-otp {
+            margin: 6rem 0rem 2rem 0rem;
+        }
+    }
+}

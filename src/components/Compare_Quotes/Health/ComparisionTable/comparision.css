@@ -1,0 +1,85 @@
+.compare-table-parent .header-key-parameters {
+  background-color: #333333;
+  color: white;
+  display: block;
+  width: 100%;
+}
+
+.compare-table-parent .header-key-parameters p {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  padding: 10px;
+}
+
+.compare-table-parent table {
+  width: 100%;
+  margin-top: -10px;
+}
+
+.compare-table-parent table tr td:not(:first-child) {
+  text-align: center;
+}
+
+.compare-table-parent table tr td {
+  padding: 8px 0px;
+}
+
+.compare-table-parent table tr td:first-child {
+  padding-left: 15px;
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.compare-table-parent table tr td.key_name {
+  width: 250px;
+}
+
+.compare-table-parent table tr td:not(:first-child) {
+  width: 250px;
+  font-family: Source Sans Pro;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.compare-table-parent table tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+@media screen and (max-width: 767px) {
+  .compare-table-parent table tr td:not(:first-child) {
+    font-size: 10px;
+  }
+  .compare-table-parent table tr td p {
+    white-space: nowrap;
+    overflow: visible;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    text-align: left;
+    margin: 0;
+    color: #ffffff;
+  }
+  .compare-table-parent table tr td p span {
+    background: #808080;
+    padding: 0px 4px;
+    border-radius: 10px;
+  }
+}
+/*# sourceMappingURL=comparision.css.map */

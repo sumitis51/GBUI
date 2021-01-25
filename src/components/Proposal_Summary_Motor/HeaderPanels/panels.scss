@@ -1,0 +1,64 @@
+.header-panels-parent {
+    .carname-heading {
+        font-family: Nunito;
+        font-size: 20px;
+        font-weight: 600;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+        margin-bottom: 0px;
+        display: inline-block;
+    }
+    .edit-carname-text {
+        font-family: Nunito;
+        font-size: 14px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #0da176;
+        display: inline-block;
+        margin-left: 15px;
+    }
+    .car-specifications {
+        display: inline-block;
+        vertical-align: middle;
+
+        span {
+            font-family: Source Sans Pro;
+            font-size: 12px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.43;
+            letter-spacing: normal;
+            color: #000000;
+            vertical-align: middle;
+        }
+    }
+    .link-1-p{
+        font-family: Source Sans Pro;
+        font-size: 10px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 2;
+        letter-spacing: normal;
+        color: #000000;
+        border-bottom: 1px solid #808080;
+    }
+    .edit-1-p {
+        font-family: Nunito;
+        font-size: 12px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #0da176;
+        float: right;
+    }
+}

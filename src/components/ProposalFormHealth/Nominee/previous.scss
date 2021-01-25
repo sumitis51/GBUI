@@ -1,0 +1,162 @@
+.previous-policy-detail-parent {
+
+    .step-details{
+        font-family: Nunito;
+        font-size: 10px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #333333;
+        margin: 0;
+    }
+    .step-name {
+        font-family: Nunito;
+        font-size: 14px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #333333;
+        margin: 0px;
+    }
+    .edit{
+        font-family: Source Sans Pro;
+        font-size: 14px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #333333;
+        margin: 10px 0px 0px 0px;
+        cursor: pointer;
+    }
+    .form-personal-details{
+        .personal-details-heading{
+            font-family: Nunito;
+            font-size: 18px;
+            font-weight: bold;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #ea0b4b;
+            margin: 0;
+        }
+        .step-detail-success{
+            font-family: Source Sans Pro;
+            font-size: 14px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #ea0b4b;
+            float: right;
+            margin-top: -20px;
+        }
+        .prev-insurer-name{
+            margin-left: 6px;
+        }
+    }
+    .button-next{
+        text-align: center;
+    }
+
+    .previous-show-details{
+
+        .step-detail{
+            font-family: Source Sans Pro;
+            font-size: 12px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #ea0b4b;
+            margin: 0;
+        }
+        .personal-heading{
+            font-family: Nunito;
+            font-size: 16px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+            margin: 0;
+        }
+        .edit{
+            font-family: Source Sans Pro;
+            font-size: 14px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #ea0b4b;
+            margin-bottom: 0;
+        }
+        .key-name{
+            font-family: Source Sans Pro;
+            font-size: 14px;
+            font-weight: 300;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #808080;
+        }
+        .key-value{
+            font-family: Source Sans Pro;
+            font-size: 16px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+        }
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .previous-policy-detail-parent{
+        .previous-show-details{
+            table {
+                width: 100%;
+            }
+        
+            table tbody tr td:first-child {
+                font-family: Source Sans Pro;
+                font-size: 12px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                line-height: normal;
+                letter-spacing: normal;
+                color: #808080;
+                white-space: nowrap;
+                padding: 4px 0px;
+            }
+            table tbody tr td:last-child {
+                font-family: Source Sans Pro;
+                font-size: 12px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                line-height: normal;
+                letter-spacing: normal;
+                text-align: right;
+                color: #000000;
+            }
+        }
+    }
+}

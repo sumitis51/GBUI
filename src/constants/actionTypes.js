@@ -1,0 +1,122 @@
+export const APP_LOAD = 'APP_LOAD';
+export const REDIRECT = 'REDIRECT';
+export const ARTICLE_SUBMITTED = 'ARTICLE_SUBMITTED';
+export const SETTINGS_SAVED = 'SETTINGS_SAVED';
+export const DELETE_ARTICLE = 'DELETE_ARTICLE';
+export const SETTINGS_PAGE_UNLOADED = 'SETTINGS_PAGE_UNLOADED';
+export const HOME_PAGE_LOADED = 'HOME_PAGE_LOADED';
+export const HOME_PAGE_UNLOADED = 'HOME_PAGE_UNLOADED';
+export const ARTICLE_PAGE_LOADED = 'ARTICLE_PAGE_LOADED';
+export const ARTICLE_PAGE_UNLOADED = 'ARTICLE_PAGE_UNLOADED';
+export const ADD_COMMENT = 'ADD_COMMENT';
+export const DELETE_COMMENT = 'DELETE_COMMENT';
+export const ARTICLE_FAVORITED = 'ARTICLE_FAVORITED';
+export const ARTICLE_UNFAVORITED = 'ARTICLE_UNFAVORITED';
+export const SET_PAGE = 'SET_PAGE';
+export const APPLY_TAG_FILTER = 'APPLY_TAG_FILTER';
+export const CHANGE_TAB = 'CHANGE_TAB';
+export const PROFILE_PAGE_LOADED = 'PROFILE_PAGE_LOADED';
+export const PROFILE_PAGE_UNLOADED = 'PROFILE_PAGE_UNLOADED';
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const REGISTER = 'REGISTER';
+export const LOGIN_PAGE_UNLOADED = 'LOGIN_PAGE_UNLOADED';
+export const REGISTER_PAGE_UNLOADED = 'REGISTER_PAGE_UNLOADED';
+export const ASYNC_START = 'ASYNC_START';
+export const ASYNC_END = 'ASYNC_END';
+export const EDITOR_PAGE_LOADED = 'EDITOR_PAGE_LOADED';
+export const EDITOR_PAGE_UNLOADED = 'EDITOR_PAGE_UNLOADED';
+export const ADD_TAG = 'ADD_TAG';
+export const REMOVE_TAG = 'REMOVE_TAG';
+export const UPDATE_FIELD_AUTH = 'UPDATE_FIELD_AUTH';
+export const UPDATE_FIELD_EDITOR = 'UPDATE_FIELD_EDITOR';
+export const FOLLOW_USER = 'FOLLOW_USER';
+export const UNFOLLOW_USER = 'UNFOLLOW_USER';
+export const PROFILE_FAVORITES_PAGE_UNLOADED = 'PROFILE_FAVORITES_PAGE_UNLOADED';
+export const PROFILE_FAVORITES_PAGE_LOADED = 'PROFILE_FAVORITES_PAGE_LOADED';
+export const POPUP_STEPPER_SHOW = 'POPUP_STEPPER_SHOW';
+export const POPUP_STEPPER_HIDE = 'POPUP_STEPPER_HIDE';
+export const POPUP_POLICY_SHOW = 'POPUP_POLICY_SHOW';
+export const POPUP_POLICY_HIDE = 'POPUP_POLICY_HIDE';
+export const POPUP_TEXT_SHOW = 'POPUP_TEXT_SHOW';
+export const POPUP_TEXT_HIDE = 'POPUP_TEXT_HIDE';
+export const POPUP_FORGOT_SHOW = 'POPUP_FORGOT_SHOW';
+export const POPUP_FORGOT_HIDE = 'POPUP_FORGOT_HIDE';
+export const POPUP_MOB_SEARCH_CAR_SHOW = 'POPUP_MOB_SEARCH_CAR_SHOW';
+export const POPUP_MOB_SEARCH_CAR_HIDE = 'POPUP_MOB_SEARCH_CAR_HIDE';
+export const POPUP_MOBILE_VALUE_INCREASE = 'POPUP_MOBILE_VALUE_INCREASE';
+export const POPUP_MOBILE_VALUE_DECREASE = 'POPUP_MOBILE_VALUE_DECREASE';
+export const SELECT_ADDRESS_SHOW = 'SELECT_ADDRESS_SHOW';
+export const SELECT_ADDRESS_HIDE = 'SELECT_ADDRESS_HIDE';
+export const SELECT_DATE_TIME_SHOW = 'SELECT_DATE_TIME_SHOW';
+export const SELECT_DATE_TIME_HIDE = 'SELECT_DATE_TIME_HIDE';
+export const AddAddressForm_SHOW = 'AddAddressForm_SHOW';
+export const AddAddressForm_HIDE = 'AddAddressForm_HIDE';
+/**
+ * Hide or show bought a new car popup features for input from motor
+ */
+export const BOUGHT_NEW_CAR_POPUP = 'BOUGHT_NEW_CAR_POPUP';
+
+/**
+ * Hide or show commer4cial vehicle features
+ */
+export const COMMERCIAL_VEHICLE = 'COMMERCIAL_VEHICLE';
+export const CurrentLanguage = 'CurrentLanguage';
+export const CurrentComponent = 'CurrentComponent';
+export const FetchLanguage = 'FetchLanguage';
+export const HEADER_LANGUAGE="HEADER_LANGUAGE";
+export const FOOTER_LANGUAGE="FOOTER_LANGUAGE";
+export const MAIN_HEADER_LANGUAGE="MAIN_HEADER_LANGUAGE";
+export const SET_STEP = 'SET_STEP';
+export const CHANGE_PASSWORD_SHOW='CHANGE_PASSWORD_SHOW';
+export const CHANGE_PASSWORD_HIDE='CHANGE_PASSWORD_HIDE';
+export const MY_ACCOUNT_CHANGE_POPUP_SHOW='MY_ACCOUNT_CHANGE_POPUP_SHOW';
+export const MY_ACCOUNT_CHANGE_POPUP_HIDE='MY_ACCOUNT_CHANGE_POPUP_HIDE';
+export const AddFamilyMemberForm_SHOW = 'AddFamilyMemberForm_SHOW';
+export const AddFamilyMemberForm_HIDE = 'AddFamilyMemberForm_HIDE';
+export const AddVehicleDetailForm_SHOW = 'AddVehicleDetailForm_SHOW';
+export const AddVehicleDetailForm_HIDE = 'AddVehicleDetailForm_HIDE';
+export const MAKEPAYMENT_SHOW = 'MAKEPAYMENT_SHOW';
+export const MAKEPAYMENT_HIDE = 'MAKEPAYMENT_HIDE';
+export const LOGIN_BY_OTP = 'LOGIN_BY_OTP';
+export const Drawer_visible = 'Drawer_visible';
+export const MEMBER_DETAIL_VISIBLE = 'MEMBER_DETAIL_VISIBLE';
+export const WORK_FLOW_VISIBLE = 'WORK_FLOW_VISIBLE';
+export const SELECT_PATHLAB = 'SELECT_PATHLAB';
+export const EDIT_POS_DETAILS = 'EDIT_POS_DETAILS';
+export const FORM_CV_UPLOAD = 'FORM_CV_UPLOAD';
+export const PATHLAB_VIEW_MODAL = 'PATHLAB_VIEW_MODAL';
+export const PREMIUM_BREAKUP_MODAL = 'PREMIUM_BREAKUP_MODAL';
+
+// Health
+
+export const INPUT_FORM_HEALTH = 'INPUT_FORM_HEALTH';
+export const GROUP_HEALTH_TABS = 'GROUP_HEALTH_TABS';
+export const PROPOSAL_FORM_HEALTH = 'PROPOSAL_FORM_HEALTH';
+export const PROPOSAL_FORM_HEALTH_MEMBER = 'PROPOSAL_FORM_HEALTH_MEMBER';
+export const INSURED_MEMBER_TAB_VALUE = 'INSURED_MEMBER_TAB_VALUE';
+export const PREMIUM_DETAILS = 'PREMIUM_DETAILS'
+export const CURRENT_PLAN = 'CURRENT_PLAN'
+export const SELF_SPOUSE_FG_ALERT = 'SELF_SPOUSE_FG_ALERT'
+export const MARITAL_STATUS_CODES = 'MARITAL_STATUS_CODES'
+
+export const RATING_POPUP = 'RATING_POPUP'
+
+
+
+// Auth related actions by mk
+
+export const AUTH_START = 'AUTH_START';
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
+export const AUTH_FAIL = 'AUTH_FAIL';
+export const SET_TOKEN = 'SET_TOKEN';
+export const SET_USER = 'SET_USER';
+
+
+
+
+
+
+
+
+

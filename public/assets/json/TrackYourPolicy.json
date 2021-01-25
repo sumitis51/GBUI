@@ -1,0 +1,42 @@
+{
+    "en":{
+        "TrackYourPolicyPolicyStatusHeading":"Policy Status",
+        "TrackYourPolicyPreMedicalCheckup":"Pre-medical checkup for health (Self + Parents)",
+        "TrackYourPolicyPreinspectionDone":"Preinspection Done",
+        "TrackYourPolicyPreinspectionForMotorRegistrationNumber":"Preinspection for Motor(Registration Number)",
+        "TrackYourPolicyStatusHeading":"Status",
+        "TrackYourPolicyRequestNumberHeading":"Request Number",
+        "TrackYourPolicyDateTimeOfInspection":"Date and Time of inspection ",
+        "TrackYourPolicyInsurerCompany":"Insurer Company",
+        "TrackYourPolicyPolicyName":"Policy Name",
+        "TrackYourPolicyProposalForm":"Proposal Form",
+        "TrackYourPolicyPremiumAmount":"Premium Amount(including GST)",
+        "TrackYourPolicyAsyourpreinspection":"As your preinspection is done so it’s pay time",
+        "TrackYourPolicyMakePayment":"Make Payment",
+        "TrackYourPolicyByContinuing":"By continuing you are agreeing to alll the",
+        "TrackYourPolicyTnC":"Terms and Conditions",
+        "TrackYourPolicyAnd":"and",
+        "TrackYourPolicyPrivacyPolicies":"Privacy policies",
+        "TrackYourPolicyOfGroupBima":"of Group Bima"
+    },
+    "mr":{
+        "TrackYourPolicyPolicyStatusHeading":"धोरण स्थिती",
+        "TrackYourPolicyPreMedicalCheckup":"आरोग्यासाठी पूर्व-वैद्यकीय तपासणी (स्वयं + पालक)",
+        "TrackYourPolicyPreinspectionDone":"पूर्व तपासणी पूर्ण झाली",
+        "TrackYourPolicyPreinspectionForMotorRegistrationNumber":"मोटार (नोंदणी क्रमांक) साठी पूर्व तपासणी",
+        "TrackYourPolicyStatusHeading":"स्थिती",
+        "TrackYourPolicyRequestNumberHeading":"विनंती क्रमांक",
+        "TrackYourPolicyDateTimeOfInspection":"तपासणीची तारीख आणि वेळ",
+        "TrackYourPolicyInsurerCompany":"विमा कंपनी",
+        "TrackYourPolicyPolicyName":"पॉलिसीचे नाव",
+        "TrackYourPolicyProposalForm":"प्रस्ताव फॉर्म",
+        "TrackYourPolicyPremiumAmount":"प्रीमियम रक्कम (जीएसटीसह)",
+        "TrackYourPolicyAsyourpreinspection":"आपल्या प्रत्यय म्हणून",
+        "TrackYourPolicyMakePayment":"भरणा करा",
+        "TrackYourPolicyByContinuing":"सुरु ठेवून आपण सर्वांसाठी जात आहात",
+        "TrackYourPolicyTnC":"नियम व अटी",
+        "TrackYourPolicyAnd":"आणि",
+        "TrackYourPolicyPrivacyPolicies":"गोपनीयता धोरण",
+        "TrackYourPolicyOfGroupBima":"ग्रुप बिमाचा"
+    }
+}

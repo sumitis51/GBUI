@@ -1,0 +1,19 @@
+.contact-us {
+  padding: 0rem 1rem 0rem 1rem;
+  overflow-x: hidden;
+  text-align: right;
+}
+.contact-us .connect-container {
+  padding: 0px;
+}
+.contact-us .connect-container .connect-row .connect-with-us-column {
+  border-left: solid 4px #808080;
+  padding: 0;
+}
+.contact-us .connect-container .connect-row .connect-with-us-column .connect-with-us-container-image {
+  position: relative;
+}
+.contact-us .connect-container .connect-row .connect-with-us-column .connect-with-us-container-image .connect-with-us-image {
+  width: 100%;
+  height: auto;
+}

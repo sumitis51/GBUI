@@ -1,0 +1,92 @@
+.compare-table-parent{
+
+    .header-key-parameters{
+        background-color: #333333;
+        color: white;
+        display: block;
+        width: 100%;
+        p{
+            font-family: Source Sans Pro;
+            font-size: 14px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #ffffff;
+            padding: 10px;
+        }
+    }
+    table{
+        width: 100%;
+        margin-top: -10px;
+        
+
+        tr{
+            td:not(:first-child){
+                text-align: center;
+            }
+            td{
+                padding: 8px 0px;
+            }
+            td:first-child{
+                padding-left: 15px;
+                font-family: Source Sans Pro;
+                font-size: 14px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                line-height: normal;
+                letter-spacing: normal;
+                color: #000000;
+            }
+            td.key_name{
+                width: 250px;
+            }
+            td:not(:first-child){
+                width: 250px;
+                font-family: Source Sans Pro;
+                font-size: 18px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                line-height: normal;
+                letter-spacing: normal;
+                color: #000000;
+            }
+        }
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    }
+}
+
+
+@media screen and (max-width: 767px) {
+    .compare-table-parent{
+        table{
+            tr{
+                td:not(:first-child) {
+                    font-size: 10px;
+                }
+                td{
+                    p{
+                        white-space: nowrap;
+                        overflow: visible;
+                        display: flex;
+                        text-align: left;
+                        margin: 0;
+                        color: #ffffff;
+                        
+                        
+                        span{
+                            background: #808080;
+                            padding: 0px 4px;
+                            border-radius: 10px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

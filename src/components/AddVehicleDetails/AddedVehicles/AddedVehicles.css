@@ -1,0 +1,82 @@
+.addedVehicle .mui-container-fluid {
+  overflow-x: hidden;
+  padding-top: 10px;
+}
+.addedVehicle .mui-container-fluid .AddedVehicleDetailsContainer {
+  background-color: #f3f5fb;
+  margin: 3rem 0rem 0rem 2rem;
+  padding-bottom: 15rem;
+}
+.addedVehicle .mui-container-fluid .AddedVehicleDetailsContainer .AddedVehicleDetails {
+  margin-bottom: 20rem;
+  margin: 2rem 0rem;
+}
+.addedVehicle .mui-container-fluid .AddedVehicleDetailsContainer .AddedVehicleDetails .YourVehiclesText {
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 600;
+  color: #0da176;
+  text-decoration: underline;
+}
+.addedVehicle .mui-container-fluid .AddedVehicleDetailsContainer .AddedVehicleDetails .CardText {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: 600;
+  color: #0da176;
+  margin-left: 20px;
+}
+.addedVehicle .mui-container-fluid .AddedVehicleDetailsContainer .AddedVehicleDetails .VehicleNumber {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: 600;
+  color: #000000;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.addedVehicle .mui-container-fluid .AddedVehicleDetailsContainer .AddedVehicleDetails .Use {
+  font-family: Nunito;
+  font-size: 14px;
+  color: #000000;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.addedVehicle .mui-container-fluid .AddedVehicleDetailsContainer .AddedVehicleDetails .AddVehiclesButtonRight {
+  text-align: right;
+}
+.addedVehicle .mui-container-fluid .AddedVehicleDetailsContainer .AddedVehicleDetails .GetQuotesButton {
+  margin: 1rem 0rem 1rem 0rem;
+}
+.addedVehicle .mui-container-fluid .AddedVehicleDetailsContainer .AddedVehicleDetails .CoveredWithContainer {
+  background-color: #f4f4f4;
+}
+.addedVehicle .mui-container-fluid .AddedVehicleDetailsContainer .AddedVehicleDetails .CoveredWithContainer .CoveredWith {
+  font-family: Nunito;
+  font-size: 10px;
+  color: #0da176;
+  height: 20px;
+  margin: 0px 0px 0px 10px;
+  padding-top: 4px;
+}
+.addedVehicle .mui-container-fluid .AddedVehicleDetailsContainer .AddedVehicleDetails .CoveredWithContainer .NotCoveredWith {
+  font-family: Nunito;
+  font-size: 10px;
+  color: #940016;
+  height: 20px;
+  margin: 0px 0px 0px 10px;
+  padding-top: 4px;
+}
+@media screen and (max-width: 767px) {
+  .addedVehicle .mui-container-fluid .AddedVehicleDetailsContainer {
+    background-color: #f3f5fb;
+    margin: 0rem;
+  }
+  .addedVehicle .mui-container-fluid .AddedVehicleDetailsContainer .AddedVehicleDetails {
+    margin: 1rem 0rem;
+  }
+  .addedVehicle .mui-container-fluid .AddedVehicleDetailsContainer .AddedVehicleDetails .GetQuotesButton {
+    margin: 1rem 2rem 1rem 2rem;
+  }
+  .addedVehicle .mui-container-fluid .AddedVehicleDetailsContainer .AddedVehicleDetails .AddVehiclesButtonRight {
+    margin: 0rem 0rem 15rem 0rem;
+  }
+}

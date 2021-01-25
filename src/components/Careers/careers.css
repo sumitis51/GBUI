@@ -1,0 +1,463 @@
+.career-page .mui-container-fluid {
+  background-color: #f4f4f4;
+  overflow: hidden;
+  padding: 0rem;
+}
+.career-page .mui-container-fluid .career-row {
+  margin: 0rem 2rem;
+}
+.career-page .mui-container-fluid .navigation-row {
+  margin: 0rem 1rem;
+}
+.career-page .mui-container-fluid .designing {
+  color: #000000;
+  margin: 0rem 2rem 1rem 2rem;
+}
+.career-page .mui-container-fluid .all-teams-div {
+  float: right;
+  margin: 2rem 2rem 0rem 2rem;
+}
+.career-page .mui-container-fluid .parent-panel {
+  margin: 0rem 2rem 1.2rem 2rem;
+}
+.career-page .mui-container-fluid .viewing-navigation {
+  color: #808080;
+  text-align: left;
+  margin: 1rem 0rem 1rem 0rem;
+}
+.career-page .mui-container-fluid .next-button {
+  text-align: right;
+  margin: 0rem 1.9rem 1rem 14rem;
+}
+.mySlides {
+  display: none;
+}
+img {
+  vertical-align: middle;
+}
+/* Slideshow container */
+.slideshow-container {
+  max-width: 100%;
+  position: relative;
+  margin: auto;
+}
+.carrer-image {
+  position: relative;
+}
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  display: none;
+}
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+  display: none;
+}
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+/* Caption text */
+.text {
+  color: #fff;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 10%;
+}
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+  display: none;
+}
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 10px;
+  width: 10px;
+  margin: 0 2px;
+  background-color: #333333;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+.active,
+.dot:hover {
+  background-color: #717171;
+  width: 13px;
+  height: 13px;
+}
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 2.5s;
+  animation-name: fade;
+  animation-duration: 2.5s;
+}
+@-webkit-keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fade {
+  from {
+    opacity: 0.2;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.carousel_caption_heading {
+  font-family: Nunito;
+  font-size: 36px;
+}
+.carousel_caption_text {
+  font-size: 16px;
+  text-align: center;
+}
+.caption {
+  margin-top: 10%;
+}
+.mySlides .text {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  bottom: 0px;
+}
+.careers_heading {
+  font-family: Nunito-Light;
+  font-size: 34px;
+  color: #000000;
+  text-align: center;
+  margin-top: 3%;
+}
+.careers_awesome_line {
+  color: #808080;
+  font-size: 16px;
+}
+.careers_search_button {
+  background-color: #0da176;
+  color: #fff;
+}
+.careers_search_button:hover {
+  background-color: #0da176;
+  color: #fff;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+  overflow: visible;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.16);
+}
+.career-container {
+  padding: 0rem 5rem;
+}
+.all-teams-div {
+  float: right;
+}
+.designing {
+  color: #000000;
+  margin: 0rem 1.2rem 1rem 1.2rem;
+}
+.userExpDesign {
+  color: #333333;
+  margin: 0.1rem 2rem;
+  font-weight: 600;
+}
+.exp {
+  color: #808080;
+  margin: 0.1rem 2rem;
+}
+.responsibilities {
+  margin: 0.1rem 2rem;
+  color: #333333;
+  font-weight: 600;
+}
+.details {
+  margin: 0px 3rem;
+}
+.view-more-button {
+  float: right;
+  padding: 0rem 1rem;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  padding-bottom: 12px;
+  margin-top: 2%;
+  right: 0;
+  overflow: visible;
+  z-index: 1 !important;
+}
+.dropdown-content:after,
+.dropdown-content:before {
+  bottom: 100%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+.dropdown-content:after {
+  border-bottom-color: #fff;
+  border-width: 10px;
+  left: 81%;
+  margin-left: -9px;
+}
+.dropdown-content:before {
+  border-bottom-color: #fff;
+  border-width: 10px;
+  left: 81%;
+  margin-left: -10px;
+}
+.dropdown-content p {
+  padding: 12px;
+  margin: 0px;
+  cursor: pointer;
+}
+.active_filter {
+  background-color: #f4f4f4;
+}
+/* .dropdown:hover .dropdown-content {
+  display: block;
+} */
+.btn {
+  position: relative;
+  display: block;
+  padding: 0;
+  overflow: hidden;
+  border-width: 0;
+  outline: none;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+  background-color: #f4f4f4;
+  color: #000000;
+  transition: background-color 0.3s;
+}
+.btn:hover,
+.btn:focus {
+  background-color: #f4f4f4;
+}
+.btn > * {
+  position: relative;
+}
+.btn span {
+  display: inline-block;
+  padding: 4px 40px ;
+  padding-bottom: 10px;
+}
+.btn:before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: block;
+  width: 0;
+  padding-top: 0;
+  border-radius: 100%;
+  background-color: rgba(236, 240, 241, 0.3);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.btn:active:before {
+  width: 120%;
+  padding-top: 120%;
+  transition: width 0.2s ease-out, padding-top 0.2s ease-out;
+}
+/* .button {
+  border: 2px solid #0da176;
+  background-color: white;
+  color: black;
+  padding: 8px 100px;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 2px;
+} */
+.job_form {
+  display: none;
+}
+/* Green */
+/* .button-success {
+  border-color: #0da176;
+  color: #0da176;
+}
+
+.button-success:hover {
+  background-color: #f4f4f4;
+} */
+.show_dropdown {
+  display: block;
+}
+.filter_btn {
+  background-color: #f4f4f4;
+}
+.filter_btn:hover {
+  background-color: #f4f4f4;
+}
+.mySlides img {
+  height: 484px;
+}
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {
+  display: block;
+}
+.jobs_heading {
+  font-size: 20px;
+  color: #000000;
+  font-family: Nunito-Light;
+}
+.job-card-header {
+  color: #000000;
+  font-size: 16px;
+  font-family: Nunito-Bold;
+}
+.job-card-sub-header {
+  color: #808080;
+  font-family: SourceSansPro-Regular;
+}
+.job-text {
+  font-size: 16px;
+  font-family: SourceSansPro-Regular;
+}
+.filter_container {
+  width: 791px;
+}
+.carrer-image.mobile_show { display:none; }
+
+@media only screen and (max-width: 1024px) {
+  .mySlides img {
+    height: 284px;
+  }
+}
+.col-md-hidden {
+  display: none;
+  padding: 0px;
+}
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 767px) {
+  .career-page .mui-container-fluid {
+    background-color: #f4f4f4;
+    overflow: hidden;
+    padding: 2rem 0rem;
+  }
+  .career-page .mui-container-fluid .career-row {
+    margin: 0rem 0rem;
+  }
+  .career-page .mui-container-fluid .mobile-navigation {
+    transform: translate(20%, 0%);
+  }
+  .career-page .mui-container-fluid .navigation-row {
+    margin: 0rem 1rem;
+  }
+  .career-page .mui-container-fluid .designing {
+    margin: 0rem;
+  }
+  .career-page .mui-container-fluid .all-teams-div {
+    margin: 1rem 0rem 1rem 0rem;
+    text-align: center;
+    float: none;
+  }
+  .career-page .mui-container-fluid .parent-panel {
+    margin: 1rem 0rem 2rem 0rem;
+  }
+  .career-page .mui-container-fluid .viewing-navigation {
+    color: #000000;
+    margin: 1rem 1rem 1rem 1rem;
+  }
+  .career-page .mui-container-fluid .userExpDesign {
+    margin: 0.2rem;
+    font-size: 16px;
+    text-align: left;
+  }
+  .career-page .mui-container-fluid .exp {
+    text-align: left;
+    margin: 0;
+  }
+  .career-page .mui-container-fluid .responsibilities {
+    text-align: left;
+    margin: 0;
+  }
+  .career-page .mui-container-fluid .details {
+    margin: 0px 8px;
+    text-align: left;
+  }
+  .career-page .mui-container-fluid .view-more-button {
+    margin: 1rem 0rem;
+    float: none;
+  }
+  .careers_search_button {
+    width: 100%;
+  }
+  .col-sm-hidden {
+    display: none;
+  }
+  .col-md-hidden {
+    display: block;
+    padding: 0px;
+    position: relative;
+    top: 0;
+    right: 0;
+  }
+  .filter_container {
+    width: 100%;
+  }
+  .button {
+    width: 100%;
+  }
+  .prev,
+  .next,
+  .text {
+    font-size: 11px;
+  }
+  .carousel_caption_heading {
+    font-family: Nunito-Regular;
+    font-size: 27px;
+  }
+  .carousel_caption_text {
+    font-size: 12px;
+    text-align: center;
+  }
+  .caption {
+    margin: 0px;
+  }
+  .mySlides img {
+    height: 184px;
+  }
+  .carrer-image { display:none }
+  .carrer-image.mobile_show { display: block; background: url(../../../public/assets/career_bg.png) no-repeat 0 0; background-size:cover; padding:25px 15px; font-family: Nunito; text-align:center }
+  .carrer-image.mobile_show h2 { color:#fff; font-size: 20px;}
+  .carrer-image.mobile_show p { color:#fff; font-family: Source Sans Pro; font-size:10px}
+  
+
+
+}

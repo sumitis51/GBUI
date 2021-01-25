@@ -1,0 +1,332 @@
+.become_pos_heading {
+    color:#000000;
+    font-size: 36px; 
+    text-align: center;
+    font-family: Nunito;
+}
+.more-about{
+    font-size: 12px;
+    color: #ea0b4b;
+    margin:1rem ;
+}
+ .bp_container {
+     padding-top: 5rem;
+     background: #ffffff;
+ }
+ .bp_container_div {
+     background: #ffffff;
+ }
+ .sp_heading {
+    color:#000000;
+    font-size: 24px; 
+    text-align: center;
+    font-family: Nunito;
+    margin-top: 0.5rem;
+ }
+ .textfield{
+   width:69%;
+   font-family: Source Sans Pro;
+ }
+
+ .agree_text {
+     margin-top: 30px;
+     font-family: Source Sans Pro;
+ }
+ .age-condition{
+  margin:15px 0px;
+  font-family: Source Sans Pro;
+  font-size: 14px;
+ }
+ .submit-button{
+   margin:2rem 2rem 14px 3rem;
+   text-align:center;
+ }
+
+ .form_row {
+     margin-top: 4rem;
+ }
+
+ .lhw_div {
+     background: #f4f4f4;
+ }
+ .lwh_text {
+     font-size: 34px;
+     color: #000000;
+     text-align: center;
+     font-family: Nunito;
+     padding-top: 1.5rem;
+ }
+ .lhiw_text {
+     font-size: 24px;
+     font-family: Nunito;
+     color: #000000;
+     padding-top: 2rem;
+ }
+ .liwh_para {
+     font-size: 16px;
+     line-height: 30px;
+     color: #000000;
+     font-size: Source Sans Pro;
+ }
+ .video_pos {
+     background-image: url('/assets/video_pos.png');
+     background-repeat: no-repeat;
+     background-size: 100%;
+     height: 350px;
+ }
+ .benifits_div {
+     background: #ffffff;
+ }
+ .benifit_sub_heading {
+    font-family: Nunito;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #333333;
+ }
+
+ .benifits_box {
+    width: 110px;
+    height: '110px';
+    background: #d8d8d8;
+ }
+ .benifit_text {
+     color: #808080;
+     font-size: 16px;
+     margin-top: 0.3rem;
+     margin-bottom: 1rem;
+ }
+
+ .mySlides {display: none}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 100%;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  display: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+  display: none;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #fff;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+  display: none;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 10px;
+  width: 10px;
+  margin: 0 2px;
+  background-color: #333333;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+  width: 13px;
+  height: 13px;
+}
+.dot_i {
+    cursor: pointer;
+    height: 10px;
+    width: 10px;
+    margin: 0 2px;
+    background-color: #333333;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  .active, .dot_i:hover {
+    /* background-color: #717171; */
+    width: 13px;
+    height: 13px;
+  }
+
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 2.5s;
+  animation-name: fade;
+  animation-duration: 2.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .2} 
+  to {opacity: 1}
+}
+
+.carousel_caption_heading {
+  font-family: Nunito;
+  font-size: 36px;
+}
+.carousel_caption_text {
+  font-size: 16px;
+  text-align: center;
+}
+
+.testmonial_div {
+    background: #f4f4f4;
+}
+.testmonial_head {
+  font-family: Nunito;
+  font-size: 34px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #333333;
+  margin-bottom: 2.5rem;
+  padding-top: 2rem;
+}
+.circle_test {
+    background: #000000;
+    border-radius: 50%;
+    margin: auto;
+}
+.test_text {
+  font-family: Source Sans Pro;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  color: #000000;
+  margin-top: 14px;
+}
+.testi_back {
+    background-image:url('/assets/copy.png');
+    background-repeat:no-repeat;
+    background-position:right bottom;
+    width: 79px;
+    height: 64px;
+    float: right;
+    margin-left: -6rem;
+}
+.testi_up {
+    background-image:url('/assets/invalid-name.png');
+    background-repeat:no-repeat;
+    background-position:top left;
+    width: 79px;
+    height: 64px;
+    margin-left: 7rem;
+    margin-top: -2rem;
+    margin-bottom: 1rem;
+}
+@media screen and (max-width: 768px) {
+     .become-pos{
+        overflow-x: hidden;
+     }
+    .bp_container {
+        padding-top: 6rem;
+        margin:0;
+        padding:5rem 0rem 0rem 0rem;
+    }
+    .insurer{
+      width:100%;
+      height:auto;
+    }
+    .become_pos_heading {
+        font-size: 24px;
+    }
+    .sp_heading {
+        font-size: 20px;
+     }
+     .agree_text {
+        margin-top: 1rem;
+        text-align: left;
+     }
+     .age-condition{
+      text-align: left;
+      font-size: 12px;
+     }
+     .submit-button{
+      margin: 17px 0rem 30px 0rem;
+     }
+    .textfield{
+      width:100%;
+    }
+    .form_row {
+        margin-top: 0rem;
+    }
+    .lwh_text {
+        font-size: 24px;
+        padding-top: 1rem;
+    }
+    .video_pos {
+        height: 320px
+    }
+    .benifit_text {
+        font-size: 12px;
+    }
+    .benifit_sub_heading {
+        font-size: 16px;
+     }
+}
+
+@media screen and (max-width: 468px) {
+    .video_pos {
+        height: 260px;
+    }
+}
+@media screen and (max-width: 390px) {
+    .video_pos {
+        height: 200px;
+    }
+}

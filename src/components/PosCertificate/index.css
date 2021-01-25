@@ -1,0 +1,163 @@
+.pos-training-certificate {
+  padding-top: 10px;
+  overflow-x: hidden;
+}
+.pos-training-certificate .stepbar-row {
+  padding: 0rem 25rem;
+}
+.pos-training-certificate .stepbar-row .line-columns {
+  padding: 0;
+}
+.pos-training-certificate .stepbar-row .line-columns .upload-documents {
+  text-align: right;
+  color: #000000;
+  margin-top: 9px;
+}
+.pos-training-certificate .stepbar-row .line-columns .training {
+  color: #000000;
+  margin-top: 9px;
+  text-align: left;
+}
+.pos-training-certificate .line-row {
+  padding: 0rem 37rem 0rem 35rem;
+}
+.pos-training-certificate .line-row .line-column {
+  padding: 0;
+}
+.pos-training-certificate .pos-training-certificate-container {
+  background-color: #ffffff;
+  padding: 2rem 16rem 4rem 16rem;
+  font-family: Nunito;
+}
+.pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container .pos-training-certificate-pic {
+  background-color: #f7f7f7;
+}
+.pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container .pos-training-certificate-pic .verify-number {
+  text-align: center;
+  color: #000000;
+  margin: 4rem 0rem 0rem 0rem;
+}
+.pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container .pos-training-certificate-pic .pos-documet-pos-certficate-pic {
+  padding: 4rem 3rem 5rem 3rem;
+}
+.pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container .pos-training-certificate-pic .pos-documet-pos-certficate-pic .pos-document-pic {
+  width: 100%;
+  height: auto;
+}
+.pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container .pos-training-certificate-div .pos-training-certificate-heading {
+  text-align: center;
+  margin-top: 4rem;
+  color: #000000;
+}
+.pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container .pos-training-certificate-div .pos-training-certificate-subheading {
+  text-align: center;
+  margin-top: 1rem;
+  color: #808080;
+}
+.pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container .pos-training-certificate-div .pos-training-certificate-text {
+  text-align: left;
+  color: #333333;
+  margin-top: 1rem;
+  padding: 0rem 0.2rem;
+}
+.pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container .pos-training-certificate-div .As-per-IRDAI-you-have {
+  text-align: left;
+  color: #000000;
+  margin-top: 1rem;
+  padding: 0rem 0.2rem;
+}
+.pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container .pos-training-certificate-div .button-download {
+  margin-top: 1rem;
+  padding: 0rem 0.2rem;
+}
+.pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container .pos-training-certificate-div .pos-appointment-letter {
+  text-align: center;
+  color: #333333;
+  margin-top: 3rem;
+}
+.pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container .pos-training-certificate-div .declaration {
+  margin-top: 1rem;
+}
+.pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container .pos-training-certificate-div .confirm-button {
+  margin: 1rem 0rem;
+}
+@media screen and (max-width: 992px) {
+  .pos-training-certificate {
+    overflow-x: hidden;
+    padding-top: 40px;
+  }
+  .pos-training-certificate .stepbar-row {
+    padding: 0rem 0rem;
+  }
+  .pos-training-certificate .stepbar-row .line-columns {
+    padding: 0;
+  }
+  .pos-training-certificate .stepbar-row .line-columns .upload-documents {
+    text-align: right;
+    color: #000000;
+    margin-top: 9px;
+  }
+  .pos-training-certificate .stepbar-row .line-columns .training {
+    color: #000000;
+    margin-top: 9px;
+    text-align: left;
+  }
+  .pos-training-certificate .line-row {
+    padding: 0rem 6rem 0rem 6rem;
+  }
+  .pos-training-certificate .line-row .line-column {
+    padding: 0;
+  }
+  .pos-training-certificate .pos-training-certificate-container {
+    padding: 4rem 5rem;
+  }
+  .pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container .pos-training-certificate-pic .pos-documet-pos-certficate-pic {
+    padding: 4rem 3rem 14rem 3rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .pos-training-certificate {
+    padding-top: 40px;
+    overflow-x: hidden;
+  }
+  .pos-training-certificate .stepbar-row {
+    padding: 0rem 0rem;
+  }
+  .pos-training-certificate .stepbar-row .line-columns {
+    padding: 0;
+  }
+  .pos-training-certificate .stepbar-row .line-columns .upload-documents {
+    text-align: right;
+    color: #000000;
+    margin-top: 9px;
+  }
+  .pos-training-certificate .stepbar-row .line-columns .training {
+    color: #000000;
+    margin-top: 9px;
+    text-align: left;
+  }
+  .pos-training-certificate .line-row {
+    padding: 0rem 3rem 0rem 3rem;
+  }
+  .pos-training-certificate .line-row .line-column {
+    padding: 0;
+  }
+  .pos-training-certificate .pos-training-certificate-container {
+    padding: 1rem 2rem 3rem 2rem;
+  }
+  .pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container {
+    box-shadow: none;
+  }
+  .pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container .pos-training-certificate-div .pos-training-certificate-heading {
+    margin-top: 0rem;
+  }
+  .pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container .pos-training-certificate-div .pos-training-certificate-text {
+    padding: 0rem;
+  }
+  .pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container .pos-training-certificate-div .As-per-IRDAI-you-have {
+    padding: 0rem;
+  }
+  .pos-training-certificate .pos-training-certificate-container .pos-training-certificate-card .card-container .pos-training-certificate-div .button-download {
+    padding: 0rem;
+  }
+}

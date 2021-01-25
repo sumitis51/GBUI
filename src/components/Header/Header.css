@@ -1,0 +1,110 @@
+.HeaderStyle {
+  background-color: #ffffff;
+  overflow: hidden;
+  box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.21);
+  width: 100%;
+  z-index: 10000;
+  margin-bottom: 8px;
+}
+.HeaderStyle .nav-header {
+  padding: 0.2rem 1rem;
+}
+.HeaderStyle .nav-header .GBlogo {
+  margin-left: 4rem;
+  margin-top: 0.6rem;
+}
+.HeaderStyle .nav-header .search-bar {
+  width: 78%;
+  height: 2rem;
+  margin-top: 5px;
+  background-color: #ffffff;
+  padding-left: 7px;
+  border-left: 1px solid #979797;
+}
+.HeaderStyle .nav-header .nav-item .nav-link {
+  font-family: "Nunito";
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: left;
+  color: #5e5971;
+  margin-left: 2rem;
+}
+.HeaderStyle .nav-header .nav-item .socialIcon {
+  margin-bottom: -0.4rem;
+}
+.HeaderStyle .sub-header {
+  margin: 0px -1rem;
+}
+.HeaderStyle .sub-header .mui-panel ul {
+  list-style-type: none;
+  text-align: center;
+  padding-top: 10px;
+}
+.HeaderStyle .sub-header .mui-panel ul li {
+  display: inline;
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  padding: 4px 120px;
+}
+.HeaderStyle .sub-header .mui-panel {
+  padding: 0px;
+}
+.HeaderStyle .mui-panel-heading-car {
+  font-family: Nunito;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+}
+.HeaderStyle .mui-panel-sub-heading-p {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+}
+@media screen and (max-width: 767px) {
+  .HeaderStyle {
+    position: fixed;
+    background-color: #ffffff;
+    overflow: hidden;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.15);
+    text-align: left;
+    height: 40px;
+  }
+  .HeaderStyle .nav-header {
+    padding: 0.4rem 1rem;
+  }
+  .HeaderStyle .nav-header .menu-logo .menuIcon {
+    display: inline;
+  }
+  .HeaderStyle .nav-header .menu-logo .GBlogo {
+    margin: 0rem 0rem 0.9rem 1rem;
+    width: 100px;
+  }
+  .HeaderStyle .nav-header .menu-logo .nav-link {
+    font-family: Nunito;
+    font-size: 14px;
+    color: #000000;
+    float: right;
+    margin-top: 0.2rem;
+  }
+  .HeaderStyle .nav-header .menu-logo .nav-link .circle-image {
+    margin-right: 8px;
+  }
+  .mobile_menu {display: inline-block}
+}

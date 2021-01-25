@@ -1,0 +1,84 @@
+{
+    "en": {
+        "CompareQuoteMotorCarQuoteComparisonHeading": "Car Quote Comparison",
+        "CompareQuoteMotorBackToQuotesSubheading": "BACK TO QUOTES",
+        "CompareQuoteMotorHeading": "Comparing 3 quotes",
+        "CompareQuoteMotorRadioButtonLabelCompareAllQuote": "Compare all quotes",
+        "CompareQuoteMotorRadioButtonCompareOnlyUniqueAttributes": "Compare only unique attributes",
+        "CompareQuoteMotorRadioButtonFilterCriteria3": "Filter criteria 3",
+        "CompareQuoteMotorButtonTextPrimary": "Primary",
+        "CompareQuoteMotorViewPlanDetailsLink": "View Plan Details",
+        "CompareQuoteMotorImportantDetailsHeading": "Important Details",
+        "imp_details": [
+            "Premium Amount",
+            "Insurer Declared Value",
+            "Premium per lac-IDV",
+            "Cashless Garages",
+            "Advance Cash",
+            "Zero Depriciation",
+            "Zero Dep. Claims allowed / year",
+            "Add-Ons (Included)",
+            "Add-Ons (Selected)"
+        ],
+        "CompareQuoteMotorOtherDetailsHeading": "Other Details",
+        "CompareQuoteMotorComprehensiveCoverageHeading": "Comprehensive Coverage",
+        "CompareQuoteMotorLiabilityHeading": "Liability",
+        "comp_cvr": [
+            "Own Damage",
+            "Owner / Driver PA Cover",
+            "Unnamed Passenger Cover"
+        ],
+        "liab_items": [
+            "Third Party Liability",
+            "Third Party Coverage Damage",
+            "Paid Driver"
+        ],
+        "CompareQuoteMotorMaximumUptoINRText": "Maximum upto INR 7,50,000",
+        "CompareQuoteMotorAddonsAvailableHeading": "Addons Available",
+        "CompareQuoteMotorButNotSelectedHelperText": "(But Not Selected)",
+        "CompareQuoteMotorCashlessGaragesHeading1": "Cashless Garages",
+        "CompareQuoteMotorAdvanceCashHeading": "Advance Cash",
+        "CompareQuoteMotorCashlessGaragesHeading2": "Cashless Garages"
+    },
+    "mr": {
+        "CompareQuoteMotorCarQuoteComparisonHeading": "कार भाव तुलना",
+        "CompareQuoteMotorBackToQuotesSubheading": "कोट परत",
+        "CompareQuoteMotorHeading": "लिंग",
+        "CompareQuoteMotorRadioButtonLabelCompareAllQuote": "सर्व कोट्स तुलना करा",
+        "CompareQuoteMotorRadioButtonCompareOnlyUniqueAttributes": "केवळ विशिष्ट गुणधर्मांची तुलना करा",
+        "CompareQuoteMotorRadioButtonFilterCriteria3": "फिल्टर निकष 3",
+        "CompareQuoteMotorButtonTextPrimary": "प्राथमिक",
+        "CompareQuoteMotorViewPlanDetailsLink": "योजना तपशील पहा",
+        "CompareQuoteMotorImportantDetailsHeading": "महत्वाचे तपशील",
+        "imp_details": [
+            "प्रीमियम रक्कम",
+            "ववमाकता घोषित मूल्य",
+            "प्रति लीक-आयडीव्ही प्रीमियम",
+            "कॅशलेस गॅरेज",
+            "अॅडव्हान्स कॅश",
+            "शून्य घसारा",
+            "झीरो डेप हक्क / वर्ष हक्क",
+            "अॅड-ऑन (समाविष्ट)",
+            "अॅड-ऑन (निवडलेले)"
+        ],
+        "CompareQuoteMotorOtherDetailsHeading": "इतर तपशील",
+        "CompareQuoteMotorComprehensiveCoverageHeading": "व्यापक कवरेज",
+        "CompareQuoteMotorLiabilityHeading": "उत्तरदायित्व",
+        "comp_cvr": [
+            "स्वत: ची हानी",
+            "मालक / ड्रायव्हर पीए कव्हर",
+            "अनामित प्रवासी कव्हर"
+        ],
+        "liab_items": [
+            "थर्ड पार्टी दायित्व",
+            "थर्ड पार्टी कव्हरेज नुकसान",
+            "सशुल्क चालक"
+        ],
+        "CompareQuoteMotorMaximumUptoINRText": "अधिकतम रु. 7,50,000 पर्यंत",
+        "CompareQuoteMotorAddonsAvailableHeading": "अॅडॉन उपलब्ध",
+        "CompareQuoteMotorButNotSelectedHelperText": "(परंतु निवडलेले नाही)",
+        "CompareQuoteMotorCashlessGaragesHeading1": "कॅशलेस गॅरेज",
+        "CompareQuoteMotorAdvanceCashHeading": "अॅडव्हान्स कॅश",
+        "CompareQuoteMotorCashlessGaragesHeading2": "कॅशलेस गॅरेज"
+    }
+}

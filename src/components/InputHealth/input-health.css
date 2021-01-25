@@ -1,0 +1,424 @@
+.input-form-health-parent-div {
+    background: #ffffff;
+}
+.insurance-fast-painless-heading-health {
+  font-family: Nunito;
+  font-size: 34px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+  margin:0px 0px 30px 0px;
+}
+.sub-heading-input-form-health {
+    font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+  text-align: center;
+}
+
+.tab-items-input-form-health ul li {
+  display: inline;
+  font-family: Nunito;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+  padding: 0px 28px 0px 20px;
+}
+.tab-items-input-form-health ul li:nth-child(1) {
+    padding-left: 0px;
+}
+.tab-items-input-form-health ul .active-li {
+    border-bottom: solid 2px #940016;
+    padding-left: 0px;
+}
+.health-form-col-sub-heading-heading {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+  margin-left: 2.6rem;
+}
+.health-form-input-field-radio-div {
+    margin-left: 2.4rem;
+}
+.form-insurance-input-health {
+    margin-left: 0.5rem;
+}
+.dialog-tabs-input-form-health-div ul {
+  display: flex;
+  list-style: none;
+}
+.dialog-tabs-input-form-health-div li {
+    padding: 10px 90px 10px 5px;
+    /* border: 1px solid black; */
+    font-family: 'Source Sans Pro';
+  font-size: 12px;
+  white-space: nowrap;
+    margin: 0 25px;
+    position: relative; line-height: 16px;
+}
+.dialog-tabs-input-form-health-div li.health-li-active {font-size: 17px}
+.dialog-tabs-input-form-health-div li.health-li-active.arrow-right {font-size:12px}
+.dialog-tabs-input-form-health-div li:not(:last-child):after{
+    content: '';
+  height: 1px;
+  background: black !important;
+  background-color: #000000;
+  width: 132px;
+  position: absolute;
+  right: -50px;
+  top: 50%;
+  z-index: 1000000000;
+}
+.dialog-tabs-input-form-health-div li.arrow-right:not(:last-child):after{
+    content: '';
+  height: 1px;
+  background: #ea0b4b !important;
+  background-color: #ea0b4b;
+  width: 132px;
+  position: absolute;
+  right: -50px;
+  top: 50%;
+  z-index: 1000000000;
+}
+.dialog-tabs-input-form-health-div li:not(:last-child):before{
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 0;
+  top: 50%;
+  border-style: solid;
+  border-width: 2px 0px 2px 5px;
+  border-color: transparent transparent transparent black;
+  right: -50px;
+  transform: translateY(-50%);
+  z-index: 1000000000;
+}
+.dialog-tabs-input-form-health-div li.arrow-right:not(:last-child):before{
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    top: 50%;
+    border-style: solid;
+    border-width: 2px 0px 2px 5px;
+    border-color: transparent transparent transparent red;
+    right: -50px;
+    transform: translateY(-50%);
+    z-index: 1000000000;
+  }
+.tab-content-div {
+    padding: 0px 90px;
+}
+.tab-1-input-form-health-text {
+    font-family: Nunito;
+  font-size: 20px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+.tab-1-input-form-sub-heading-line {
+    font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+}
+.input-form-health-parent-div .action-input-form-health {
+    text-align: center;
+}
+.action-input-form-health button:disabled { background: #ccc}
+.MuiSnackbarContent-root-305{
+    color:'#eaob4b !important'
+}
+.health-li-active {
+    color: #ea0b4b;
+}
+.health-li-visited {
+    color: #ea0b4b;
+}
+.input-form-health-parent-div #tab-2 {
+    text-align: center;
+}
+.what-is-age-health-heading {
+  font-family: Nunito;
+  font-size: 20px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  text-align: left;
+  margin: 0px auto 15px; max-width:365px;
+}
+.table-input-form-health-div-tab-2 table {
+    border-bottom: #333333;
+}
+.table-input-form-health-div-tab-2 table tr th{
+    background-color: #333333;
+    color: #ffffff;
+    padding: 8px 25px;
+    text-align: center
+}
+.table-input-form-health-div-tab-2 table tr th:first-child{
+    border-top-left-radius: 6px;
+}
+.table-input-form-health-div-tab-2 table tr th:not(:first-child){
+    border-top-right-radius: 6px;
+}
+.table-input-form-health-div-tab-2 table tr td:not(:first-child) {
+    text-align: center;
+    border-right: solid 1px #333333;
+}
+.table-input-form-health-div-tab-2 table tr td:first-child {
+    color:#000000;
+    text-align: center;
+    padding-left: 6px;
+}
+.table-input-form-health-div-tab-2 table tr td {
+    border-left: solid 1px #333333;
+}
+.table-input-form-health-div-tab-2 table tr:last-child {
+    border-bottom: solid 1px #333333;
+}
+.table-input-form-health-div-tab-2 table tr:nth-child(even) {
+    background: #f4f4f4
+}
+.add-member-div-input-form-health .link-add-member{
+    font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ea0b4b;
+  float: right;
+  margin-top: 10px
+}
+.tab-3-content .desease-heading {
+    font-family: Nunito;
+  font-size: 20px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+.tab-3-table table tr th{
+    text-align: center;
+}
+.tab-3-table table tr td:not(:first-child){
+    text-align: center;
+}
+.tab-3-table table tr th{
+    background-color: #333333;
+    color: #ffffff;
+    padding: 10px;
+
+}
+.tab-3-table table tr th:first-child {
+    border-top-left-radius: 6px;
+}
+.tab-3-table table tr th:last-child {
+    border-top-right-radius: 6px;
+}
+.tab-3-table table tr {
+    border-left: 1px solid #333333;
+    border-right: 1px solid #333333;
+}
+.tab-3-table table tr td:first-child {
+    padding-left: 8px;
+}
+.tab-3-table table tr td:not(:first-child) {
+    border-left: 1px solid #333333;
+}
+.tab-3-table table tr:last-child {
+    border-bottom: 1px solid #333333;
+}
+.tab-3-table table tr:nth-child(odd){
+    background: #f4f4f4;
+}
+.tab-4-content .details-div {
+    background: #f4f4f4;
+}
+.tab-4-div-content {
+    min-width: 900px;
+    overflow: hidden
+}
+
+.tab-4-div-content .content-div {
+    margin-top: 4rem;
+    margin-left: 2rem;
+}
+.tab-4-div-content .content-div .your-details-heading {
+    font-family: Nunito;
+  font-size: 20px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  margin-left: 1.5rem;
+  display: inline;
+  vertical-align: middle;
+}
+.tab-4-div-content .members-details-div {
+    font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  color: #000000;
+  margin-left: 2rem;
+  margin-top: 3rem;
+}
+.tab-4-div-content .button-outline {
+    text-align: center;
+    margin: 1rem 1rem;
+}
+
+.tab-4-div-content .div-content-col-8 {
+    margin-left: 2.5rem;
+    /* margin-top: 3.9rem; */
+}
+.tab-4-div-content .div-content-col-8 .personal-details-heading {
+    font-family: Nunito;
+  font-size: 20px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+.tab-4-div-content .div-content-col-8 .form-presonal-details {
+    margin-top: 1rem;
+}
+.tab-4-div-content .pincode-svg {
+    margin-top: 1.5rem;
+}
+.tab-4-div-content .below-hr-form .share-details {
+    font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  margin-top: 23px;
+  margin-bottom: -16px;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+.dialog-last-button-input-health {
+    margin-top: 3.2rem;
+    margin-bottom: 1rem;
+}
+
+/* Mobile view dialog  */
+
+.tabs-mobile-input-form-health div {
+    text-align: center;
+}
+.tabs-mobile-input-form-health div p{
+    display: inline;
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+    white-space: nowrap;
+    padding: 14px 28px;
+}
+.tab-mobile-content {
+    margin : 0px 15px 100px 15px;
+    padding-top: 15px;
+}
+.tab-mobile-content .navigation-div {
+    text-align: center;
+}
+.tab-mobile-content .tab-content-mob-heading {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  display: inline;
+  vertical-align: middle;
+}
+.who-would-heading-select-members {
+  font-family: Nunito;
+  font-size: 20px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+/* .select-members-div-content {
+
+} */
+.table-input-form-health-div-tab-2 .age_simple {white-space:nowrap; }
+.display_grid {display:grid; padding:15px; padding:10px; min-width:132px}
+@media screen and (max-width: 767px) {
+    .input-form-health-parent-div {
+        padding-top: 30px;
+    }
+    .insurance-fast-painless-heading-health {
+        margin-top: 20px;
+        font-size: 25.5px;
+    }
+    .sub-heading-input-form-health {
+        font-size: 12px;
+    }
+    .tab-items-input-form-health ul {
+        margin-left: -33px;
+    }
+    .tab-items-input-form-health ul li {
+        font-size: 15px;
+        padding: 0px 20px 0px 20px;
+
+    }
+    .health-form-col-sub-heading-heading {
+        margin-left: 0.5rem;
+    }
+    .health-form-input-field-radio-div {
+        margin-left: 0px;
+    }
+    .tab-mobile-content button:disabled { background: #ccc}
+}

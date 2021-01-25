@@ -1,0 +1,86 @@
+.avtar-name-left-bar {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #454d58;
+}
+
+.avtar-name-sub-text-left-bar {
+  font-family: Source Sans Pro;
+  font-size: 10px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #454d58;
+  margin-bottom: 1rem;
+}
+
+.total-policies-div-left-bar {
+    font-family: Source Sans Pro;
+  font-size: 10px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #0da176;
+  margin-bottom: 1rem;
+}
+.avtar-div-left-name{
+  
+  color:#ffffff;
+ 
+}
+.avtar-div-left-name h1{
+  text-align: center
+}
+.due-policies-div-left-bar{
+  font-family: Source Sans Pro;
+  font-size: 10px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #940016;
+  margin-bottom: 1rem;
+}
+.me-left {
+    position: fixed;
+    bottom: 0px;
+    display: flex;
+    width: 240px;
+    padding: 0px;
+    background: #d8d8d8;
+}
+
+@media screen and (max-width: 767px) {
+  .me-left {
+    position: relative;
+    background: #d8d8d8;
+  }
+  .welcome-row{
+    background-color: #ea0b4b;
+  }
+  .close-icon{
+    margin:13px 0rem 0rem 0rem;
+  }
+  .welcome-heading{
+    color: #ffffff;
+    margin:0.5rem 2rem 0rem 1rem;
+  }
+  .guest{
+    color: #ffffff;
+    margin:0rem 2rem 0.5rem 1rem;
+  }
+}

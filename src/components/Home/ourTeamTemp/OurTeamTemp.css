@@ -1,0 +1,66 @@
+.ourteamtemp .mui-container-fluid {
+  background-color: #f2f4f6;
+  overflow-x: hidden;
+  text-align: center;
+  padding: 2rem 2rem 3rem 2rem;
+}
+.ourteamtemp .mui-container-fluid .ourteamText {
+  text-align: center;
+  color: #ea0b4b;
+  font-weight: 600;
+}
+.ourteamtemp .mui-container-fluid .some-awesome-line {
+  text-align: center;
+  margin: 1rem 0rem;
+  color: #333333;
+}
+.ourteamtemp .mui-container-fluid .team-block {
+  margin: 1rem 0rem;
+}
+.ourteamtemp .mui-container-fluid .team-block .image {
+  width: 91px;
+  height: 91px;
+  display: inline-block;
+  border-radius: 65px;
+}
+.ourteamtemp .mui-container-fluid .team-block .name {
+  text-align: center;
+  color: #333333;
+  font-weight: 600;
+}
+.ourteamtemp .mui-container-fluid .team-block .designationText {
+  color: #333333;
+  text-align: center;
+}
+.ourteamtemp .mui-container-fluid .team-block .about {
+  text-align: center;
+  color: #333333;
+  margin: 10px 0px;
+}
+@media screen and (max-width: 992px) {
+  .ourteamtemp .mui-container-fluid {
+    padding: 2rem 0rem 3rem 0rem;
+    overflow-x: hidden;
+  }
+}
+@media screen and (max-width: 767px) {
+  .ourteamtemp .mui-container-fluid {
+    padding: 2rem 0rem 2rem 0rem;
+    overflow-x: hidden;
+  }
+  .ourteamtemp .mui-container-fluid .ourteamText {
+    font-size: 18px;
+  }
+  .ourteamtemp .mui-container-fluid .some-awesome-line {
+    margin: 0rem;
+  }
+  .ourteamtemp .mui-container-fluid .team-block .name {
+    text-align: center;
+  }
+  .ourteamtemp .mui-container-fluid .team-block .designationText {
+    text-align: center;
+  }
+  .ourteamtemp .mui-container-fluid .team-block .about {
+    text-align: left;
+  }
+}

@@ -1,0 +1,113 @@
+.headerStyle {
+    position: fixed;
+    top: 0;
+    background-color: #ffffff;
+    overflow: hidden;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.16);
+    width: 100%;
+    z-index: 100;
+    .navbar {
+        padding: 0.5rem 2rem 0.5rem 3rem;
+    }
+    .nav-item{
+        text-align: right;
+    }
+    .header-container {
+        height:40px;
+        .material-icons {
+            display: none;
+        }
+        .GBlogo1 {
+            width: 42px;
+            height: 2.8rem;
+        }
+        .GBlogo2 {
+            width: 120px;
+            height: 1.8rem;
+        }
+        .nav-link {
+            height: 1rem;
+            font-family: "Nunito";
+            font-size: 1rem;
+            font-weight: normal;
+            line-height: 1.38;
+            letter-spacing: normal;
+            text-align: left;
+            color: #5e5971;
+            margin-left: 4rem;
+        }
+    }
+}
+
+.GBlogo1 {
+    width: 42px;
+    height: 2.8rem;
+}
+
+.GBlogo2 {
+    width: 120px;
+    height: 1.8rem;
+}
+
+@media screen and(max-width:767px) {
+    .headerStyle {
+        position: fixed;
+        background-color: #ffffff;
+        overflow: hidden;
+        box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.15);
+        .navbar {
+            padding: 0.5rem 2rem;
+        }
+        .header-container {
+            .material-icons {
+                display: inline-block;
+            }
+            .GBlogo1 {
+                width: 2rem;
+                height: 2rem;
+                margin: 0.2rem 0 1rem 1.3rem;
+            }
+            .GBlogo2 {
+                width: 5rem;
+                height: 1.8rem;
+                margin: 0.2rem 0 1rem 0.3rem;
+            }
+            .nav-link {
+                display: none;
+            }
+        }
+    }
+}
+
+@media screen and(min-width:992px) {
+    .headerStyle {
+        .navbar {
+            padding: 0.5rem 3rem;
+        }
+        .header-container {
+            padding:0;
+        }
+    }
+}
+
+@media screen and(min-width:1200px) {
+    .headerStyle {
+        .navbar {
+            padding: 0.5rem 2rem 0.5rem 4rem;
+        }
+        .header-container {
+            padding:0;
+        }
+    }
+}
+
+@media screen and(min-width:1920px) {
+    .headerStyle {
+        .navbar {
+            padding: 0.5rem 6rem;
+        }
+        .header-container {
+            padding:0;
+        }
+    }
+}

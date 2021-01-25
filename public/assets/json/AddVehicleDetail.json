@@ -1,0 +1,15 @@
+{
+    "en":{
+        "AddVehicleDetailYourVehicles":"Your Vehicles",
+        "AddVehicleDetailNoVehicles":"No vehicles added yet",
+        "AddVehicleDetailAddVehiclesYet":"Add your vehicles now :)",
+        "AddVehicleDetailAddVehiclesButtonText":"Add Vehicles"
+    },
+    "mr":{
+        "AddVehicleDetailYourVehicles":"आपले वाहने",
+        "AddVehicleDetailNoVehicles":"अद्याप कोणतीही वाहने जोडली नाहीत",
+        "AddVehicleDetailAddVehiclesYet":"आता आपले वाहन जोडा :)",
+        "AddVehicleDetailAddVehiclesButtonText":"वाहने जोडा"
+    }
+
+}

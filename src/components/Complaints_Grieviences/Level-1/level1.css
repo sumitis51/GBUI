@@ -1,0 +1,43 @@
+.level_1_heading {
+    font-family: Nunito;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ea0b4b;
+}
+.level_1_heading_2 {
+    font-family: Source Sans Pro;
+  font-size: 18px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.submit_1_level_1 {
+    text-align: right;
+    padding-top: 1rem;
+    margin-right: 2em;
+    padding-bottom: 1rem;
+    
+}
+
+.f_c_heading {
+    font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.liability_items {
+  padding-left: 30px;
+}

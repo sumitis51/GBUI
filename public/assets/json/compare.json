@@ -1,0 +1,103 @@
+{
+  "no_of_comp": "3",
+  "icons": [
+      {"url" : "url1"},
+      {"url" : "url2"},
+      {"url" : "url3"}
+  ],
+  "imp_details": [
+      {
+        "premium_account": 41417,
+        "insurer_declared_value": 1812887,
+        "premium_per_lac_idv": 2867,
+        "cashless_garages": 47,
+        "advance_cash": true,
+        "zero_depriciation": true,
+        "zero_depr_allowed_per_year": 3,
+        "add_ons_included": false,
+        "add_ons_selected": null
+      },
+      {
+        "premium_account": 41417,
+        "insurer_declared_value": 1812887,
+        "premium_per_lac_idv": 2867,
+        "cashless_garages": 47,
+        "advance_cash": true,
+        "zero_depriciation": true,
+        "zero_depr_allowed_per_year": 3,
+        "add_ons_included": false,
+        "add_ons_selected": null
+      },{
+        "premium_account": 41417,
+        "insurer_declared_value": 1812887,
+        "premium_per_lac_idv": 2867,
+        "cashless_garages": 47,
+        "advance_cash": true,
+        "zero_depriciation": true,
+        "zero_depr_allowed_per_year": 3,
+        "add_ons_included": false,
+        "add_ons_selected": null
+      }
+  ],
+  "other_details": [
+    {
+      "comprehensive_coverage": [
+        {
+          "own_damage": true,
+          "owner_driver_cover": true,
+          "unnamed_passanger_cover": null
+        },
+        {
+          "own_damage": false,
+          "owner_driver_cover": true,
+          "unnamed_passanger_cover": null
+        },
+        {
+          "own_damage": true,
+          "owner_driver_cover": false,
+          "unnamed_passanger_cover": null
+        }
+      ]
+    },
+    {
+      "liability": [
+        {
+          "third_party_liability": true,
+          "third_party_coverage_damage": false,
+          "paid_driver": null
+        },
+        {
+          "third_party_liability": false,
+          "third_party_coverage_damage": true,
+          "paid_driver": null
+        },
+        {
+          "third_party_liability": true,
+          "third_party_coverage_damage": false,
+          "paid_driver": null
+        }
+      ]
+    },
+    {
+      "addons_avail": [
+        [
+          "Add on something 1",
+          "Add on  something cover A"
+        ],
+        [
+          "Add on something cover 2"
+        ],
+        []
+      ]
+    },
+    {
+      "cashless_garages": [true, false, null]
+    },
+    {
+      "advance_cash": [true, false, true]
+    },
+    {
+      "zero_depriciation": [true, null, false]
+    }
+  ]
+}

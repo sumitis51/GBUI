@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="183" viewBox="0 0 180 183">
+    <defs>
+        <rect id="b" width="791" height="918" x="325" y="90" rx="12"/>
+        <filter id="a" width="102.1%" height="102%" x="-1.1%" y="-.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2.5"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter2"/>
+            <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter3"/>
+            <feGaussianBlur in="shadowOffsetOuter3" result="shadowBlurOuter3" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter3" result="shadowMatrixOuter3" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.14 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="shadowMatrixOuter2"/>
+                <feMergeNode in="shadowMatrixOuter3"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" d="M-630-203H810v1425H-630z"/>
+        <g transform="translate(-630 -203)">
+            <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+            <use fill="#FFF" xlink:href="#b"/>
+        </g>
+        <path fill="#F7F7F7" d="M-293-113h767c6.627 0 12 5.373 12 12v373h-791v-373c0-6.627 5.373-12 12-12z"/>
+        <path fill="#EA0B4B" fill-rule="nonzero" d="M90 .81C40.297.81 0 41.47 0 91.623c0 50.152 40.297 90.81 90 90.81 49.709 0 90-40.658 90-90.81C180 41.469 139.707.81 90 .81zM73.49 138.27L33.861 98.284 47.07 84.958l26.42 26.656 59.44-59.977 13.209 13.328-72.649 73.304z"/>
+    </g>
+</svg>

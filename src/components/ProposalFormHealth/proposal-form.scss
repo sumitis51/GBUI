@@ -1,0 +1,202 @@
+.parent-proposal-from-motor{
+   
+    .sticky-width-payment {
+        width: 600px;
+        
+    }
+    .sticky-outer-wrapper.active { 
+        background-color: #ffffff;
+    }
+
+
+    .sub-header{
+        margin-bottom: 1rem;
+    }
+
+    .sub-header .mui-panel ul{
+        list-style-type: none;
+        text-align: center;
+        padding-top: 10px;
+    }
+    
+    .sub-header .mui-panel ul li{
+        display: inline;
+        font-family: Nunito;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #ffffff;
+        padding: 4px 145px;
+    
+    }
+    .sub-header .mui-panel {
+        padding: 0px;
+    }
+    .proposal-form-body{
+        margin: 0 30px;
+        margin-top: 1.5rem;
+
+        .back-link {
+            font-family: Nunito;
+            font-size: 12px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+            cursor: pointer;
+            display: inline-block;
+        }
+        .car-quote-details-heading{
+            font-family: Nunito;
+            font-size: 20px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+        }
+        .stepper-headings p{
+            font-family: Nunito;
+            font-size: 16px;
+            font-weight: bold;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+            display: inline-block;
+        }
+        .stepper-headings p.active-success {
+            color: #ea0b4b;
+        }
+        .stepper-headings p.disable {
+            color: #808080;
+        }
+        .stepper-headings p:not(:last-child):after {
+            content: '───';
+            color:  #979797;
+        }
+        .small-guide-line {
+            font-family: Source Sans Pro;
+            font-size: 12px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 0;
+            letter-spacing: normal;
+            color: #000000;
+        }
+    }
+    .licenced_no {
+        font-family: Nunito;
+        font-size: 10px;
+        font-weight: 600;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #333333;
+        margin-top: 4px;
+    }
+    .rectangle {
+        width: 46px;
+        height: 55px;
+        border: solid 1px #979797;
+        background-color: #d8d8d8;
+        display: inline-block;
+        margin: 0px 6px;
+    }
+}
+
+@media screen and (max-width : 767px) {
+    .parent-proposal-from-motor{
+        overflow: hidden;
+        .proposal-form-body{
+            margin: 0;
+
+            .car-quote-details-heading{
+                margin: 15px;
+            }
+            .back-link{
+                margin: 15px;
+            }
+            .stepper-headings{
+                margin: 0 15px;
+            }
+            .small-guide-line{
+                margin: 0px 15px 15px 15px;
+            }
+            .total-premium-heading{
+                font-family: Source Sans Pro;
+                font-size: 12px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                line-height: normal;
+                letter-spacing: normal;
+                color: #333333;
+                display: inline-block;
+                span{
+                    font-family: Nunito;
+                    font-size: 12px;
+                    font-weight: normal;
+                    font-style: normal;
+                    font-stretch: normal;
+                    line-height: normal;
+                    letter-spacing: normal;
+                    color: #ea0b4b;
+                }
+            }
+            .details-addon{
+                font-family: Source Sans Pro;
+                font-size: 10px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                line-height: normal;
+                letter-spacing: normal;
+                color: #333333;
+                float: right;
+                display: inline-block;
+                margin-top: 0px;
+            }
+            .amount-year{
+                font-family: Nunito;
+                font-size: 18px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                line-height: normal;
+                letter-spacing: normal;
+                color: #000000;
+                sup{
+                    font-family: Nunito;
+                    font-size: 12px;
+                    font-weight: normal;
+                    font-style: normal;
+                    font-stretch: normal;
+                    line-height: normal;
+                    letter-spacing: normal;
+                    color: #000000;
+                }
+            }
+            .cover-value{
+                font-family: Source Sans Pro;
+                font-size: 13px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                line-height: normal;
+                letter-spacing: normal;
+                color: #333333;
+            }
+        }
+        
+    }
+}

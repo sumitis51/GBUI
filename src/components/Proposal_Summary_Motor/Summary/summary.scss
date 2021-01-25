@@ -1,0 +1,89 @@
+.parent-proposal-summary-panel {
+
+    margin-top: 1rem;
+
+    .car-owner-heading {
+        font-family: Nunito;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+        margin: 0;
+        padding: 0;
+
+        span {
+            font-family: Source Sans Pro;
+            font-size: 14px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #0da176;
+            margin-left: 10px;
+            cursor: pointer;
+        }
+    }
+    .grey-heading {
+        font-family: Source Sans Pro;
+        font-size: 14px;
+        font-weight: 300;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 0.5;
+        letter-spacing: normal;
+        color: #808080;
+    }
+    .black-value {
+        font-family: Source Sans Pro;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 0.7;
+        letter-spacing: normal;
+        color: #000000;
+    }
+    .row {
+        margin-top: 10px;
+    }
+
+    .hr-divider {
+        background-color: #aaaaaa;
+        margin: 18px -15px;
+    }
+    .divider-hr {
+        background-color: #aaaaaa;
+        margin: 17.9px -15px;
+    }
+    table {
+        width: 100%;
+    }
+
+    table tbody tr td:first-child {
+        font-family: Source Sans Pro;
+        font-size: 12px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #808080;
+        white-space: nowrap;
+        padding: 4px 0px;
+    }
+    table tbody tr td:last-child {
+        font-family: Source Sans Pro;
+        font-size: 12px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: right;
+        color: #000000;
+    }
+}

@@ -1,0 +1,89 @@
+.pos-terms-conditions .pos-terms-conditions-container {
+  background-color: #f4f4f4;
+  overflow-x: hidden;
+}
+.pos-terms-conditions .pos-terms-conditions-container .left-panel {
+  padding: 5rem 1rem 5rem 10rem;
+}
+.pos-terms-conditions .pos-terms-conditions-container .left-panel .pos-heading {
+  color: #333333;
+  border-bottom: 1px solid #aaaaaa;
+}
+.pos-terms-conditions .pos-terms-conditions-container .left-panel .contact-heading {
+  color: #aaaaaa;
+  margin: 1rem 0rem 0rem 0rem;
+}
+.pos-terms-conditions .pos-terms-conditions-container .left-panel .terms-conditions-heading {
+  color: #333333;
+  margin: 1rem 0rem 0rem 0rem;
+}
+.pos-terms-conditions .pos-terms-conditions-container .right-panel {
+  border-left: 4px solid #808080;
+  padding: 2rem 0rem;
+}
+.pos-terms-conditions .pos-terms-conditions-container .right-panel .pos-terms-conditions-mainheading {
+  text-align: center;
+}
+.pos-terms-conditions .pos-terms-conditions-container .right-panel .pos-terms-last-update {
+  text-align: center;
+  margin: 1rem 0rem 0rem 0rem;
+  color: #aaaaaa;
+}
+.pos-terms-conditions .pos-terms-conditions-container .right-panel .pos-terms-body-text {
+  text-align: left;
+  margin: 1rem 0rem 0rem 0rem;
+  color: #333333;
+}
+.pos-terms-conditions .pos-terms-conditions-container .right-panel .pos-terms-responsible-use-text {
+  text-align: center;
+  margin: 1rem 0rem;
+}
+.pos-terms-conditions .pos-terms-conditions-container .right-panel .pos-understand-body-text {
+  text-align: left;
+  margin: 2rem 0rem 1rem 0rem;
+  color: #333333;
+}
+.pos-terms-conditions .pos-terms-conditions-container .right-panel .pos-understand-block {
+  padding: 0rem 2rem;
+}
+.pos-terms-conditions .pos-terms-conditions-container .right-panel .pos-membership-start-body-text {
+  text-align: left;
+  margin: 0.5rem 0rem 0.5rem 0rem;
+  color: #ea0b4b;
+}
+@media screen and (max-width: 767px) {
+  .pos-terms-conditions .pos-terms-conditions-container {
+    background-color: #ffffff;
+    overflow-x: hidden;
+  }
+  .pos-terms-conditions .pos-terms-conditions-container .right-panel {
+    border-left: none;
+    padding: 3rem 0rem;
+  }
+  .pos-terms-conditions .pos-terms-conditions-container .right-panel .pos-terms-conditions-mainheading {
+    margin-top: 1rem;
+  }
+  .pos-terms-conditions .pos-terms-conditions-container .pos-heading {
+    color: #333333;
+    border-bottom: 1px solid #aaaaaa;
+  }
+}
+@media screen and (max-width: 992px) {
+  .pos-terms-conditions .pos-terms-conditions-container {
+    background-color: #ffffff;
+    overflow-x: hidden;
+  }
+  .pos-terms-conditions .pos-terms-conditions-container .left-panel {
+    padding: 5rem 1rem 5rem 3rem;
+  }
+  .pos-terms-conditions .pos-terms-conditions-container .right-panel {
+    padding: 3rem 0rem;
+  }
+  .pos-terms-conditions .pos-terms-conditions-container .right-panel .pos-terms-conditions-mainheading {
+    margin-top: 1rem;
+  }
+  .pos-terms-conditions .pos-terms-conditions-container .pos-heading {
+    color: #333333;
+    border-bottom: 1px solid #aaaaaa;
+  }
+}

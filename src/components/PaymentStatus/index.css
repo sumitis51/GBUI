@@ -1,0 +1,385 @@
+.paymentSuccess {
+  margin-top: 10px;
+  background-color: #f4f4f4;
+}
+.paymentSuccess .mui-container-fluid {
+  overflow-x: hidden;
+  padding: 5rem 8rem 5rem 8rem;
+  text-align: center;
+}
+.paymentSuccess .mui-container-fluid .paymentCard {
+  border-radius: 12px;
+}
+.paymentSuccess .mui-container-fluid .paymentCard .CardPic {
+  background-color: #f7f7f7;
+}
+.paymentSuccess .mui-container-fluid .paymentCard .CardPic .cardHeaderContent {
+  font-family: Nunito;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ea0b4b;
+  padding: 1rem;
+}
+.paymentSuccess .mui-container-fluid .paymentCard .CardPic .modalbox .icon {
+  -webkit-animation: fall-in 0.75s;
+  -moz-animation: fall-in 0.75s;
+  -o-animation: fall-in 0.75s;
+  animation: fall-in 0.75s;
+}
+.paymentSuccess .mui-container-fluid .paymentCard .CardPic .paymentPic {
+  background-color: #f7f7f7;
+  width: auto;
+  height: auto;
+  padding: 2rem 2rem 2rem 2rem;
+  display: inline-block;
+}
+.paymentSuccess .mui-container-fluid .paymentCard .CardContent {
+  background-color: #ffffff;
+  padding: 3rem 3rem 1rem 3rem;
+}
+.paymentSuccess .mui-container-fluid .paymentCard .CardContent .cardText {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: 300;
+  color: #000000;
+}
+.paymentSuccess .mui-container-fluid .paymentCard .CardContent .amount-deducted {
+  font-size: 16px;
+  text-align: center;
+  margin: 1rem 0rem;
+}
+.paymentSuccess .mui-container-fluid .paymentCard .CardContent .orderInfoLeft {
+  font-family: Nunito;
+  font-size: 14px;
+  /* font-weight: 600; */
+  line-height: 1.5;
+  color: #333333;
+  float: left;
+  text-align: left;
+  padding: 1rem 0rem 0rem 0rem;
+}
+.paymentSuccess .mui-container-fluid .paymentCard .CardContent .orderInfoRight {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #333333;
+  float: right;
+  text-align: right;
+  padding: 1rem 0rem 0rem 0rem;
+  white-space: normal;
+}
+.paymentSuccess .mui-container-fluid .paymentCard .CardContent .policyButton {
+  margin-top: 1rem;
+}
+.paymentSuccess .mui-container-fluid .paymentCard .CardContent .tryAgain {
+  margin: 1rem 0rem 2rem 0rem;
+}
+.paymentSuccess .mui-container-fluid .paymentCard .cardFooter {
+  width: 100%;
+  margin-top: 2rem;
+  height: 51px;
+  border-radius: 12px;
+  background-color: #333333;
+  text-align: center;
+}
+.paymentSuccess .mui-container-fluid .paymentCard .cardFooter .FooterText {
+  font-family: Nunito;
+  display: inline-block;
+  font-size: 16px;
+  color: #ffffff;
+  margin-top: 1rem;
+}
+@media screen and (max-width: 767px) {
+  .paymentSuccess {
+    background-color: #ffffff;
+  }
+  .paymentSuccess .mui-container-fluid {
+    overflow-x: hidden;
+    padding: 3rem 0rem 0rem 0rem;
+    text-align: center;
+  }
+  .paymentSuccess .mui-container-fluid .paymentCard {
+    border-radius: 0px;
+  }
+  .paymentSuccess .mui-container-fluid .paymentCard .CardPic {
+    background-color: #ffffff;
+  }
+  .paymentSuccess .mui-container-fluid .paymentCard .CardPic .cardHeaderContent {
+    font-family: Nunito;
+    font-size: 24px;
+    font-weight: 300;
+    color: #000000;
+    padding-top: 2rem;
+  }
+  .paymentSuccess .mui-container-fluid .paymentCard .cardFooter {
+    width: 100%;
+    margin: 2rem 0rem 4rem 0rem;
+    height: 62px;
+    border-radius: 12px;
+    background-color: #333333;
+    text-align: center;
+  }
+}
+@media screen and (max-width: 544px) {
+  .paymentSuccess {
+    background-color: #ffffff;
+  }
+  .paymentSuccess .mui-container-fluid {
+    overflow-x: hidden;
+    padding: 3rem 0rem 0rem 0rem;
+    text-align: center;
+  }
+  .paymentSuccess .mui-container-fluid .paymentCard .CardContent {
+    padding: 3rem 25px;
+  }
+  .paymentSuccess .mui-container-fluid .paymentCard .cardFooter {
+    width: 100%;
+    margin-top: 2rem;
+    height: 62px;
+    border-radius: 12px;
+    background-color: #333333;
+    text-align: center;
+  }
+  .paymentSuccess .mui-container-fluid .paymentCard .cardFooter .FooterText {
+    font-family: Nunito;
+    display: inline-block;
+    font-size: 16px;
+    color: #ffffff;
+    margin-top: 1rem;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .paymentSuccess {
+    background-color: #ffffff;
+  }
+  .paymentSuccess .mui-container-fluid {
+    overflow-x: hidden;
+    padding: 5rem 13rem 5rem 13rem;
+    text-align: center;
+  }
+}
+@-webkit-keyframes fall-in {
+  0% {
+    -ms-transform: scale(3, 3);
+    -webkit-transform: scale(3, 3);
+    transform: scale(3, 3);
+    opacity: 0;
+  }
+  50% {
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    opacity: 1;
+  }
+  60% {
+    -ms-transform: scale(1.1, 1.1);
+    -webkit-transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1);
+  }
+  100% {
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+  }
+}
+@-moz-keyframes fall-in {
+  0% {
+    -ms-transform: scale(3, 3);
+    -webkit-transform: scale(3, 3);
+    transform: scale(3, 3);
+    opacity: 0;
+  }
+  50% {
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    opacity: 1;
+  }
+  60% {
+    -ms-transform: scale(1.1, 1.1);
+    -webkit-transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1);
+  }
+  100% {
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+  }
+}
+@-o-keyframes fall-in {
+  0% {
+    -ms-transform: scale(3, 3);
+    -webkit-transform: scale(3, 3);
+    transform: scale(3, 3);
+    opacity: 0;
+  }
+  50% {
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    opacity: 1;
+  }
+  60% {
+    -ms-transform: scale(1.1, 1.1);
+    -webkit-transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1);
+  }
+  100% {
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+  }
+}
+@-webkit-keyframes plunge {
+  0% {
+    margin-top: -100%;
+  }
+  100% {
+    margin-top: 25%;
+  }
+}
+@-moz-keyframes plunge {
+  0% {
+    margin-top: -100%;
+  }
+  100% {
+    margin-top: 25%;
+  }
+}
+@-o-keyframes plunge {
+  0% {
+    margin-top: -100%;
+  }
+  100% {
+    margin-top: 25%;
+  }
+}
+@-moz-keyframes fall-in {
+  0% {
+    -ms-transform: scale(3, 3);
+    -webkit-transform: scale(3, 3);
+    transform: scale(3, 3);
+    opacity: 0;
+  }
+  50% {
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    opacity: 1;
+  }
+  60% {
+    -ms-transform: scale(1.1, 1.1);
+    -webkit-transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1);
+  }
+  100% {
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+  }
+}
+@-webkit-keyframes fall-in {
+  0% {
+    -ms-transform: scale(3, 3);
+    -webkit-transform: scale(3, 3);
+    transform: scale(3, 3);
+    opacity: 0;
+  }
+  50% {
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    opacity: 1;
+  }
+  60% {
+    -ms-transform: scale(1.1, 1.1);
+    -webkit-transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1);
+  }
+  100% {
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+  }
+}
+@-o-keyframes fall-in {
+  0% {
+    -ms-transform: scale(3, 3);
+    -webkit-transform: scale(3, 3);
+    transform: scale(3, 3);
+    opacity: 0;
+  }
+  50% {
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    opacity: 1;
+  }
+  60% {
+    -ms-transform: scale(1.1, 1.1);
+    -webkit-transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1);
+  }
+  100% {
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+  }
+}
+@keyframes fall-in {
+  0% {
+    -ms-transform: scale(3, 3);
+    -webkit-transform: scale(3, 3);
+    transform: scale(3, 3);
+    opacity: 0;
+  }
+  50% {
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    opacity: 1;
+  }
+  60% {
+    -ms-transform: scale(1.1, 1.1);
+    -webkit-transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1);
+  }
+  100% {
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+  }
+}
+@-moz-keyframes plunge {
+  0% {
+    margin-top: -100%;
+  }
+  100% {
+    margin-top: 15%;
+  }
+}
+@-webkit-keyframes plunge {
+  0% {
+    margin-top: -100%;
+  }
+  100% {
+    margin-top: 15%;
+  }
+}
+@-o-keyframes plunge {
+  0% {
+    margin-top: -100%;
+  }
+  100% {
+    margin-top: 15%;
+  }
+}
+@keyframes plunge {
+  0% {
+    margin-top: -100%;
+  }
+  100% {
+    margin-top: 15%;
+  }
+}

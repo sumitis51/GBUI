@@ -1,0 +1,111 @@
+.parent-div-car-quotes {
+  margin: 0 1rem;
+}
+
+.parent-div-car-quotes .car-quotes-body {
+  margin: 1.5rem -2px;
+}
+
+.parent-div-car-quotes .back-quotes-link {
+  font-family: Nunito;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  cursor: pointer;
+}
+
+.parent-div-car-quotes .car-quotes-heading {
+  font-family: Nunito;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+@media screen and (max-width: 767px) {
+  .parent-div-car-quotes {
+    overflow-x: hidden;
+    margin: 1rem 0;
+  }
+  .parent-div-car-quotes .car-quotes-body {
+    margin: 0;
+  }
+  .parent-div-car-quotes .car-quotes-body .back-quotes-link {
+    margin: 0px 15px;
+  }
+  .parent-div-car-quotes .car-quotes-body .car-quotes-heading {
+    margin: 0 15px;
+  }
+  .parent-div-car-quotes .total-premium-heading {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #333333;
+    display: inline-block;
+  }
+  .parent-div-car-quotes .total-premium-heading span {
+    font-family: Nunito;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ea0b4b;
+  }
+  .parent-div-car-quotes .details-addon {
+    font-family: Source Sans Pro;
+    font-size: 10px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #333333;
+    float: right;
+    display: inline-block;
+    margin-top: 0px;
+  }
+  .parent-div-car-quotes .amount-year {
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+  }
+  .parent-div-car-quotes .amount-year sup {
+    font-family: Nunito;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+  }
+  .parent-div-car-quotes .cover-value {
+    font-family: Source Sans Pro;
+    font-size: 13px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #333333;
+  }
+}
+/*# sourceMappingURL=health_quotes.css.map */

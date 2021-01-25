@@ -1,0 +1,440 @@
+.pre-medical {
+  width: 100%;
+  height: auto;
+  overflow-x: hidden;
+}
+.pre-medical .mui-container-fluid {
+  padding: 5rem 4rem 2rem 4rem;
+  font-family: Nunito;
+  background-color: #f6f6f6;
+}
+.pre-medical .mui-container-fluid .header-column {
+  margin: 0.5rem 0rem;
+}
+.pre-medical .mui-container-fluid .pre-medical-heading {
+  font-size: 20px;
+  font-weight: bold;
+  color: #000000;
+  text-align: left;
+  margin: 0.5rem 0rem;
+}
+.pre-medical .mui-container-fluid .process-column {
+  padding: 0;
+}
+.pre-medical .mui-container-fluid .process-column .process-main-text {
+  font-size: 14px;
+  font-weight: 300;
+  color: #808080;
+}
+.pre-medical .mui-container-fluid .view-column {
+  padding: 0;
+}
+.pre-medical .mui-container-fluid .view-column .view-text {
+  font-size: 16px;
+  color: #ea0b4b;
+}
+.pre-medical .mui-container-fluid .medical-required-row .medical-required {
+  font-size: 16px;
+  color: #000000;
+}
+.pre-medical .mui-container-fluid .medical-required-row .medical-test-required-heading {
+  background-color: #ffffff;
+  padding: 1rem;
+  border-left: 4px solid white;
+}
+.pre-medical .mui-container-fluid .medical-required-row .medical-test-required-heading .medical-test-required-heading-text {
+  font-size: 24px;
+  color: #000000;
+}
+.pre-medical .mui-container-fluid .medical-required-row .medical-test-required {
+  background-color: #f4f4f4;
+  padding: 10px 10px 10px 18px;
+  margin: 16px 0px;
+}
+.pre-medical .mui-container-fluid .medical-required-row .medical-test-required .medical-test-required-text {
+  font-size: 14px;
+  color: #000000;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper {
+  box-shadow: none;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .policy-row .policy-column .policy-container {
+  padding: 0.5rem 1rem;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .policy-row .policy-column .policy-container .test-required-container {
+  padding: 0;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .policy-row .policy-column .policy-container .test-required-container .policy-text {
+  font-size: 14px;
+  font-weight: 300;
+  color: #808080;
+  margin: 0.2rem 0rem;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .policy-row .policy-column .policy-container .tests-required {
+  padding: 0;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .policy-row .policy-column .policy-container .tests-required .policy-middle-text {
+  font-size: 16px;
+  color: #000000;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .policy-row .policy-column .policy-container .tests-required .policy-age-text {
+  font-size: 10px;
+  color: #940016;
+  padding: 0.1rem 1rem 0rem 0rem;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .policy-row .policy-column .policy-container .tests-required .policy-age-text .policy-age-subtext {
+  color: #000000;
+  margin-left: 4px;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .policy-row .policy-column .policy-container .policy-cost-text {
+  font-size: 12px;
+  font-weight: 300;
+  color: #333333;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .policy-row .pathology-container {
+  padding: 1rem 0rem 0rem 2rem;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .policy-row .pathology-container .pathology-column {
+  padding: 0;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .policy-row .pathology-container .pathology-column .pathology-main-text {
+  font-size: 14px;
+  font-weight: 300;
+  color: #808080;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .policy-row .pathology-container .pathology-view-column {
+  padding: 0;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .policy-row .pathology-container .pathology-view-column .pathology-main-text {
+  font-size: 14px;
+  font-weight: 300;
+  color: #808080;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .policy-row .pathology-container .pathology-view-column .pincode-text {
+  font-size: 16px;
+  color: #000000;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .policy-row .pathology-container .pathology-view-column .pincode-text .view {
+  font-size: 12px;
+  color: #ea0b4b;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .policy-row .result-column .test-result {
+  font-size: 12px;
+  color: #ea0b4b;
+  margin: 0.4rem 1rem 2rem 1rem;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .user-row .user-column .user-container {
+  margin: 10px 0px;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .user-row .user-column .user-container .self-text {
+  font-size: 14px;
+  font-weight: 300;
+  color: #808080;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .user-row .user-column .user-container .name {
+  font-size: 16px;
+  color: #000000;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .user-row .user-column .user-container .name .view {
+  font-size: 12px;
+  color: #ea0b4b;
+}
+.pre-medical .mui-container-fluid .medical-required-row .policy-paper .user-row .user-column .user-container .type {
+  font-size: 10px;
+  color: #9b9b9b;
+  margin: 0.2rem 0rem;
+}
+.pre-medical .mui-container-fluid .medical-required-row .license-row {
+  margin: 1.5rem 0rem;
+  padding: 0;
+}
+.pre-medical .mui-container-fluid .medical-required-row .license-row .license-column {
+  padding: 0;
+}
+.pre-medical .mui-container-fluid .medical-required-row .license-row .license-column .licesnse-text {
+  font-size: 10px;
+  font-weight: 600;
+  text-align: center;
+  color: #333333;
+  margin-top: 0.5rem;
+}
+.pre-medical .mui-container-fluid .medical-required-row .license-row .license-rect {
+  width: 46px;
+  height: 55px;
+  background-color: #d8d8d8;
+  border: 1px solid black;
+}
+.pre-medical .mui-container-fluid .sidebar-column {
+  margin-top: 1rem;
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar {
+  background-color: #ffffff;
+  height: 8rem;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .health-column {
+  padding: 0px 0px;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .health-column .group-image {
+  display: inline;
+  padding-top: 1.4rem;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .health-column .health-policy {
+  font-family: Nunito;
+  font-size: 15px;
+  color: #000000;
+  padding-top: 1rem;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .health-column .ratings {
+  font-size: 12px;
+  color: #808080;
+  white-space: nowrap;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .health-column .ratings .rating-point {
+  color: #000000;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .plan-column {
+  padding: 0px;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .plan-column .plan-details {
+  font-size: 12px;
+  color: #ea0b4b;
+  padding-top: 1rem;
+  text-align: right;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .plan-column .total-premium {
+  font-size: 14px;
+  color: #000000;
+  margin-top: 1rem;
+  text-align: right;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .plan-column .premium-cost {
+  font-size: 10.5px;
+  color: #000000;
+  text-align: right;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .plan-column .premium-cost .cost {
+  font-size: 21px;
+  text-align: right;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .plan-column .cost-increse {
+  font-size: 8px;
+  text-align: right;
+  color: #940016;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .add-on-column {
+  padding: 2px 5px;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .add-on-column .add-on-heading {
+  font-size: 12px;
+  font-weight: bold;
+  color: #000000;
+  margin: 0.2rem 0rem;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .add-on-column .add-on-name {
+  font-size: 16px;
+  color: #000000;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .add-on-column .total-cost {
+  font-size: 20px;
+  color: #9c0f46;
+  text-align: right;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .add-on-column .total-cost .month {
+  font-size: 10px;
+  color: #000000;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .add-on-column .premium-balance {
+  font-size: 12px;
+  color: #ea0b4b;
+  text-align: right;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .add-on-column .coverage-type {
+  font-size: 14px;
+  color: #808080;
+  margin: 2px 0px;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .add-on-column .base-plan {
+  font-size: 14px;
+  text-align: right;
+  color: #000000;
+  margin: 2px 0px;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .add-on-column .edit-link {
+  font-size: 12px;
+  text-align: right;
+  color: #ea0b4b;
+  padding: 0.5rem 0rem;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .add-on-column .discount {
+  font-size: 12px;
+  color: #000000;
+  padding: 0.5rem 0rem;
+}
+.pre-medical .mui-container-fluid .sidebar-column .sidebar .button-row {
+  padding: 2px 5px;
+  margin: 0.5rem 0rem;
+}
+@media screen and (max-width: 767px) {
+  .pre-medical-required {
+    overflow-x: hidden;
+  }
+  .pre-medical-required .mui-container-fluid {
+    padding: 3rem 0rem;
+    overflow-x: hidden;
+    font-family: Nunito;
+  }
+  .pre-medical-required .mui-container-fluid .medical-checkup {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #ea0b4b;
+    margin: 5px 0px;
+  }
+  .pre-medical-required .mui-container-fluid .some-lines {
+    font-size: 16px;
+    color: #808080;
+    text-align: center;
+    margin: 10px 0px;
+  }
+  .pre-medical-required .mui-container-fluid .test-result-pathlogy {
+    font-size: 10px;
+    color: #940016;
+    margin: 5px 0px;
+  }
+  .pre-medical-required .mui-container-fluid .medical-column {
+    padding-left: 2rem;
+  }
+  .pre-medical-required .mui-container-fluid .medical-column .medical-required {
+    font-size: 16px;
+    color: #ea0b4b;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row {
+    margin-top: 0rem;
+    background-color: #f4f4f4;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .pre-medical-heading {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 4rem;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .pre-medical-sub-text {
+    font-size: 16px;
+    text-align: center;
+    color: #808080;
+    margin-left: 1rem;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .medical-test-required {
+    border: none;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper {
+    box-shadow: none;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .policy-column .policy-container {
+    padding: 0.5rem 1rem;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .policy-column .policy-container .test-required-container {
+    padding: 0.2rem 0rem 0.5rem 0rem;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .policy-column .policy-container .test-required-container .policy-text {
+    font-size: 12px;
+    text-align: left;
+    margin: 0rem;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .policy-column .policy-container .tests-required {
+    padding: 0.2rem 0rem 0.5rem 0rem;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .policy-column .policy-container .tests-required .policy-middle-text {
+    font-size: 12px;
+    text-align: right;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .policy-column .policy-container .tests-required .policy-age-text {
+    font-size: 12px;
+    text-align: right;
+    padding: 0.1rem 0rem 0rem 0rem;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .policy-column .policy-container .tests-required .policy-age-text .policy-age-subtext {
+    color: #000000;
+    margin-left: 4px;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .pathology-container {
+    padding: 1rem 2rem 0rem 2rem;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .pathology-container .pathology-column {
+    padding: 0;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .pathology-container .pathology-column .pathology-main-text {
+    font-size: 12px;
+    font-weight: 300;
+    color: #808080;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .pathology-container .pathology-view-column {
+    padding: 0;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .pathology-container .pathology-view-column .pincode-text {
+    text-align: right;
+    font-size: 12px;
+    color: #000000;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .pathology-container .pathology-view-column .pincode-text .view {
+    font-size: 12px;
+    color: #ea0b4b;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .process-container {
+    padding: 1rem 2rem 1rem 2rem;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .process-container .process-column {
+    padding: 0;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .process-container .process-column .process-main-text {
+    text-align: left;
+    font-size: 12px;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .process-container .view-column {
+    padding: 0;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .process-container .view-column .view-text {
+    text-align: right;
+    font-size: 12px;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .policy-row .result-column .test-result {
+    font-size: 10px;
+    text-align: left;
+    margin: 0.6rem 1rem;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .user-row {
+    margin: 0rem;
+    padding: 1rem 0rem;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .user-row .user-column {
+    padding: 0;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .user-row .user-column .user-container .self-text {
+    font-size: 12px;
+    margin: 0.2rem 0rem;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .user-row .user-column .user-container .name {
+    font-size: 12px;
+    text-align: right;
+    margin: 0.2rem 0rem;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .policy-paper .user-row .user-column .user-container .name .view {
+    font-size: 12px;
+  }
+  .pre-medical-required .mui-container-fluid .medical-required-row .button-row {
+    padding: 1rem 10px;
+    margin: 1rem 0rem;
+    background-color: #ffffff;
+  }
+  .pre-medical-required .ChatDiv {
+    width: 56px;
+    height: 56px;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.12), 0 0 2px 0 rgba(0, 0, 0, 0.14);
+    background-color: #ea0b4b;
+    margin-bottom: 3rem;
+    border-radius: 50%;
+    float: right;
+    margin-right: 2rem;
+  }
+}

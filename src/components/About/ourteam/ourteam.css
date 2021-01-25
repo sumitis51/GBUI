@@ -1,0 +1,100 @@
+.ourteam .mui-container-fluid {
+  background-color: #ffffff;
+  overflow-x: hidden;
+}
+.ourteam .mui-container-fluid .links-div {
+  text-align: center;
+  border-left: solid 4px #808080;
+}
+.ourteam .mui-container-fluid .links-div .team-card {
+  margin-top: 1rem;
+  height: 20rem;
+}
+.ourteam .mui-container-fluid .links-div .linkText {
+  font-family: Nunito;
+  font-size: 30px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+  margin: 5rem 0rem 0rem 0rem;
+}
+.ourteam .mui-container-fluid .links-div .subject-image {
+  text-align: -webkit-center;
+}
+.ourteam .mui-container-fluid .links-div .name {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  margin: 1rem 0rem 0rem 0rem;
+}
+.ourteam .mui-container-fluid .links-div .designationText {
+  font-family: Nunito;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 1.36;
+  text-align: center;
+  color: #808080;
+  margin: 0.5rem 0rem 0rem 0rem;
+}
+.ourteam .mui-container-fluid .links-div .detail {
+  margin: 0rem 0rem 1rem 0rem;
+}
+.ourteam .mui-container-fluid .links-div .valuetext {
+  font-size: 20px;
+  line-height: 1.5;
+  text-align: center;
+  color: #000000;
+}
+.ourteam .mui-container-fluid .links-div .number {
+  opacity: 0.05;
+  font-size: 120px;
+  color: #ea0b4b;
+  display: inline;
+}
+.ourteam .mui-container-fluid .links-div .ownership-image {
+  display: inline;
+}
+.ourteam .mui-container-fluid .links-div .main-heading {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+@media screen and (max-width: 767px) {
+  .ourteam .mui-container-fluid {
+    padding: 2rem 1rem 5rem 1rem;
+    overflow-x: hidden;
+    text-align: center;
+  }
+  .ourteam .mui-container-fluid .links-div {
+    border: none;
+  }
+  .ourteam .mui-container-fluid .links-div .linkText {
+    font-family: Nunito;
+    font-size: 30px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.43;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #000000;
+    margin: 1rem 0rem 0rem 0rem;
+  }
+  .ourteam .mui-container-fluid .links-div .ourteamText {
+    font-family: Nunito;
+    font-Weight: 300;
+    font-stretch: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.82;
+    margin: 0px;
+    color: #000000;
+  }
+}

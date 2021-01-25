@@ -1,0 +1,210 @@
+.Refund h2{
+    font-family:Nunito;
+  font-size: 22px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height:normal;
+  text-decoration: underline;
+  letter-spacing:normal;
+  text-align: center;
+  color: #ea0b4b;
+  
+}
+.Refund h3{
+    font-family: Nunito;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ea0b4b;
+margin-bottom: 5px;
+display: table-row;
+}
+.Conditions{
+  display: initial;
+  line-height: 2.5em !important;
+}
+.List_Item p{
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.6em;
+  letter-spacing: normal;
+  color: #333333;
+}
+
+ .Refund_Premium{
+   margin-left: 30px;
+ }
+.Refund_Premium p{
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.6em;
+  letter-spacing: normal;
+  color: #333333;
+}
+  
+.Notice_period h2{
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.7em;
+  letter-spacing: normal;
+  color: #ea0b4b;
+  display: inline;
+}
+.List_Subheading .Cancellation_Insurer{
+  font-family: Nunito;
+  color: #ea0b4b;
+  
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+}
+.List_Text{
+  color: #000000;
+  font-family: Nunito;
+  
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+}
+.List_Subheading{
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+  margin-bottom: 10px;
+}
+.List_Subheading .Cancellation_Insurer_Text{
+  color: #333333;
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+
+.Refund_Timeperiod{
+  width:100%;
+}
+.Refund_Timeperiod th{
+  height: 30px;
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  background-color:#333333;
+  color: #ffffff;
+  padding:0px 10px 0px 10px
+}
+.column_right{
+  text-align: right;
+}
+.Refund_Timeperiod td{
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 3em;
+  letter-spacing: normal;
+  color: #000000;
+  padding: 0px 10px 0px 10px;
+}
+.table_body .refund_row:nth-child(even) {background-color: #f4f4f4}
+.table_body .refund_row:nth-child(odd){background-color: #ffffff}
+.policy_condition p{
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  padding-bottom: 10px;
+  letter-spacing: normal;
+  color: #333333;
+}
+.Contact_Information{
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2em;
+  letter-spacing: normal;
+  color:#ea0b4b;
+  padding-bottom: 10px;
+  display: inline;
+}
+.Future_Generali h3{
+display: inline;
+font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: #333333;
+}
+.Future_Generali{
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  width: 393px;
+  height: 150px;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.14;
+  letter-spacing: normal;
+  color: #333333;
+}
+.Future_Generali p{
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.14;
+  letter-spacing: normal;
+  color: #333333;
+}
+.Future_Generali strong{
+  font-weight: 600;
+}
+.Footer_text{
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #333333;
+}

@@ -1,0 +1,101 @@
+.vehicle-detail-parent{
+    .step-details{
+        font-family: Nunito;
+        font-size: 10px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #333333;
+        margin: 0;
+    }
+    .step-name {
+        font-family: Nunito;
+        font-size: 14px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #333333;
+        margin: 0px;
+    }
+    .edit{
+        font-family: Source Sans Pro;
+        font-size: 14px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #333333;
+        margin: 10px 0px 0px 0px;
+        cursor: pointer;
+    }
+    .form-vehicle-details{
+        .personal-details-heading{
+            font-family: Nunito;
+            font-size: 18px;
+            font-weight: bold;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #9c0f46;
+            margin: 0;
+        }
+        .step-detail-success{
+            font-family: Source Sans Pro;
+            font-size: 14px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #ea0b4b;
+            float: right;
+            margin-top: -20px;
+        }
+        .loan_provider {
+            margin-top: 15px;
+            float: right;
+        }
+    }
+    .button-next{
+        text-align: center;
+    }
+    .otp-send-purp {
+        color: #ea0b4b;
+        margin-left: 6px;
+        margin-bottom: 0;
+    }
+    .disp-inline {
+        display: inline;
+    }
+    
+}
+.otp-modal-heading {
+    text-align: center;
+    width: 100%;
+    margin: 1.5rem 0px 0px 0px;
+}
+.otp-modal-sub-heading {
+    margin-bottom: 0;
+    color: #808080;
+    text-align: center;
+}
+
+@media screen and (max-width: 767px) {
+    .vehicle-detail-parent{
+        .form-vehicle-details{
+            .loan_provider {
+                width: 150px
+            }
+            .disp-inline {
+                display: block;
+                margin-left: 0px;
+            }
+        }
+    }
+}

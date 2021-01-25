@@ -1,0 +1,167 @@
+.work-flow .workflow-content {
+  font-family: Nunito;
+}
+.work-flow .workflow-content .flow-heading {
+  font-size: 20px;
+  color: #ea0b4b;
+  text-align: center;
+  margin: 0rem 0rem 1rem 0rem;
+}
+.work-flow .workflow-content .workflow-row {
+  padding: 0rem 5rem;
+}
+.work-flow .workflow-content .workflow-row .workflow-column {
+  padding: 0;
+  display: inline;
+}
+.work-flow .workflow-content .workflow-row .workflow-column .card-container1 {
+  margin: 0rem -2.2rem 0rem 1.7rem;
+}
+.work-flow .workflow-content .workflow-row .workflow-column .card-container1 .header-content {
+  font-size: 10px;
+  font-weight: bold;
+  color: #ea0b4b;
+  text-align: center;
+}
+.work-flow .workflow-content .workflow-row .workflow-column .card-container1 .showing_premedical_pic1 {
+  text-align: center;
+  padding: 0.2rem 0rem;
+}
+.work-flow .workflow-content .workflow-row .workflow-column .card-container1 .showing_premedical_pic2 {
+  text-align: center;
+  padding: 0.4rem 0rem 0.5rem 0rem;
+}
+.work-flow .workflow-content .workflow-row .workflow-column .card-container1 .firstCardContent {
+  font-size: 8px;
+  color: #000000;
+  text-align: center;
+}
+.work-flow .workflow-content .workflow-row .workflow-column .card-container2 {
+  margin: 7rem -1.2rem 0rem 0.2rem;
+}
+.work-flow .workflow-content .workflow-row .workflow-column .card-container2 .header-content {
+  font-size: 10px;
+  font-weight: bold;
+  color: #ea0b4b;
+  text-align: center;
+  padding: 0.2rem 0rem 0.5rem 0rem;
+}
+.work-flow .workflow-content .workflow-row .workflow-column .card-container2 .showing_premedical_pic {
+  text-align: center;
+  padding: 0.2rem 0rem;
+}
+.work-flow .workflow-content .workflow-row .workflow-column .card-container2 .showing_premedical_pic2 {
+  text-align: center;
+  padding: 1rem 0rem 0.5rem 0rem;
+}
+.work-flow .workflow-content .workflow-row .workflow-column .card-container2 .firstCardContent {
+  font-size: 8px;
+  color: #000000;
+  text-align: center;
+}
+.work-flow .workflow-content .workflow-row .workflow-column .card-container3 {
+  margin: 7rem -2.2rem 0rem 1.7rem;
+}
+.work-flow .workflow-content .workflow-row .workflow-column .card-container3 .header-content {
+  font-size: 10px;
+  font-weight: bold;
+  color: #ea0b4b;
+  text-align: center;
+  padding: 0.2rem 0rem 0.5rem 0rem;
+}
+.work-flow .workflow-content .workflow-row .workflow-column .card-container3 .showing_premedical_pic {
+  text-align: center;
+  padding: 0.2rem 0rem;
+}
+.work-flow .workflow-content .workflow-row .workflow-column .card-container3 .showing_premedical_pic2 {
+  text-align: center;
+  padding: 1rem 0rem 0.5rem 0rem;
+}
+.work-flow .workflow-content .workflow-row .workflow-column .card-container3 .firstCardContent {
+  font-size: 8px;
+  color: #000000;
+  text-align: center;
+}
+.work-flow .workflow-content .workflow-row .line-column {
+  padding: 0;
+  display: inline;
+}
+.work-flow .workflow-content .workflow-row .line-column .lineImage {
+  display: inline;
+  margin-left: -4rem;
+}
+.work-flow .workflow-content .workflow-card-row {
+  padding: 1rem 2rem;
+}
+.work-flow .workflow-content .workflow-card-row .workflow-card-column .card-container .header-content {
+  font-size: 10px;
+  font-weight: bold;
+  color: #ea0b4b;
+  text-align: center;
+  padding: 0.2rem 0rem 0.5rem 0rem;
+}
+.work-flow .workflow-content .workflow-card-row .workflow-card-column .card-container .showing_premedical_pic {
+  text-align: center;
+  padding: 0.2rem 0rem;
+}
+.work-flow .workflow-content .workflow-card-row .workflow-card-column .card-container .firstCardContent {
+  font-size: 8px;
+  color: #000000;
+  text-align: center;
+}
+.work-flow .workflow-content .workflow-card-row .workflow-card-column .card-container .policy-issued {
+  font-size: 8px;
+  color: #ea0b4b;
+  text-align: center;
+  margin-top: 0.6rem;
+}
+.work-flow .workflow-content .workflow-card-row .workflow-card-column .card-container .policy-rejected {
+  font-size: 8px;
+  color: #940016;
+  text-align: center;
+  margin-top: 0.9rem;
+}
+.work-flow .workflow-content .workflow-card-row .workflow-card-column .loading-accept {
+  font-size: 10px;
+  color: #ea0b4b;
+  padding: 0;
+  margin-bottom: 1rem;
+}
+.work-flow .workflow-content .workflow-card-row .workflow-card-column .loading-reject {
+  font-size: 10px;
+  color: #940016;
+  padding: 0;
+  text-align: right;
+  margin-bottom: 1rem;
+}
+.work-flow .workflow-content .workflow-card-row .workflow-card-column .vertical {
+  margin-left: 4.3rem;
+}
+.work-flow .workflow-content .workflow-card-row .workflow-card-column .refund {
+  font-size: 10px;
+  color: #940016;
+  margin-left: 2rem;
+}
+@media screen and (max-width: 767px) {
+  .work-flow .workflow-content .flow-heading {
+    margin-left: 3rem;
+  }
+  .work-flow .workflow-content .workflow-row {
+    padding: 0rem;
+  }
+  .work-flow .workflow-content .workflow-row .workflow-column .card-container1 {
+    margin-left: 0rem;
+  }
+  .work-flow .workflow-content .workflow-row .workflow-column .card-container3 {
+    margin-left: 0rem;
+  }
+  .work-flow .workflow-content .workflow-row .line-column .lineImage {
+    margin-left: -4rem;
+  }
+  .work-flow .workflow-content .workflow-card-row {
+    padding: 1rem 0rem;
+  }
+  .work-flow .workflow-content .workflow-card-row .workflow-card-column {
+    padding: 0;
+  }
+}

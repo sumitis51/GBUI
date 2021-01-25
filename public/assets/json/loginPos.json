@@ -1,0 +1,44 @@
+{
+    "en":{
+          "LoginPosWelcomeCardText1":"Welcome Back,",
+          "LoginPosWelcomeCardText2":"and Start Selling now",
+          "LoginPosHeadingText1":"Login for Partners(POS)",
+          "LoginPosPLeaseLoginToAccountText":"Please login to your account",
+          "LoginPosInputField1LabelEmail":"Email Id",
+          "LoginPosInputField2LabelPassword":"Password",
+          "LoginPosRememberMeText":"Remember me",
+          "LoginPosForgotPasswordText":"Forgot Password?",
+          "LoginPosLoginText":"Login",
+          "LoginPosHeadingText2":"Not registered as POS",
+          "LoginPosMiddleContent":"SOME AWESOME LINES",
+          "LoginPosBecomeAPosText":"Become a POS",
+          "LoginPosByLoggingInText":"By logging in,  you agree to Groupbima’s",
+          "LoginPosTnCAndPrivacyPolicyText1":"Privacy",
+          "LoginPosTnCAndPrivacyPolicyText2":"Policies",
+          "LoginPosTnCAndPrivacyPolicyText3":"TnC’s"
+
+
+
+
+
+
+    },
+    "mr":{
+        "LoginPosWelcomeCardText1":"स्वागत आहे,",
+        "LoginPosWelcomeCardText2":"आणि आता विक्री सुरू",
+        "LoginPosHeadingText1":"भागीदार (पीओएस) साठी लॉगिन",
+        "LoginPosPLeaseLoginToAccountText":"कृपया तुमच्या खात्यात लॉग इन करा",
+        "LoginPosInputField1LabelEmail":"ईमेल आयडी",
+        "LoginPosInputField2LabelPassword":"पासवर्ड",
+        "LoginPosRememberMeText":"मला लक्षात ठेवा",
+        "LoginPosForgotPasswordText":"पासवर्ड विसरलात?",
+        "LoginPosLoginText":"लॉग इन",
+        "LoginPosHeadingText2":"पीओएस म्हणून नोंदणीकृत नाही",
+        "LoginPosMiddleContent":"काही अद्भूत रेखा",
+        "LoginPosBecomeAPosText":"एक पीओएस बनू",
+        "LoginPosByLoggingInText":"लॉग इन करून आपण ग्रुपबिमाशी सहमत आहात",
+        "LoginPosTnCAndPrivacyPolicyText1":"गोपनीयता",
+        "LoginPosTnCAndPrivacyPolicyText2":"धोरणे",
+        "LoginPosTnCAndPrivacyPolicyText3":"टीएनसी"
+    }
+}

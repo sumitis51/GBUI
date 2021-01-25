@@ -1,0 +1,232 @@
+.about {
+  z-index: 100;
+  margin-top: 7px;
+}
+.about .mui-container-fluid {
+  overflow-x: hidden;
+  background-color: #ffffff;
+  text-align: right;
+}
+.about .mui-container-fluid .mui-col-md-3 .companyName {
+  font-family: Nunito;
+  width: 144px;
+  height: 27px;
+  color: #333333;
+  margin: 5rem 2rem 0rem 0rem;
+  border-bottom: 1px solid #aaaaaa;
+  white-space: nowrap;
+  display: inline-block;
+}
+.about .mui-container-fluid .mui-col-md-3 .companyName .companyNameText {
+  font-size: 20px;
+}
+.about .mui-container-fluid .mui-col-md-3 .aboutDiv {
+  width: 150px;
+  height: 40px;
+  display: inline-block;
+  margin: 0.5rem 1.5rem 0rem 0rem;
+  background-color: #f4f4f4;
+}
+.about .mui-container-fluid .mui-col-md-3 .aboutDiv .aboutText {
+  font-family: Nunito;
+  font-size: 16px;
+  color: #333333;
+  text-align: left;
+  margin: 0.5rem 0rem 0rem 0.4rem;
+}
+.about .mui-container-fluid .mui-col-md-3 .legal {
+  font-family: Nunito;
+  width: 155px;
+  color: #333333;
+  margin-right: 1rem;
+  margin-top: 5rem;
+  border-bottom: 1px solid #aaaaaa;
+  display: inline-block;
+}
+.about .mui-container-fluid .mui-col-md-3 .legal .legalText {
+  font-size: 20px;
+  text-align: left;
+}
+.about .mui-container-fluid .mui-col-md-3 .pos {
+  font-family: Nunito;
+  font-size: 16px;
+  color: #aaaaaa;
+  white-space: nowrap;
+  margin: 1rem 5.7rem 0rem 0rem;
+}
+.about .mui-container-fluid .mui-col-md-3 .terms {
+  font-family: Nunito;
+  font-size: 16px;
+  color: #aaaaaa;
+  white-space: nowrap;
+  margin: 1rem 1rem 0rem 0rem;
+}
+.about .mui-container-fluid .mui-col-md-3 .policy {
+  font-family: Nunito;
+  font-size: 16px;
+  color: #aaaaaa;
+  white-space: nowrap;
+  margin: 1rem 2.5rem 0rem 0rem;
+}
+.about .mui-container-fluid .mui-col-md-9 {
+  border-left: solid 4px #808080;
+  text-align: center;
+}
+.about .mui-container-fluid .mui-col-md-9 .about-pic {
+  margin: 2rem 0rem 1rem 0rem;
+}
+.about .mui-container-fluid .mui-col-md-9 .about-pic .about {
+  width: 100%;
+  height: auto;
+}
+.about .mui-container-fluid .mui-col-md-9 .linkText {
+  font-family: Nunito;
+  font-size: 30px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #000000;
+  margin: 3rem 0rem 0rem 0rem;
+}
+.about .mui-container-fluid .mui-col-md-9 .headingText {
+  font-family: Nunito;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.43;
+  letter-spacing: 0rem;
+  text-align: center;
+  color: #000000;
+}
+.about .mui-container-fluid .mui-col-md-9 .pageText {
+  object-fit: contain;
+  font-family: Nunito;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.14;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+  padding: 1.4rem 2.2rem 0.5rem 0.6rem;
+}
+.about .mui-container-fluid .mui-col-md-9 .quotes {
+  opacity: 0.07;
+  font-size: 160px;
+  color: #ea0b4b;
+}
+.about .mui-container-fluid .mui-col-md-9 .quotes2 {
+  opacity: 0.07;
+  font-size: 160px;
+  color: #ea0b4b;
+  margin: 5rem 0rem 0rem -4rem;
+}
+.about .mui-container-fluid .mui-col-md-9 .quoteColumns {
+  margin: 4rem 0rem 0rem 0rem;
+}
+.about .mui-container-fluid .mui-col-md-9 .quoteColumns .aboutQuotes {
+  font-size: 20px;
+  font-style: italic;
+  line-height: 1.5;
+  color: #ea0b4b;
+  text-align: left;
+}
+.about .mui-container-fluid .mui-col-md-9 .mui-col-xs-8 {
+  width: 64%;
+}
+.about .mui-container-fluid .mui-col-md-9 .customQuotes {
+  font-family: Nunito;
+  font-size: 1rem;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #333333;
+  margin: 1rem 0rem 0rem 0rem;
+}
+.about .mui-container-fluid .mui-col-md-9 .checkedPic {
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  margin: 1rem 0rem 0.5rem 0.2rem;
+}
+.about .mui-container-fluid .mui-col-md-9 .missionText {
+  font-family: Nunito;
+  font-size: 0.9rem;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.29;
+  letter-spacing: 0rem;
+  text-align: left;
+  color: #808080;
+  padding: 0rem 0.2rem 3.5rem 2.6rem;
+}
+.mobile_select_menu {clear:both; padding-top:55px; text-align: left; position: relative; z-index: 1;}
+.mobile_select_menu.btm_margin {padding-top:0; padding-bottom: 25px}
+.mobile_select_menu.margin1 { padding-bottom: 25px}
+
+.mobile_select {display: block!important; margin:0 15px; clear:both;}
+
+@media screen and (max-width: 767px) {
+  .about .mui-container-fluid {
+    padding: 3rem 1rem 2rem 1rem;
+    overflow-x: hidden;
+    text-align: center;
+  }
+  .about .mui-container-fluid .mui-col-md-9 {
+    border-left: none;
+    padding: 0;
+  }
+  .about .mui-container-fluid .mui-col-md-9 .company {
+    height: 2rem;
+    border-radius: 0.1rem;
+    background-color: #f4f4f4;
+    border: solid 1px #aaaaaa;
+    margin-left: 0.3rem;
+  }
+  .about .mui-container-fluid .mui-col-md-9 .company .companyText {
+    font-family: Nunito;
+    font-size: 0.9rem;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+    padding: 0.5rem 0.5rem 0.5rem 1.9rem;
+  }
+  .about .mui-container-fluid .mui-col-md-9 .arrow {
+    padding-top: 0.2rem;
+    padding-right: 10rem;
+  }
+  .about .mui-container-fluid .mui-col-md-9 .about-pic {
+    margin: 2rem 0rem 1rem 0rem;
+  }
+  .about .mui-container-fluid .mui-col-md-9 .about-pic .about {
+    width: 100%;
+    height: auto;
+  }
+  .about .mui-container-fluid .mui-col-md-9 .linkText {
+    font-size: 24px;
+  }
+  .about .mui-container-fluid .mui-col-md-9 .headingText {
+    font-size: 16px;
+  }
+  .about .mui-container-fluid .mui-col-md-9 .pageText {
+    font-size: 16px;
+  }
+  .about .mui-container-fluid .mui-col-md-9 .quotes {
+    font-size: 80px;
+  }
+  .about .mui-container-fluid .mui-col-md-9 .quotes2 {
+    font-size: 80px;
+    margin: 11rem 0rem 0rem -4rem;
+  }
+}

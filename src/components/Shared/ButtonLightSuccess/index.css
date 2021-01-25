@@ -1,0 +1,220 @@
+.button {
+    border: 2px solid #0da176;
+    background-color: #0da176;
+    color: #ffffff;
+    padding: 10px 40px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 6px;
+    margin:0rem;
+  }
+  .buttonText {
+    border: 2px solid #0da176;
+    background-color: #0da176;
+    color: #ffffff;
+    padding: 10px 80px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 6px;
+    margin:0rem;
+  }
+  .buttonTextFull {
+    border: 2px solid #0da176;
+    background-color: #0da176;
+    color: #ffffff;
+    padding: 10px 30px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 6px;
+    margin:0rem;
+  }
+  .feedbackwarning{
+    background-color:grey;
+    padding:8px 41px 8px 41px;
+    border-radius: 4px;
+    font-family: Nunito;
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  }
+  .feedbacksubmit{
+    padding: 10px 42px;
+    background-color: #ea0b4b;
+    margin: 0rem;
+    border-radius: 4px;
+    font-family: Nunito;
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  }
+  .feedbackdisabled{
+    background-color:grey;
+    padding:7px 65px;
+    border-radius: 4px;
+    font-family: Nunito;
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  }
+  .feedbackmessage{
+    padding: 8px 66px;
+    background-color: #ea0b4b;
+    margin: 0rem;
+    border-radius: 4px;
+    font-family: Nunito;
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+  }
+  /* Green */
+  .button-success {
+    border-color: #0da176;
+    transition: background 0.8s;
+  }
+
+  .button-success-outlined {
+    border-color: #0da176;
+    color: #0da176;
+    background-color: #ffffff;
+  }
+
+  .button-pink-outlined {
+    border-color: #ea0b4b;
+    color: #ea0b4b;
+    background-color: #ffffff;
+  }
+  
+  .button-success:hover {
+    background-color: #0da176;
+    opacity: 1;
+    background: #0da176 radial-gradient(circle, transparent 1%, #0da176 1%) center/15000%;
+  }
+  .button-success:focus {
+    outline: 0;
+  }
+
+  .button-success-outlined:hover {
+    background-color: #0da176;
+    opacity: 1;
+    color: #ffffff;
+  }
+
+  .button-success:active {
+    background-color: #2E8B57;
+    background-size: 100%;
+    transition: background 0s;
+    outline: none;
+  }
+
+  .fullWidth {
+    width: 100%;
+  }
+
+  .MidSuccessWidth{
+    width:60%;
+    padding: 10px 10px;
+  }
+
+  .pinkContent{
+    padding: 11px 23px;
+    background-color: white;
+    border:1px solid #ea0b4b;
+    /* margin:1rem 0rem 0rem 0rem; */
+    color:#ea0b4b;
+    font-family: 'Nunito';
+  }
+
+  .content{
+    padding: 11px 23px;
+    background-color: white;
+    border:1px solid #0da176;
+    margin:1rem 0rem 0rem 0rem;
+    color:#0da176;
+  }
+
+  .warning-content{
+    padding: 11px 40px;
+    background-color: white;
+    border:1px solid #0da176;
+    margin: 0rem;
+    color:#0da176;
+  }
+
+  .warning{
+    padding: 11px 23px;
+    background-color: #940016;
+    margin: 0rem;
+    color:#ffffff;
+    border: none;
+  }
+
+  .midWarning{
+    padding: 10px 105px;
+    background-color: #ea0b4b;
+    margin: 0rem;
+    color:#ffffff;
+    border: none;
+  }
+  .midWarning:disabled {background:#ccc}
+  .smallWarning{
+    padding: 10px 40px;
+    background-color: #ea0b4b;
+    margin: 0rem;
+    color:#ffffff;
+    border: none;
+  }
+  .contentPink{
+    background-color: #ea0b4b;
+    margin: 0rem;
+    white-space: nowrap !important;
+    color:#ffffff;
+    border: none;
+  }
+
+  .midContent{
+    width:60%;
+    padding: 10px 10px;
+    background-color: white;
+    border:1px solid #0da176;
+    margin:0rem 0rem 0rem 0rem;
+    color:#0da176;
+    transition: background 0s;
+  }
+  .midWidth{
+    width:80%;
+    padding: 10px 10px;
+  }
+  .smallWidth{
+    min-width:20%;
+    padding: 10px 10px 10px 10px;
+    border-radius: 4px;
+  }
+  .fullContent{
+    width: 100%;
+  }
+  .RoundButton{
+    color: #ffffff;
+    border-radius:12px;
+    background-color: #0da176;
+    box-shadow: none;
+  }

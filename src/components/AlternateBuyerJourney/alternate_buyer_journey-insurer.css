@@ -1,0 +1,114 @@
+.alternate-insurer-text-key-feature{
+    font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+.alternate-insurer-card {
+  padding: 12px 4px;
+  text-align: center;
+}
+.white-div-alternate-insurer {
+  margin-left: -20px;
+  margin-right: -20px
+}
+.table-div-alternate-buyer-insurer {
+  padding: 0px 8px;
+}
+.table-div-alternate-buyer-insurer table{
+  width: 100%;
+  margin-top: -8px;
+  margin-bottom: 16px
+}
+
+.table-div-alternate-buyer-insurer table tr td {
+  width: 25%;
+  border-left: solid 1px rgb(112,112,112, 0.1);
+  border-right: solid 1px rgb(112,112,112, 0.1);
+  border-bottom: solid 1px rgb(112,112,112, 0.1);
+  padding: 8px 12px;
+}
+.table-div-alternate-buyer-insurer table tr td:not(:first-child) {
+  text-align: center;
+}
+
+
+.chart-div-insurer-alternate-motor{
+  min-width: 310px; 
+}
+.claim-not-paid-alternate-buyer {
+  font-family: Source Sans Pro;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+.text-chart-percentage-alternate-buyer {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+  white-space: nowrap;
+}
+.value-chart-percentage-alternate-buyer {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+.source-insurer-alternate {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0da176;
+}
+.last-update-insurer-alternate{
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+}
+
+.cashless_garage_near_alternate {
+  font-family: Nunito;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+
+@media screen and (max-width: 767px) {
+  .table-div-alternate-buyer-insurer table tr td:first-child {
+    display: none;
+  }
+  .table-div-alternate-buyer-insurer {
+    padding: 0px 0px;
+  }
+}

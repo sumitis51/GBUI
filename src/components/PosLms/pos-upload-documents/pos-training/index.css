@@ -1,0 +1,109 @@
+.pos-training-documents .pos-training-documents-container {
+  background-color: #f4f4f4;
+  overflow-x: hidden;
+  padding: 2rem 7rem;
+  font-family: Nunito;
+}
+.pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-pic {
+  background-color: #f7f7f7;
+}
+.pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-pic .verify-number {
+  text-align: center;
+  color: #000000;
+  margin: 2rem 2rem;
+}
+.pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-pic .pos-documet-pos-training-pic {
+  padding: 4rem 3rem 5rem 3rem;
+}
+.pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-pic .pos-documet-pos-training-pic .pos-document-pic {
+  width: 100%;
+  height: auto;
+}
+.pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-training-documents-heading {
+  text-align: center;
+  margin-top: 2rem;
+  color: #000000;
+}
+.pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-training-documents-subheading {
+  text-align: center;
+  margin-top: 1rem;
+  color: #808080;
+}
+.pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-training-files {
+  padding: 0rem 2rem 0rem 2rem;
+}
+.pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-training-files .reason {
+  margin: 0rem 0rem 1rem 0rem;
+  color: #940016;
+  text-align: left;
+}
+.pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-training-files .upload-these-documents {
+  margin: 0rem 0rem 1rem 0rem;
+  color: #333333;
+  text-align: left;
+}
+.pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-training-files .some-documents-pos-training {
+  color: #0da176;
+  text-align: left;
+}
+.pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-training-files .document-verified-column {
+  margin: 1rem 0rem 1rem 0rem;
+}
+.pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-training-files .pos-training-files-jpg {
+  text-align: left;
+  margin-top: 1rem;
+  color: #000000;
+}
+.pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-training-files .button-view-comment {
+  margin-bottom: 1rem;
+}
+.pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-training-files .pos-training-passport-size {
+  text-align: left;
+  margin-top: 1rem;
+  color: #000000;
+}
+.pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-training-files .button-continue-training {
+  margin: 2rem 0rem;
+}
+.pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-refrel {
+  padding: 0rem 3rem 0rem 3rem;
+}
+.pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-refrel .pos-training-refral-amount-credit {
+  text-align: center;
+  margin-top: 4rem;
+  color: #0da176;
+}
+@media screen and (max-width: 992px) {
+  .pos-training-documents .pos-training-documents-container {
+    overflow-x: hidden;
+    padding: 2rem 2rem;
+  }
+  .pos-training-documents .pos-training-documents-container .pos-training-documents-card .card-container .pos-training-documents-pic {
+    padding: 0rem 0rem 9rem 0rem;
+  }
+  .pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-training-files {
+    padding: 0rem 1rem 0rem 1rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .pos-training-documents .pos-training-documents-container {
+    overflow-x: hidden;
+    padding: 0rem 0rem 0rem 0rem;
+    margin-bottom: 4rem;
+  }
+  .pos-training-documents .pos-training-documents-container .pos-training-documents-card .card-container {
+    box-shadow: none;
+  }
+  .pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-training-documents-heading {
+    margin-top: 0rem;
+  }
+  .pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-training-documents-subheading {
+    margin-top: 0rem;
+  }
+  .pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-training-files {
+    padding: 0rem;
+  }
+  .pos-training-documents .pos-training-documents-container .pos-training-documents-card .pos-training-documents-div .pos-refrel {
+    padding: 0rem 4rem 0rem 4rem;
+  }
+}

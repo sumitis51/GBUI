@@ -1,0 +1,41 @@
+.modelSearch .carFuelName {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+.modelSearch .mainHeading {
+  font-family: Nunito;
+  font-size: 20px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+  margin-top: 1.5rem;
+}
+.modelSearch .YearDiv {
+  width: 270px;
+  height: 48px;
+  border-radius: 2px;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.12), 0 0 2px 0 rgba(0, 0, 0, 0.14);
+  background-color: #ffffff;
+  margin: 0.8rem 0rem 0rem 0rem;
+}
+.modelSearch .YearDiv .year {
+  font-size: 14px;
+  color: #000000;
+  padding-top: 1rem;
+}
+.modelSearch .YearDiv:active {
+  border: 1px solid #0da176;
+}
+.modelSearch .YearDiv:active .year {
+  color: #0da176;
+}

@@ -1,0 +1,170 @@
+@charset "UTF-8";
+.parent-div-proposal-summary-motor {
+  margin: '0 1rem';
+}
+
+.parent-div-proposal-summary-motor .sub-header .mui-panel ul {
+  list-style-type: none;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.parent-div-proposal-summary-motor .sub-header .mui-panel ul li {
+  display: inline;
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  padding: 4px 145px;
+}
+
+.parent-div-proposal-summary-motor .sub-header .mui-panel {
+  padding: 0px;
+}
+
+.parent-div-proposal-summary-motor .mui-panel-heading-car {
+  font-family: Nunito;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+}
+
+.parent-div-proposal-summary-motor .mui-panel-sub-heading-p {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+}
+
+.parent-div-proposal-summary-motor .proposal-summary-body {
+  margin: 1.5rem 58.3px;
+}
+
+.parent-div-proposal-summary-motor .back-proposal-link {
+  font-family: Nunito;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  cursor: pointer;
+}
+
+.parent-div-proposal-summary-motor .proposal-summary-heading {
+  font-family: Nunito;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.parent-div-proposal-summary-motor .stepper-headings p {
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  display: inline-block;
+}
+
+.parent-div-proposal-summary-motor .stepper-headings p.active-success {
+  color: #0da176;
+}
+
+.parent-div-proposal-summary-motor .stepper-headings p.disable {
+  color: #808080;
+}
+
+.parent-div-proposal-summary-motor .stepper-headings p:not(:last-child):after {
+  content: '───';
+  color: #979797;
+}
+
+.parent-div-proposal-summary-motor .small-guide-line {
+  font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.parent-div-proposal-summary-motor .licenced_no {
+  font-family: Nunito;
+  font-size: 10px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+  margin-top: 4px;
+}
+
+.parent-div-proposal-summary-motor .rectangle {
+  width: 46px;
+  height: 55px;
+  border: solid 1px #979797;
+  background-color: #d8d8d8;
+  display: inline-block;
+  margin: 0px 6px;
+}
+
+@media screen and (max-width: 767px) {
+  .parent-div-proposal-summary-motor {
+    margin: 0px;
+  }
+  .parent-div-proposal-summary-motor .proposal-summary-body {
+    margin: 0px;
+  }
+  .parent-div-proposal-summary-motor .proposal-summary-body .back-proposal-link {
+    margin-top: 1rem;
+    display: inline-block;
+    margin-left: 1rem;
+    font-size: 12px;
+  }
+  .parent-div-proposal-summary-motor .proposal-summary-body .proposal-summary-heading {
+    margin-left: 1rem;
+    font-size: 18px;
+  }
+  .parent-div-proposal-summary-motor .proposal-summary-body .stepper-headings p {
+    font-size: 16px;
+  }
+  .parent-div-proposal-summary-motor .proposal-summary-body .stepper-headings p:first-child {
+    padding-left: 15px;
+  }
+  .parent-div-proposal-summary-motor .proposal-summary-body .small-guide-line {
+    font-size: 12px;
+    margin: 0px 15px;
+  }
+  .parent-div-proposal-summary-motor .proposal-summary-body .partners {
+    margin-left: 2px;
+  }
+  .parent-div-proposal-summary-motor .proposal-summary-body .partners .networks .rectangle {
+    width: 34px;
+    height: 41px;
+  }
+}
+/*# sourceMappingURL=summary.css.map */

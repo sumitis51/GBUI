@@ -1,0 +1,244 @@
+
+.heading-card-1{
+    color: #505050;
+    margin:1rem 0rem;
+    text-align: center;
+}
+.heading-card-2{
+    color: #808080;
+    margin:1rem 0rem;
+    text-align: center;
+}
+
+.image-border{
+    width: 78px;
+    height: 78px;
+    text-align: center;
+}
+.male{
+    text-align: center;
+}
+.female-image{
+    text-align: left;
+}
+.female-image.image-border{
+    width: 78px;
+    height: 78px;
+    border-radius: 4px;
+    text-align: center;
+}
+.female{
+    text-align: center;
+}
+.card-btn-1{
+    margin:0rem 0rem 2rem 2rem;
+    text-align: right;
+}
+.card-btn-2{
+    margin:0rem 2rem 2rem 0rem;
+    text-align: left;
+}
+
+.header-insurer-key-parameter{
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    padding: 10px 40px 10px 13px;
+}
+
+.panel-row-alternate-buyer-2{
+    background-color: #ffffff;
+}
+.margin-container{
+    margin:1rem 2rem;
+}
+.proceedToBuy{
+    margin:1rem 10rem;
+}
+.viewOurPartners{
+    margin:2rem 10rem 4rem 10rem;;
+}
+.label-alternate-health-form-radio {
+   text-align: center;
+    font-family: Nunito;
+    font-size: 16px;
+    color: #4e4e4e;
+}
+
+.are-you-prep-health {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.94;
+  letter-spacing: normal;
+  color: #000000;
+  font-weight: 600;
+}
+.for-whom{
+    font-family: Nunito;
+    font-size: 16px;
+    text-align: center;
+    color: #808080;
+}
+
+.table-1-alternate-journey-health table {
+    width: 100%;
+}
+.benefits{
+    color:#000000;
+}
+.why-important-p{
+    color:#000000;
+    margin:5px 0px;   
+    line-height: 1.81;
+}
+.heading{
+    margin:0px 10px 0px 0px;
+}
+
+.table-1-alternate-journey-health table tr th{
+    text-align: center;
+    background: #ea0b4b;
+    padding: 10px 12px;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+.table-1-alternate-journey-health table tr td{
+    width: 33%;
+}
+.table-1-alternate-journey-health table tr td{
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #333333;
+    padding: 10px 12px;
+    border: solid 1px rgb(51,51,51, 0.3);
+    border-top: none;
+}
+
+.table-1-alternate-journey-health table tr:nth-child(even) {
+    background-color: #ffffff;
+}
+.table-1-alternate-journey-health table tr:nth-child(odd) {
+    background-color: #f4f4f4;;
+}
+
+.cover-each-heading-alternate-health {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  margin-top: 15px;
+}
+
+.table-1-alternate-journey-health-2 table {
+    width: 100%;
+}
+
+.table-1-alternate-journey-health-2 table tr th{
+    text-align: center;
+    background: #ea0b4b;
+    padding: 10px 12px;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+.table-1-alternate-journey-health-2 table tr td{
+    width: 33%;
+}
+.table-1-alternate-journey-health-2 table tr td{
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #333333;
+    padding: 10px 12px;
+    border: solid 1px rgb(51,51,51, 0.3);
+    border-top: none;
+}
+
+.table-1-alternate-journey-health-2 table tr:nth-child(even) {
+    background-color: #ffffff;
+}
+.table-1-alternate-journey-health-2 table tr:nth-child(odd) {
+    background-color: #f4f4f4;;
+}
+
+.table-td-remove-border-health {
+    border: none;
+}
+.eligibility-alterante-health-para {
+    font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.63;
+  letter-spacing: normal;
+  color: #000000;
+  padding-right: 22px;
+}
+.health-column-alternate-buyer-from {
+    margin-top: 60px;
+}
+.right_insurer_img img {max-width:100%}
+
+@media screen and (max-width: 1024px) {
+    .big-image{
+        width: 100%;
+        height:auto;
+    }
+}
+@media screen and (max-width: 767px) {
+    .health-column-alternate-buyer-from {
+        margin-top: 0px;
+    }
+    .proceedToBuy{
+        margin:1rem 2rem;
+    }
+    .viewOurPartners{
+        margin:2rem 2rem 4rem 2rem;;
+    }
+    .right_insurer_img div {max-width:40%; display: inline-block; margin: 0 7px;}
+}
+@media screen and (max-width: 968px) {
+    .label-alternate-health-form-radio {
+        display: block;
+        vertical-align: normal;
+    }
+    .health-column-alternate-buyer-from {
+        margin-top: 0px;
+    }
+}

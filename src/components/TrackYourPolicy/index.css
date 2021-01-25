@@ -1,0 +1,214 @@
+.PolicyStatusContainer .mui-container-fluid {
+  overflow-x: hidden;
+  padding: 0px 0px 0rem 0px;
+  text-align: left;
+}
+.PolicyStatusContainer .mui-container-fluid .AddFamilyDetails {
+  margin-bottom: 25rem;
+  text-align: center;
+}
+.PolicyStatusContainer .mui-container-fluid .AddFamilyDetails .YourFamily {
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 600;
+  color: #ea0b4b;
+  padding: 1rem 0rem 5rem 3rem;
+  text-decoration: underline;
+  text-align: left;
+}
+.PolicyStatusContainer .mui-container-fluid .AddFamilyDetails .AddFamilyDetailsPic {
+  display: inline-block;
+  margin: 3rem 0rem 2rem 0rem;
+}
+.PolicyStatusContainer .mui-container-fluid .AddFamilyDetails .NoFamily {
+  font-family: Nunito;
+  font-size: 28px;
+  font-weight: 600;
+  text-align: center;
+  color: #000000;
+  margin: 1rem 0rem;
+}
+.PolicyStatusContainer .mui-container-fluid .AddFamilyDetails .AddFamilyYet {
+  font-family: Nunito;
+  font-size: 12px;
+  text-align: center;
+  color: #000000;
+  margin: 1rem 0rem;
+}
+.PolicyStatusContainer .mui-container-fluid .no-status-available {
+  font-family: Nunito;
+  font-size: 36px;
+  font-weight: 600;
+  color: #ea0b4b;
+  text-align: center;
+  margin: 4rem 1rem;
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer {
+  background-color: #f3f5fb;
+  padding: 0px 0px 0rem 10px;
+  margin: 0rem;
+  box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.2), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 6px 10px 0 rgba(0, 0, 0, 0.14);
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .Policy {
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 600;
+  color: #ea0b4b;
+  text-decoration: underline;
+  text-align: left;
+  margin: 1rem 1rem;
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .Preinspection {
+  text-align: right;
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .LeftCol {
+  font-family: Nunito;
+  font-size: 14px;
+  color: #333333;
+  margin: 0.3rem 0rem;
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .RightCol {
+  font-family: Nunito;
+  font-size: 14px;
+  color: #000000;
+  margin: 0.3rem 0rem;
+  text-align: right;
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .premedical-done {
+  font-family: Nunito;
+  font-size: 12px;
+  text-align: center;
+  color: #ea0b4b;
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .premedical-notice {
+  font-family: Nunito;
+  font-size: 12px;
+  text-align: center;
+  color: #ea0b4b;
+  margin: 0rem 2rem;
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .medical-required {
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: 600;
+  color: #333333;
+  margin: 1rem 0rem;
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .member {
+  font-family: Nunito;
+  font-size: 12px;
+  line-height: 2;
+  color: #333333;
+  margin: 0.2rem 0rem;
+  text-align: left;
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .member-name {
+  font-family: Nunito;
+  font-size: 12px;
+  line-height: 2;
+  color: #333333;
+  margin: 0.2rem 0rem;
+  text-align: right;
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .view-detail {
+  font-family: Nunito;
+  font-size: 10px;
+  line-height: 2.4;
+  color: #ea0b4b;
+  text-align: right;
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .price {
+  font-family: Nunito;
+  font-size: 8px;
+  text-align: right;
+  color: #940016;
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .preinspectionDiv {
+  font-family: Nunito;
+  font-size: 16px;
+  color: #0da176;
+  text-align: center;
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .PaymentButton {
+  text-align: center;
+  margin: 1rem 10rem 1rem 10rem;
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .agree {
+  text-align: center;
+  font-family: Nunito;
+  font-size: 10px;
+  color: #000000;
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .member-details {
+  padding: 0;
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .make-payment-button {
+  width: 158px;
+  margin: 1rem 0rem;
+  text-align: center;
+}
+.PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .expandedPanel {
+  margin-bottom: 3rem;
+}
+.panelSummary {
+  display: inline-block;
+}
+@media screen and (max-width: 767px) {
+  .PolicyStatusContainer .mui-container-fluid {
+    overflow-x: hidden;
+    padding: 3rem 0rem 2rem 0rem;
+    text-align: left;
+  }
+  .PolicyStatusContainer .mui-container-fluid .insuranceCard {
+    margin: 1rem 0rem;
+  }
+  .PolicyStatusContainer .mui-container-fluid .expandedPanel {
+    box-shadow: none;
+  }
+  .PolicyStatusContainer .mui-container-fluid .statusText {
+    font-family: Nunito;
+    font-size: 12px;
+    color: #000000;
+    margin: 1rem 0rem;
+  }
+  .PolicyStatusContainer .mui-container-fluid .checkDetails {
+    margin: 0.5rem 0rem;
+  }
+  .PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer {
+    background-color: #ffffff;
+    margin: 0rem;
+    padding: 0rem;
+    box-shadow: none;
+  }
+  .PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .PolicyStatus {
+    font-family: Nunito;
+    font-size: 16px;
+    color: #ea0b4b;
+    text-decoration: underline;
+  }
+  .PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .LeftCol {
+    margin: 0.5rem 0rem;
+  }
+  .PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .RightCol {
+    margin: 0.5rem 0rem;
+  }
+  .PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .premedical-done {
+    margin: 0rem 0rem 0.5rem 0rem;
+  }
+  .PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .PaymentButton {
+    margin: 1rem 0rem 1rem 0rem;
+    float: right;
+  }
+  .PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .expandedPanel {
+    padding: 8px 14px 24px;
+  }
+  .PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .expandedPanelDetails {
+    padding: 8px 14px 24px;
+  }
+  .PolicyStatusContainer .mui-container-fluid .insurancePolicyContainer .member-column {
+    padding: 0;
+  }
+  .PolicyStatusContainer .mui-container-fluid .rightcard {
+    padding: 0;
+  }
+}

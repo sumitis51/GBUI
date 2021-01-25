@@ -1,0 +1,185 @@
+.parent-div-payment-details {
+    .premium-div {
+        text-align: center;
+
+        .total-heading {
+            font-family: Nunito;
+            font-size: 18px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+        }
+        .amount {
+            font-family: Nunito;
+            font-size: 28px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+            span{
+                font-size: 14px;
+            }
+        }
+    }
+    .hr-ln{
+        background: #aaaaaa;
+    }
+    .addons{
+        .addons-heading {
+            font-family: Source Sans Pro;
+            font-size: 12px;
+            font-weight: bold;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+        }
+        .addon-text {
+            font-family: Source Sans Pro;
+            font-size: 16px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+            display: block;
+            text-overflow: ellipsis;
+            overflow: hidden;
+            white-space: nowrap;
+        }
+        .addon-amount {
+            font-family: Source Sans Pro;
+            font-size: 16px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+            float: right;
+        }
+    }
+    .premium{
+        .premium-heading{
+            font-family: Source Sans Pro;
+            font-size: 12px;
+            font-weight: bold;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+        }
+        .premium-text{
+            font-family: Source Sans Pro;
+            font-size: 16px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+            display: block;
+            text-overflow: ellipsis;
+            overflow: hidden;
+            white-space: nowrap;
+        }
+        .premium-amount {
+            font-family: Source Sans Pro;
+            font-size: 16px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+            text-align: right;
+
+            .amount{
+                font-family: Source Sans Pro;
+                font-size: 20px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                line-height: normal;
+                letter-spacing: normal;
+                color: #9c0f46;
+                span{
+                    font-size: 10px;
+                    color: #000000;
+                }
+            }
+        }
+        .full-premium-breakup {
+            font-family: Nunito;
+            font-size: 12px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #0da176;
+            cursor:pointer;
+        }
+        
+    }
+    .trial{
+        .trial-heading{
+            font-family: Nunito;
+            font-size: 16px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+        }
+        .trial-text{
+            font-family: Source Sans Pro;
+            font-size: 12px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+        }
+        .refund-policy {
+            font-family: Source Sans Pro;
+            font-size: 12px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #0da176;
+        }
+    }
+    .get-assis-heading{
+        font-family: Nunito;
+        font-size: 15px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+    }
+    .get-assis-text {
+        font-family: Nunito;
+        font-size: 12px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: rgba(128, 128, 128, 0.87);
+    }
+}

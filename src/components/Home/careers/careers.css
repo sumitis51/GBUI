@@ -1,0 +1,135 @@
+.career .mui-container-fluid {
+  background-color: #ffffff;
+  overflow: hidden;
+  padding: 2rem 4rem 3rem 4rem;
+}
+.career .mui-container-fluid .carrier {
+  text-align: center;
+  color: #ea0b4b;
+  font-weight: 600;
+}
+.career .mui-container-fluid .some-awesome-line {
+  text-align: center;
+  color: #333333;
+}
+.career .mui-container-fluid .parent-panel {
+  margin: 0rem 1.3rem 1.2rem 1.3rem;
+}
+.career .mui-container-fluid .designing {
+  color: #000000;
+  margin: 0rem 1.2rem 1rem 1.2rem;
+}
+.career .mui-container-fluid .userExpDesign {
+  color: #333333;
+  margin: 0.1rem 2rem;
+  font-weight: 600;
+}
+.career .mui-container-fluid .exp {
+  color: #808080;
+  margin: 0.1rem 2rem;
+}
+.career .mui-container-fluid .responsibilities {
+  margin: 0.1rem 2rem;
+  color: #333333;
+  font-weight: 600;
+}
+.career .mui-container-fluid .details {
+  margin: 0px 3rem;
+}
+.career .mui-container-fluid .view-more-button {
+  float: right;
+}
+.career .mui-container-fluid .MuiFormControl-root-1 {
+  float: right;
+}
+.career .mui-container-fluid .MuiFormControl-root-1 .buttonCareer {
+  margin: 18px;
+  width: auto;
+  height: 36px;
+  border-radius: 4px;
+  border: none;
+  background-color: #39cca6;
+}
+.career .mui-container-fluid .MuiFormControl-root-1 .job_form {
+  display: none;
+}
+.career .mui-container-fluid .MuiFormControl-root-1 .buttonText {
+  font-size: 12px;
+  line-height: 1.33;
+  text-align: center;
+  color: #ffffff;
+}
+@media screen and (max-width: 992px) {
+  .career .mui-container-fluid {
+    padding: 2rem 4rem 3rem 4rem;
+  }
+  .career .mui-container-fluid .carrier {
+    text-align: center;
+    color: #ea0b4b;
+  }
+  .career .mui-container-fluid .some-awesome-line {
+    text-align: center;
+    color: #333333;
+  }
+}
+@media screen and (max-width: 767px) {
+  .career .mui-container-fluid {
+    padding: 1rem 0rem 1rem 0rem;
+    overflow-x: hidden;
+    text-align: center;
+  }
+  .career .mui-container-fluid .carrier {
+    text-align: center;
+    font-size: 18px;
+  }
+  .career .mui-container-fluid .some-awesome-line {
+    text-align: center;
+    margin: 0rem 1rem;
+  }
+  .career .mui-container-fluid .carrierText {
+    font-family: Nunito;
+    font-weight: 300;
+    text-align: center;
+  }
+  .career .mui-container-fluid .carrierText .carrier {
+    font-size: 1.7rem;
+    line-height: 0.82;
+    color: #333333;
+    margin: 1.2rem;
+  }
+  .career .mui-container-fluid .designing {
+    margin: 1rem 0rem 0rem 1.6rem;
+  }
+  .career .mui-container-fluid .userExpDesign {
+    margin: 0.2rem;
+    font-size: 16px;
+    text-align: left;
+  }
+  .career .mui-container-fluid .exp {
+    text-align: left;
+    margin: 0;
+  }
+  .career .mui-container-fluid .responsibilities {
+    text-align: left;
+    margin: 0;
+  }
+  .career .mui-container-fluid .details {
+    margin: 0px 8px;
+    text-align: left;
+  }
+  .career .mui-container-fluid .view-more-button {
+    margin: 1rem 0rem;
+    float: none;
+  }
+  .career .mui-container-fluid .MuiFormControl-root-1 {
+    display: inline-block;
+  }
+}
+@media screen and (max-width: 320px) {
+  .career .mui-container-fluid .parent-panel {
+    margin: 0rem 0.3rem 1.2rem 0.3rem;
+  }
+  .career .mui-container-fluid .designing {
+    margin: 0rem;
+  }
+}

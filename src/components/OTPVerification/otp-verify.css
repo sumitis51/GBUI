@@ -1,0 +1,52 @@
+.otp-verify-parent {
+  background: #f4f4f4;
+  padding-top:2rem;
+  padding-bottom:2rem;
+  margin-top: 0.1px;
+}
+
+.otp-verify-parent .panel-forgot {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.otp-verify-parent .img-side {
+  background: #f7f7f7;
+}
+
+.otp-verify-parent .forgot-password-img {
+  text-align: center;
+  margin-bottom: 86.3px;
+}
+
+.otp-verify-parent .forgot-h4 {
+  margin-top: 67px;
+  margin-bottom:65px;
+}
+
+.otp-verify-parent .right-forgot-h5 {
+  margin-top: 67px;
+}
+
+.otp-verify-parent .note-right {
+  color: #808080;
+}
+
+.otp-verify-parent .forgot-password-form {
+  margin-top: 46px;
+}
+
+.otp-verify-parent .submit-button {
+  margin-top: 39px;
+}
+
+@media screen and (max-width: 767px) {
+  .otp-verify-parent {
+    background: #ffffff;
+    padding-top: 86px;
+  }
+  .otp-verify-parent .forgot-password-form {
+    margin-top: 41px;
+  }
+}
+/*# sourceMappingURL=otp-verify.css.map */

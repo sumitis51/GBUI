@@ -1,0 +1,266 @@
+.payment-proposal-form-motor-parent{
+
+    .package-name{
+        font-family: Nunito;
+        font-size: 15px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+        margin: 0px;
+    }
+    .customer-rating{
+        height: 16px;
+        font-family: Nunito;
+        font-size: 12px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #808080;
+        margin: 0;
+
+        span{
+            color: #000000;
+        }
+    }
+    .gb-rating {
+        font-family: Nunito;
+        font-size: 12px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #808080;
+        margin: 0;
+        span{
+            color: #000000;
+        }
+    }
+    .plan-details{
+        font-family: Nunito;
+        font-size: 12px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #0da176;
+        text-align: right;
+    }
+    .total-premiuim{
+        font-family: Nunito;
+        font-size: 14px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+        text-align: right;
+    }
+    .amount {
+        font-family: Nunito;
+        font-size: 21px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+        text-align: right;
+        white-space: nowrap;
+        span{
+            font-size: 10.5px;
+        }
+    }
+    .addon-div{
+        .addon-heading{
+            font-family: Source Sans Pro;
+            font-size: 12px;
+            font-weight: bold;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+        }
+        .addon-name{
+            font-family: Source Sans Pro;
+            font-size: 16px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            overflow: hidden;
+        }
+        .addon-price{
+            font-family: Source Sans Pro;
+            font-size: 16px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+            text-align: right;
+        }
+    }
+    .premium-div{
+        .premium-heading{
+            font-family: Source Sans Pro;
+            font-size: 12px;
+            font-weight: bold;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+        }
+        .premium-name{
+            font-family: Source Sans Pro;
+            font-size: 16px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+        }
+        .premium-price{
+            font-family: Source Sans Pro;
+            font-size: 16px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+            text-align: right;
+            span{
+                font-family: Source Sans Pro;
+                font-size: 20px;
+                font-weight: normal;
+                font-style: normal;
+                font-stretch: normal;
+                line-height: normal;
+                letter-spacing: normal;
+                color: #9c0f46;
+                span{
+                    font-size: 10px;
+                    color: #000000;
+                }
+            }
+        }
+    }
+    .premium-breakup{
+        font-family: Nunito;
+        font-size: 12px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #ea0b4b;
+        text-align: right;
+
+    }
+    .cover-type-heading{
+        font-family: Source Sans Pro;
+        font-size: 14px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #808080;
+        display: inline-block;
+        margin: 0;
+    }
+    .cover-type-value{
+        font-family: Source Sans Pro;
+        font-size: 14px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        float: right;
+        color: #000000;
+        display: inline-block;
+        margin: 0px;
+    }
+    .total-detail{
+        font-family: Nunito;
+        font-size: 12px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+        display: inline-block;
+    }
+    .edit{
+        float: right;
+        display: inline-block;
+        font-family: Nunito;
+        font-size: 12px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #0da176;
+    }
+
+    .tabs-payment{
+        p{
+            display: inline-block;
+            font-family: Nunito;
+            font-size: 14px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #000000;
+        }
+        p:not(:first-child){
+            padding: 4px 10px;
+        }
+        p:first-child{
+            padding: 0px 10px 0px 0px;
+        }
+        p.tabs-active{
+            border-bottom:  solid 3px #9c0f46;
+        }
+    }
+    .tabs-payment-content{
+        .recommend-heading{
+            font-family: Nunito;
+            font-size: 14px;
+            font-weight: normal;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            color: #9c0f46;
+            span{
+                color: #000000;
+            }
+        }
+        .rectangle{
+            width: 34px;
+            height: 41px;
+        }
+    }
+}

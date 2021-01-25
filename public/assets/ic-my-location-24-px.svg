@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+    <defs>
+        <rect id="b" width="783" height="546" x="322" y="81" rx="2"/>
+        <filter id="a" width="102.2%" height="103.3%" x="-1.1%" y="-1.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2.5"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter2"/>
+            <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter3"/>
+            <feGaussianBlur in="shadowOffsetOuter3" result="shadowBlurOuter3" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter3" result="shadowMatrixOuter3" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.14 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="shadowMatrixOuter2"/>
+                <feMergeNode in="shadowMatrixOuter3"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(-975 -218)">
+            <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+            <use fill="#FFF" xlink:href="#b"/>
+        </g>
+        <path fill="#AAA" d="M-141 27H23v1h-164z"/>
+        <text fill="#000" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="16" transform="translate(-141 -20)">
+            <tspan x="0" y="33">282001</tspan>
+        </text>
+        <text fill="#AAA" fill-opacity=".54" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="12" transform="translate(-141 -20)">
+            <tspan x="0" y="12">Your Pincode</tspan>
+        </text>
+        <g>
+            <path d="M-1-1h24v24H-1z"/>
+            <path fill="#ea0b4b" fill-rule="nonzero" d="M11 7c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm8.94 3A8.994 8.994 0 0 0 12 2.06V0h-2v2.06A8.994 8.994 0 0 0 2.06 10H0v2h2.06A8.994 8.994 0 0 0 10 19.94V22h2v-2.06A8.994 8.994 0 0 0 19.94 12H22v-2h-2.06zM11 18c-3.87 0-7-3.13-7-7s3.13-7 7-7 7 3.13 7 7-3.13 7-7 7z"/>
+        </g>
+    </g>
+</svg>

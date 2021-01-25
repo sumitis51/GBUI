@@ -1,0 +1,32 @@
+{
+    "en":{
+        "Level1SubmittingAComplaintForTheFirstTime":"Level 1: Submitting a complaint for the first time",
+        "Level1PLeaseFillTheForm":"Please fill the form to submit your request/complaint.",
+        "Level1InputLabelPolicyNumber":"Policy Number",
+        "Level1InputLabelComplaintRelatedTo":"Complaint Related to*",
+        "Level1InputLabelTypeOfComplaint":"Type of Complaint*",
+        "Level1ButtonTextSubmit":"Submit",
+        "Level1HeadingAdditionalDetail":"Additional Details",
+        "Level1InputLabelCustomerName":"Customer Name",
+        "Level1InputLabelPhoneNumber":"Phone Number",
+        "Level1InputLabelEmailId":"Email Id",
+        "Level1HeadingFeedbackComplaints":"Feedback/Complaints",
+        "Level1InputCheckboxLabel":"I authorize Groupbima and representatives to call me with reference to my query or request, wherever applicable."
+
+    },
+    "mr":{
+        "Level1SubmittingAComplaintForTheFirstTime":"स्तर 1: प्रथमवेळी सबमिट करणे",
+        "Level1PLeaseFillTheForm":"कृपया आपल्या विनंती / तक्रारीचे फॉर्म भरा.",
+        "Level1InputLabelPolicyNumber":"धोरण क्रमांक",
+        "Level1InputLabelComplaintRelatedTo":"संबंधित तक्रारी *",
+        "Level1InputLabelTypeOfComplaint":"तक्रारीचा प्रकार *",
+        "Level1ButtonTextSubmit":"सबमिट करा",
+        "Level1HeadingAdditionalDetail":"अतिरिक्त तपशील",
+        "Level1InputLabelCustomerName":"ग्राहक नाव",
+        "Level1InputLabelPhoneNumber":"फोन नंबर",
+        "Level1InputLabelEmailId":"ईमेल आयडी",
+        "Level1HeadingFeedbackComplaints":"अभिप्राय / तक्रारी",
+        "Level1InputCheckboxLabel":"मी ग्रुपबिमा आणि माझा प्रश्न किंवा विनंती संदर्भात मला कॉल करण्यासाठी प्रतिनिधींना अधिकृत करतो."
+
+    }
+}

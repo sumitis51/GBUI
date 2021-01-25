@@ -1,0 +1,42 @@
+.NotFound {
+  background-color: #f4f4f4;
+  text-align: center;
+  font-family: Nunito;
+  color: #000000;
+}
+.NotFound .NotFoundImage {
+  margin: 5rem 0rem 2rem 0rem;
+  display: inline-block;
+}
+.NotFound .NotFoundImage .notfound {
+  width: 100%;
+  height: auto;
+}
+.NotFound .oops {
+  font-size: 78px;
+  font-weight: bold;
+}
+.NotFound .errCode {
+  font-size: 24px;
+}
+.NotFound .cantSeem {
+  font-size: 36px;
+  margin: 1rem 0rem 6rem 0rem;
+}
+@media screen and (max-width: 767px) {
+  .NotFound {
+    background-color: #ffffff;
+  }
+  .NotFound .NotFoundImage {
+    background-color: #ffffff;
+  }
+  .NotFound .oops {
+    font-size: 58.5px;
+  }
+  .NotFound .errCode {
+    font-size: 18px;
+  }
+  .NotFound .cantSeem {
+    font-size: 27px;
+  }
+}

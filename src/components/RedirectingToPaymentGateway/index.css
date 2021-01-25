@@ -1,0 +1,62 @@
+.redirecting .mui-container-fluid {
+  font-family: Nunito;
+  text-align: center;
+  overflow-x: hidden;
+  padding: 2rem 6rem 6rem 6rem;
+}
+.redirecting .mui-container-fluid .redirecting-image {
+  margin: 5rem 0rem 2rem 0rem;
+  display: inline-block;
+}
+.redirecting .mui-container-fluid .redirecting-image .redirecting-pic {
+  width: 100%;
+  height: auto;
+}
+@keyframes dot-keyframes {
+  0% {
+    opacity: .4;
+    transform: scale(1, 1);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.2, 1.2);
+  }
+  100% {
+    opacity: .4;
+    transform: scale(1, 1);
+  }
+}
+.redirecting .mui-container-fluid .loading-dots {
+  text-align: center;
+  width: 100%;
+}
+.redirecting .mui-container-fluid .loading-dots--dot {
+  animation: dot-keyframes 1.5s infinite ease-in-out;
+  background-color: #940016;
+  border-radius: 10px;
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+  margin: 0px 5px;
+}
+.redirecting .mui-container-fluid .loading-dots--dot:nth-child(2) {
+  animation-delay: .5s;
+}
+.redirecting .mui-container-fluid .loading-dots--dot:nth-child(3) {
+  animation-delay: 1s;
+}
+.redirecting .mui-container-fluid .redirecting-message {
+  font-size: 16px;
+  font-weight: 600;
+  color: #000000;
+  margin: 3rem 0rem 1rem 0rem;
+}
+.redirecting .mui-container-fluid .do-not-refresh {
+  font-size: 12px;
+  color: #000000;
+}
+@media screen and (max-width: 767px) {
+  .redirecting .mui-container-fluid {
+    padding: 2rem 1rem 6rem 1rem;
+  }
+}

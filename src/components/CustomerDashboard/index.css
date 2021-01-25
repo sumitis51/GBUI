@@ -1,0 +1,242 @@
+.dashboard {
+  margin-top: 0px;
+  overflow-x: hidden;
+}
+.dashboard .dashboard-container .dashboard-mid-container {
+  margin-top: 4rem;
+}
+.dashboard .dashboard-container .policies {
+  color: #ea0b4b;
+  font-weight: 600;
+  margin: 1rem 0rem;
+  text-decoration: underline;
+}
+.dashboard .dashboard-container .policy-card {
+  margin: 2rem 0rem;
+}
+.dashboard .dashboard-container .insurer-image {
+  display: inline;
+  margin: 0.5rem 0.5rem;
+}
+.dashboard .dashboard-container .insurer-name {
+  color: #000000;
+  display: inline;
+  margin: 0.5rem 0.1rem;
+}
+.dashboard .dashboard-container .gb-rating {
+  color: #808080;
+  display: inline;
+}
+.dashboard .dashboard-container .fab-yellow {
+  display: inline;
+  width: 108px;
+  height: 19px;
+  opacity: 0.86;
+  border-radius: 9px;
+  background-color: #f5a623;
+  font-size: 10px;
+  color: #ffffff;
+  padding: 4px 10px;
+  vertical-align: top;
+}
+.dashboard .dashboard-container .track-policy-btn {
+  display: inline;
+  margin: 0rem 0.5rem 0.5rem 1.5rem;
+}
+.dashboard .dashboard-container .help-btn {
+  margin: 1rem 0.5rem 0.5rem 0.5rem;
+}
+.dashboard .dashboard-container .btn-column-2 {
+  text-align: right;
+  padding-right: 0;
+}
+.dashboard .dashboard-container .btn-column-3 {
+  text-align: right;
+  padding-left: 0;
+}
+.dashboard .dashboard-container .btn-column {
+  text-align: right;
+}
+.dashboard .dashboard-container .policy-link {
+  color: #ea0b4b;
+  margin: 2rem 1rem 0rem 1rem;
+}
+.dashboard .dashboard-container .cover-column {
+  border-right: 2px solid rgba(128, 128, 128, 0.87);
+  padding: 0px 8px;
+}
+.dashboard .dashboard-container .policy-cover {
+  color: rgba(128, 128, 128, 0.87);
+}
+.dashboard .dashboard-container .cover-value {
+  color: #000000;
+  font-weight: 600;
+  margin: 1rem 0rem 0rem 0.5rem;
+}
+.dashboard .dashboard-container .right-column {
+  padding-right: 0;
+}
+.dashboard .dashboard-container .member-column {
+  background-color: #f4f4f4;
+}
+.dashboard .dashboard-container .back {
+  color: #ea0b4b;
+  display: inline;
+}
+.dashboard .dashboard-container .policy-detail {
+  color: #ea0b4b;
+  margin: 1rem 0rem;
+}
+.dashboard .dashboard-container .policy-column-2 {
+  padding: 0;
+}
+.dashboard .dashboard-container .tab-div {
+  margin: 0.5rem 0rem;
+}
+.dashboard .dashboard-container .member-row {
+  border-bottom: 2px dashed #979797;
+}
+.dashboard .dashboard-container .insured-member {
+  color: #000000;
+  margin: 0.5rem 0rem;
+}
+.dashboard .dashboard-container .download-link {
+  color: #ea0b4b;
+  margin: 0.5rem 0rem;
+  text-align: right;
+}
+.dashboard .dashboard-container .memberdetails {
+  color: #808080;
+  margin: 0.5rem 0rem;
+}
+.dashboard .dashboard-container .memberdetails-value {
+  color: #000000;
+  margin: 0.5rem 0rem;
+}
+.dashboard .dashboard-container .rating {
+  color: #808080;
+  margin: 0.5rem 0rem;
+}
+.dashboard .dashboard-container .base-plan {
+  color: #000000;
+  margin: 0.5rem 0rem;
+}
+.dashboard .dashboard-container .rightmost-column {
+  border-left: 1px solid #979797;
+}
+.dashboard .dashboard-container .policy-row {
+  margin-top: 1rem;
+}
+.dashboard .dashboard-container .key-feature {
+  color: #000000;
+  margin: 0.5rem 0rem 0.5rem 1rem;
+}
+.dashboard .dashboard-container .feature-link {
+  color: #ea0b4b;
+  text-align: right;
+  margin-right: 2rem;
+}
+.dashboard .dashboard-container .paper-div {
+  margin: 0rem 0rem 0rem 1rem;
+}
+.dashboard .dashboard-container .name-add-on {
+  color: #000000;
+  margin: 0.5rem 0rem;
+}
+.dashboard .dashboard-container .benefits {
+  color: #333333;
+  margin: 0.5rem 0rem;
+}
+.dashboard .dashboard-container .price {
+  font-weight: 600;
+  color: #333333;
+  margin: 1rem 0rem;
+}
+.dashboard .dashboard-container .addon-card {
+  margin: 1rem 1rem;
+}
+.dashboard .dashboard-container .ribbon {
+  background-color: #ea0b4b;
+  margin: 1rem 1rem;
+}
+.dashboard .dashboard-container .ribbon ul {
+  padding: 12px 0;
+  text-align: center;
+}
+.dashboard .dashboard-container .ribbon ul li {
+  list-style: none;
+  display: inline;
+  padding: 12px 70px;
+  color: white;
+}
+.dashboard .dashboard-container .ribbon ul li {
+  list-style: none;
+  display: inline;
+  padding: 12px 70px;
+  color: white;
+  background-color: #ea0b4b;
+}
+.dashboard .dashboard-container .ribbon ul li:first-child:after {
+  content: '';
+  position: relative;
+  top: 50px;
+  left: -75px;
+  width: 0;
+  height: 0;
+  border-top: solid 20px #ea0b4b;
+  border-left: solid 20px transparent;
+  border-right: solid 20px transparent;
+}
+.dashboard .dashboard-container .key-benefit-heading {
+  color: #333333;
+  margin: 1rem 1rem;
+}
+@media screen and (max-width: 767px) {
+  .dashboard {
+    margin-top: 0px;
+    overflow-x: hidden;
+  }
+  .dashboard .dashboard-container .member-column {
+    background-color: #ffffff;
+    margin-top: 3rem;
+  }
+  .dashboard .dashboard-container .policy-detail {
+    margin: 1rem 0rem 0rem 0rem;
+  }
+  .dashboard .dashboard-container .policy-card {
+    margin: 1rem 0rem 0rem 0rem;
+  }
+  .dashboard .dashboard-container .policy-column {
+    padding: 0;
+  }
+  .dashboard .dashboard-container .btn-column-2 {
+    text-align: right;
+    padding: 0px 15px;
+  }
+  .dashboard .dashboard-container .insurer-name {
+    display: block;
+    margin: 0rem 0.1rem;
+    text-align: right;
+  }
+  .dashboard .dashboard-container .gb-rating {
+    text-align: right;
+  }
+  .dashboard .dashboard-container .memberdetails-value {
+    text-align: right;
+  }
+  .dashboard .dashboard-container .track-policy-btn {
+    display: block;
+    margin: 2rem 0rem 0rem 0rem;
+  }
+  .dashboard .dashboard-container .track-policy-btn2 {
+    text-align: right;
+    margin: 2rem 0rem 0rem 0rem;
+  }
+  .dashboard .dashboard-container .left-column {
+    text-align: right;
+  }
+  .dashboard .dashboard-container .insurer-image {
+    margin:0;
+  }
+
+}

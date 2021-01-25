@@ -1,0 +1,25 @@
+{
+    "en":{
+        "AddFamilyMemberFamilyMember":"Family Member",
+        "AddFamilyMemberNoFamilyMember":"No family member added yet",
+        "AddFamilyMemberAddFamilyMemberYet":"Add your family members now :)",
+        "AddFamilyMemberAddFamilyMemberButtonText":"Add Members",
+        "AddedFamilyMemberFamilyMember":"Family Member",
+        "AddedFamilyMemberAddMembersButtonText":"Add Members",
+        "AddedFamilyMemberAddMembersDOB":"DOB",
+        "AddedFamilyMemberAddMembersAge":"Age",
+        "AddedFamilyMemberGetQuotesButtonText":"Get Quotes"
+    },
+    "mr":{
+        "AddFamilyMemberFamilyMember":"कौटुंबिक सदस्य",
+        "AddFamilyMemberNoFamilyMember":"अद्याप कोणतेही कौटुंबिक सदस्य जोडले नाहीत",
+        "AddFamilyMemberAddFamilyMemberYet":"आता आपल्या कौटुंबिक सदस्यांना जोडा :)",
+        "AddFamilyMemberAddFamilyMemberButtonText":"सदस्य जोडा",
+        "AddedFamilyMemberFamilyMember":"कौटुंबिक सदस्य",
+        "AddedFamilyMemberAddMembersButtonText":"सदस्य जोडा",
+        "AddedFamilyMemberAddMembersDOB":"जन्मतारीख",
+        "AddedFamilyMemberAddMembersAge":"वय",
+        "AddedFamilyMemberGetQuotesButtonText":"कोट मिळवा"
+    }
+
+}

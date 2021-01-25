@@ -1,0 +1,12 @@
+.get-discount-popup .get-discount-table-form table {
+  width: 100%;
+}
+
+.get-discount-popup .get-discount-table-form table tbody tr td p {
+  font-size: 50px;
+}
+
+.get-discount-popup .get-discount-table-form table tbody tr td p img {
+  margin-right: 1rem;
+}
+/*# sourceMappingURL=discount.css.map */

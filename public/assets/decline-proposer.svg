@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129" height="164" viewBox="0 0 129 164">
+    <defs>
+        <linearGradient id="a" x1="50%" x2="50%" y1="100%" y2="0%">
+            <stop offset="0%" stop-color="gray" stop-opacity=".25"/>
+            <stop offset="54%" stop-color="gray" stop-opacity=".12"/>
+            <stop offset="100%" stop-color="gray" stop-opacity=".1"/>
+        </linearGradient>
+        <linearGradient id="b" x1="50%" x2="50%" y1="99.994%" y2="0%">
+            <stop offset="0%" stop-color="gray" stop-opacity=".25"/>
+            <stop offset="54%" stop-color="gray" stop-opacity=".12"/>
+            <stop offset="100%" stop-color="gray" stop-opacity=".1"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(-656 -191)">
+        <path fill="#5E5E5E" d="M0 0h1440v1024H0z"/>
+        <rect width="741" height="515" x="350" y="70" fill="#FFF" rx="6"/>
+        <g transform="translate(656 191)">
+            <path fill="#E0E0E0" d="M55.695 68.36l51.741 7.819-.71 4.71-51.741-7.817z"/>
+            <path fill="#0DA176" d="M52.149 91.913l25.87 3.908-.71 4.712-25.87-3.91z"/>
+            <path fill="#FDA57D" d="M87.091 0s3.092.829 1.405 7.171A4.303 4.303 0 0 1 86.863 8L86 .923 87.091 0z"/>
+            <path fill="url(#a)" d="M0 0h111.763v154.822H0z" opacity=".5"/>
+            <path fill="#FFF" d="M2 1h109v151H2z"/>
+            <path fill="#E0E0E0" d="M17 66h78v5H17zM17 78h78v5H17zM16 30h79v5H16zM16 18h79v5H16z"/>
+            <path fill="#EA0B4B" d="M16 42h65v5H16zM16 54h65v5H16z"/>
+            <path fill="#E0E0E0" d="M17 90h69v5H17zM17 102h59v5H17zM17 114h52v5H17zM16 126h67v5H16z"/>
+            <path fill="#EA0B4B" d="M17 138h26v5H17z"/>
+            <ellipse cx="24.02" cy="24.017" fill="url(#b)" opacity=".5" rx="23.828" ry="23.969" transform="translate(81 116)"/>
+            <circle cx="104.5" cy="140.5" r="22.5" fill="#EA0B4B"/>
+            <path fill="#FFF" d="M114.278 147.32c.481.557.722 1.17.722 1.839 0 .757-.29 1.42-.87 1.989-.58.568-1.23.852-1.952.852-.766 0-1.433-.334-2.001-1.003l-5.644-6.886-5.742 6.886c-.57.669-1.225 1.003-1.97 1.003-.721 0-1.372-.29-1.951-.87-.58-.578-.87-1.247-.87-2.005 0-.646.23-1.248.69-1.805l6.3-7.42-6.137-7.254c-.481-.58-.722-1.18-.722-1.805 0-.757.29-1.42.87-1.989.58-.568 1.241-.852 1.985-.852.766 0 1.433.334 2.001 1.003l5.546 6.685 5.512-6.685c.525-.669 1.17-1.003 1.936-1.003.744 0 1.406.284 1.985.852.58.569.87 1.232.87 1.99 0 .645-.23 1.247-.69 1.804l-6.135 7.254 6.267 7.42z"/>
+        </g>
+    </g>
+</svg>

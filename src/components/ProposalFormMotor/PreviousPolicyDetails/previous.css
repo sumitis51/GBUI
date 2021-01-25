@@ -1,0 +1,157 @@
+.previous-policy-detail-parent .step-details {
+  font-family: Nunito;
+  font-size: 10px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+  margin: 0;
+}
+
+.previous-policy-detail-parent .step-name {
+  font-family: Nunito;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+  margin: 0px;
+}
+
+.previous-policy-detail-parent .edit {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333333;
+  margin: 10px 0px 0px 0px;
+  cursor: pointer;
+}
+
+.previous-policy-detail-parent .form-personal-details .personal-details-heading {
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #9c0f46;
+  margin: 0;
+}
+
+.previous-policy-detail-parent .form-personal-details .step-detail-success {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0da176;
+  float: right;
+  margin-top: -20px;
+}
+
+.previous-policy-detail-parent .form-personal-details .prev-insurer-name {
+  margin-left: 6px;
+}
+
+.previous-policy-detail-parent .button-next {
+  text-align: center;
+}
+
+.previous-policy-detail-parent .previous-show-details .step-detail {
+  font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ea0b4b;
+  margin: 0;
+}
+
+.previous-policy-detail-parent .previous-show-details .personal-heading {
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  margin: 0;
+}
+
+.previous-policy-detail-parent .previous-show-details .edit {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ea0b4b;
+  margin-bottom: 0;
+}
+
+.previous-policy-detail-parent .previous-show-details .key-name {
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+}
+
+.previous-policy-detail-parent .previous-show-details .key-value {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+@media screen and (max-width: 767px) {
+  .previous-policy-detail-parent .previous-show-details table {
+    width: 100%;
+  }
+  .previous-policy-detail-parent .previous-show-details table tbody tr td:first-child {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #808080;
+    white-space: nowrap;
+    padding: 4px 0px;
+  }
+  .previous-policy-detail-parent .previous-show-details table tbody tr td:last-child {
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #000000;
+  }
+}
+/*# sourceMappingURL=previous.css.map */

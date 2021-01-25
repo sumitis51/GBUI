@@ -1,0 +1,18 @@
+{
+    "en":{
+        "AddedFamilyMemberFamilyMember":"Family Member",
+        "AddedFamilyMemberAddMembersButtonText":"Add Members",
+        "AddedFamilyMemberAddMembersDOB":"DOB",
+        "AddedFamilyMemberAddMembersAge":"Age",
+        "AddedFamilyMemberGetQuotesButtonText":"Get Quotes"
+
+    },
+    "mr":{
+        "AddedFamilyMemberFamilyMember":"कौटुंबिक सदस्य",
+        "AddedFamilyMemberAddMembersButtonText":"सदस्य जोडा",
+        "AddedFamilyMemberAddMembersDOB":"जन्मतारीख",
+        "AddedFamilyMemberAddMembersAge":"वय",
+        "AddedFamilyMemberGetQuotesButtonText":"कोट मिळवा"
+    }
+
+}

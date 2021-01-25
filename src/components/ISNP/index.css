@@ -1,0 +1,114 @@
+.isnp .mui-container-fluid {
+  padding: 0rem 1rem 0rem 1rem;
+  overflow-x: hidden;
+  text-align: right;
+  font-family: Nunito;
+}
+.isnp .mui-container-fluid .isnp-block {
+  width: 139px;
+  height: 27px;
+  color: #333333;
+  text-align: left;
+  margin: 5rem 2rem 0rem 0rem;
+  border-bottom: 1px solid #aaaaaa;
+  white-space: nowrap;
+  display: inline-block;
+}
+.isnp .mui-container-fluid .isnp-block .isnp-text {
+  font-size: 20px;
+}
+.isnp .mui-container-fluid .service {
+  width: 173px;
+  height: 40px;
+  display: inline-block;
+  margin: 0.5rem 0rem 0rem 0rem;
+  background-color: #f4f4f4;
+}
+.isnp .mui-container-fluid .service .service-text {
+  font-family: Nunito;
+  font-size: 16px;
+  color: #333333;
+  margin: 0.5rem 0.8rem 0rem 0rem;
+}
+.isnp .mui-container-fluid .service .procedure-text {
+  font-family: Nunito;
+  font-size: 16px;
+  color: #333333;
+  margin: 0.5rem 0.1rem 0rem 0rem;
+}
+.isnp .mui-container-fluid .procedure {
+  font-size: 16px;
+  color: #aaaaaa;
+  margin: 1rem 0rem 0rem 0rem;
+  white-space: nowrap;
+}
+.isnp .mui-container-fluid .main-column {
+  border-left: solid 4px #808080;
+  text-align: center;
+  padding-bottom: 5rem;
+}
+.isnp .mui-container-fluid .main-column .title-service-tat {
+  font-size: 36px;
+  text-align: center;
+  color: #000000;
+  display: inline-block;
+  margin-top: 3rem;
+}
+.isnp .mui-container-fluid .main-column .subtitle-service-tat {
+  font-size: 18px;
+  text-align: center;
+  color: #aaaaaa;
+}
+.isnp .mui-container-fluid .main-column .pre-sales-heading {
+  font-size: 20px;
+  font-weight: 600;
+  color: #ea0b4b;
+  text-align: left;
+  margin: 0.5rem 0rem;
+  text-decoration: underline;
+}
+.isnp .mui-container-fluid .main-column .filing-form-heading {
+  font-size: 16px;
+  font-weight: 600;
+  color: #ea0b4b;
+  text-align: left;
+  margin: 0.5rem 0rem;
+}
+.isnp .mui-container-fluid .main-column .procedure-text {
+  font-size: 16px;
+  line-height: 1.88;
+  color: #000000;
+  text-align: left;
+  margin: 0.5rem 0rem;
+}
+.isnp .mui-container-fluid .main-column .procedure-heading {
+  font-size: 16px;
+  line-height: 1.88;
+  color: #000000;
+  font-weight: 600;
+  text-align: left;
+}
+.isnp .mui-container-fluid .main-column .procedure-heading .procedure-heading-text {
+  font-size: 16px;
+  line-height: 1.88;
+  color: #000000;
+  text-align: left;
+  font-weight: normal;
+}
+@media screen and (max-width: 767px) {
+  .isnp .mui-container-fluid .main-column {
+    border: none;
+    padding-bottom: 0rem;
+  }
+  .isnp .mui-container-fluid .main-column .option {
+    margin-top: 3rem;
+  }
+  .isnp .mui-container-fluid .main-column .option .arrow {
+    padding-top: 0.2rem;
+    padding-right: 10rem;
+  }
+  .isnp .mui-container-fluid .main-column .title-service-tat {
+    margin-top: 1rem;
+    font-size: 20px;
+  }
+}
